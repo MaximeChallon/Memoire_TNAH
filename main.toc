@@ -1,0 +1,13 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Résumé}{iii}{chapter*.1}
+\contentsline {chapter}{Remerciements}{v}{chapter*.2}
+\contentsline {chapter}{Introduction}{ix}{chapter*.4}
+\contentsline {part}{I\hspace {1em}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990).}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Le référentiel comme clé}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}L'arbre, un vocabulaire contrôlé hiérarchique}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Les référentiels à l’INA}{7}{chapter.3}
+\contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010).}{9}{part.2}
+\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010).}{11}{part.3}
+\contentsline {chapter}{Conclusion}{13}{chapter*.5}
+\contentsline {part}{Annexes}{17}{part*.6}
+\contentsline {chapter}{Table des matières}{17}{appendix*.7}

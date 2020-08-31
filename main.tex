@@ -1,0 +1,120 @@
+%%%%%%%%%%%%%%%%%%%%%
+%%%%% PREAMBULE %%%%%
+%%%%%%%%%%%%%%%%%%%%%
+\documentclass[a4paper,12pt,twoside]{book}
+\usepackage{fontspec}
+
+%%%%% Index %%%%%
+%\usepackage{index}
+%\usepackage{imakeidx}%pour les index, à charger avant hyperref
+%\makeindex
+%\makeindex[name=lieux, title=Index des noms de lieux]%créer un index des lieux
+
+\usepackage[pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={les mots-clés}]{hyperref}
+\usepackage[french]{babel}
+\usepackage{morewrites}
+\usepackage{tocbibind} %paquet pour mettre index et bib dans la toc
+
+% configurer le document selon les normes de l'école
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\setlength\parindent{1cm}
+
+\usepackage{lettrine}
+
+%%%%% Dessin %%%%%
+%\usepackage{qtree}
+% avec un code comme ça pour un arbre de classification
+%\Tree[.IP [.NP [.Det \textit{the} ]
+%[.N\1 [.N \textit{package} ]]]
+%[.I\1 [.I \textsc{3sg.Pres} ]
+%[.VP [.V\1 [.V \textit{is} ]
+%[.AP [.Deg \textit{really} ]
+%[.A\1 [.A \textit{simple} ]
+%\qroof{\textit{to use}}.CP ]]]]]]
+\usepackage{tikz} %paquet pour dessiner ; à placer avant graphicx
+\usepackage{graphicx} %paquet image
+
+
+\usepackage{caption} %pour que la mention de figure n'apparaisse pas dans les légendes de l'image
+
+
+%%%%% Bibliographie %%%%%
+%\usepackage[backend=biber, sorting=nyt, style=enc, maxbibnames=3]{biblatex}
+%\addbibresource{biblio.bib}
+%\nocite{*}
+%\defbibnote{intro}{Cette bibliographie contient toutes les références utilisées pour ce cours} %pour des notes introductives dans le début de la biblio
+
+%%%%% Abréviations %%%%%
+\usepackage{acro}
+\DeclareAcronym{ina}{short = INA, long = Institut National de l'Audiovisuel}
+% apple par \ac{ina}
+
+
+%%%%% Nouvelles commandes %%%%%
+% \newcommand{\reference}[1]{\autoref{#1}: \nameref{#1}}
+
+%%%%% Nouveaux environnements %%%%%
+
+\author{Maxime Challon - M2 TNAH}
+\title{Les référentiels en institutions patrimoniales : évolution des pratiques et repositionnement. L’exemple des référentiels de l’Institut National de l’Audiovisuel.}
+
+%%%%%%%%%%%%%%%%%%%%
+%%%%% DOCUMENT %%%%%
+%%%%%%%%%%%%%%%%%%%%
+\begin{document}	
+	\frontmatter
+	\include{parties/frontmatter/page_titre}
+	
+	\include{parties/frontmatter/resume}
+	
+	\include{parties/frontmatter/remerciements}
+	
+	\chapter*{Liste des abréviations}
+	\addcontentsline{toc}{chapter}{Liste des abréviations}
+	\printacronyms[heading=none]
+	
+	\include{parties/mainmatter/introduction_generale}
+	
+	\mainmatter
+	
+	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
+	
+	\chapter{\label{I-A}Le référentiel comme clé}
+	\chapter{\label{I-B}L'arbre, un vocabulaire contrôlé hiérarchique}
+	\chapter{\label{I-C}Les référentiels à l’INA}
+	
+	\part{\label{relier}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}
+	
+	\chapter{\label{II-A}Le web de données: une exposition commune des référentiels}
+	\chapter{\label{II-B}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}
+	\chapter{\label{II-C}Relier ses données à Wikidata}
+	
+	\part{\label{centraliser}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}	
+	
+	\chapter{\label{III-A}Les labyrinthes comme réseaux de données et de liens}
+	\chapter{\label{III-B}Le Lac de données de l’INA : le référentiel au centre du modèle}
+	\chapter{\label{III-C}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}
+	
+	\include{parties/mainmatter/conclusion_generale}
+	
+	\include{parties/backmatter/annexes}
+	
+	\backmatter
+	
+	
+%bibliographie ici dans les normes de l'école
+%\printbibliography[title= Bibliographie sélective, prenote=intro]%postnote est aussi possible
+%\printbibliography[heading=subbibliography, keyword={semantique}, title={Sémantique}]%biblio sélective pour un mot clé donné
+
+% index à mettre ici si index	
+%	\printindex
+%\printindex[lieux]
+
+% si figures
+%	\listoffigures
+
+	\tableofcontents
+	
+\end{document}

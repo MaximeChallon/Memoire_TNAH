@@ -1,0 +1,30 @@
+\ifglsentryexists{ina}{}%
+{%
+\gls@defglossaryentry{ina}%
+{%
+name={INA},%
+sort={INA},%
+type={acronym},%
+first={Institut National de l'Audiovisuel\glsspace (INA)},%
+firstplural={Institut National de l'Audiovisuel\acrpluralsuffix \glsspace (INA\acrpluralsuffix )},%
+text={INA},%
+plural={INA\acrpluralsuffix },%
+description={Institut National de l'Audiovisuel},%
+descriptionplural={Institut National de l'Audiovisuel\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Institut National de l'Audiovisuel},%
+longplural={Institut National de l'Audiovisuel},%
+short={INA},%
+shortplural={INA},%
+counter={page},%
+parent={},%
+%
+}%
+}%
