@@ -42,18 +42,24 @@
 
 %%%%% Bibliographie %%%%%
 %\usepackage[backend=biber, sorting=nyt, style=enc, maxbibnames=3]{biblatex}
-%\addbibresource{biblio.bib}
+%\addbibresource{bibliographie/bib.bib}
 %\nocite{*}
 %\defbibnote{intro}{Cette bibliographie contient toutes les références utilisées pour ce cours} %pour des notes introductives dans le début de la biblio
 
 %%%%% Abréviations %%%%%
 \usepackage{acro}
 \DeclareAcronym{ina}{short = INA, long = Institut National de l'Audiovisuel}
-% apple par \ac{ina}
+% appel par \ac{ina}
 
 
 %%%%% Nouvelles commandes %%%%%
 % \newcommand{\reference}[1]{\autoref{#1}: \nameref{#1}}
+
+\newcommand{\chaptertoc}[1]{\chapter*{#1}
+	\addcontentsline{toc}{chapter}{#1}
+	\markboth{\slshape\MakeUppercase{#1}}{\slshape\MakeUppercase{#1}}}
+
+\newcommand{\titreEntete}[1]{\markboth{\slshape\MakeUppercase{#1}}{}}
 
 %%%%% Nouveaux environnements %%%%%
 
@@ -71,8 +77,7 @@
 	
 	\include{parties/frontmatter/remerciements}
 	
-	\chapter*{Liste des abréviations}
-	\addcontentsline{toc}{chapter}{Liste des abréviations}
+	\chaptertoc{Liste des abréviations}
 	\printacronyms[heading=none]
 	
 	\include{parties/mainmatter/introduction_generale}
@@ -82,21 +87,30 @@
 	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
 	
 	\chapter{\label{I-A}Le référentiel comme clé}
+	\titreEntete{Le référentiel comme clé}
 	\chapter{\label{I-B}L'arbre, un vocabulaire contrôlé hiérarchique}
+	\titreEntete{L'arbre, un vocabulaire contrôlé hiérarchique}
 	\chapter{\label{I-C}Les référentiels à l’INA}
+	\titreEntete{Les référentiels à l’INA}
 	
 	\part{\label{relier}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}
 	
 	\chapter{\label{II-A}Le web de données: une exposition commune des référentiels}
+	\titreEntete{Le web de données: une exposition commune des référentiels}
 	\chapter{\label{II-B}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}
+	\titreEntete{Les ontologies, grammaires communes mais spécifiques}
 	\chapter{\label{II-C}Relier ses données à Wikidata}
+	\titreEntete{Relier ses données à Wikidata}
 	
 	\part{\label{centraliser}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}	
 	
 	\chapter{\label{III-A}Les labyrinthes comme réseaux de données et de liens}
+	\titreEntete{Les labyrinthes comme réseaux de données et de liens}
 	\chapter{\label{III-B}Le Lac de données de l’INA : le référentiel au centre du modèle}
+	\titreEntete{Le référentiel au centre du modèle}
 	\chapter{\label{III-C}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}
-	
+	\titreEntete{Aligner deux référentiels de personnes physiques}
+
 	\include{parties/mainmatter/conclusion_generale}
 	
 	\include{parties/backmatter/annexes}
@@ -112,8 +126,7 @@
 %	\printindex
 %\printindex[lieux]
 
-% si figures
-%	\listoffigures
+	\listoffigures
 
 	\tableofcontents
 	
