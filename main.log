@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  31 AUG 2020 14:44
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  31 AUG 2020 15:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2021,10 +2021,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Acronyms may have changed. Please rerun LaTeX.
-
 )
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 133.
@@ -2039,7 +2035,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
 Here is how much of TeX's memory you used:
  33986 strings out of 493007
  690622 string characters out of 6136719
- 770195 words of memory out of 5000000
+ 771189 words of memory out of 5000000
  37479 multiletter control sequences out of 15000+600000
  530752 words of font info for 38 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
