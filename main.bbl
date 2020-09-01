@@ -1,0 +1,89 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{noauthor_loi_1974}{book}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{title}{Loi n°74-696 du 7 août 1974 {RELATIVE} A {LA} {RADIODIFFUSION} {ET} {TELEVISION}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000333539&pageCourante=08355
+      \endverb
+      \verb{url}
+      \verb https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000333539&pageCourante=08355
+      \endverb
+    \endentry
+    \entry{naude_advis_1627}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=86bcda1d4e86aa180cad840cf9d8cf46}{%
+           family={Naudé},
+           familyi={N\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \strng{fullhash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \strng{bibnamehash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \strng{authorbibnamehash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \strng{authornamehash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \strng{authorfullhash}{86bcda1d4e86aa180cad840cf9d8cf46}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Chez François Targa, au premier pillier de la grand'salle du Palais, devant les Consultations}
+      \field{pagetotal}{167}
+      \field{shorttitle}{Advis pour dresser une bibliotheque}
+      \field{title}{Advis pour dresser une bibliotheque. Tome 1 / . Presenté à monseigneur le president de Mesme. Par G. Naudé P....}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{1}
+      \field{year}{1627}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/BNPF67UB/f47.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
+      \endverb
+      \verb{url}
+      \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

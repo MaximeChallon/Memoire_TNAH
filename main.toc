@@ -1,20 +1,46 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
 \babel@toc {french}{}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Résumé}{iii}{chapter*.1}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Remerciements}{v}{chapter*.2}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Liste des abréviations}{vii}{chapter*.3}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Introduction}{ix}{chapter*.4}
+\defcounter {refsection}{0}\relax
 \contentsline {part}{I\hspace {1em}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}{1}{part.1}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {1}Le référentiel comme clé}{3}{chapter.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.1}Du langage libre au langage contrôlé: vers l'indexation}{3}{section.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.2}Une clé entre les données: une terminologie maîtrisée, objectif des vocabulaires contrôlés}{3}{section.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.3}Une clé entre les jeux de données: l'interopérabilité par les fichiers d'autorité et les portails}{3}{section.1.3}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {2}L'arbre, un vocabulaire contrôlé hiérarchique}{5}{chapter.2}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {3}Les référentiels à l’INA}{7}{chapter.3}
+\defcounter {refsection}{0}\relax
 \contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{9}{part.2}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{11}{chapter.4}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{13}{chapter.5}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{15}{chapter.6}
+\defcounter {refsection}{0}\relax
 \contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{17}{part.3}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{19}{chapter.7}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{21}{chapter.8}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{23}{chapter.9}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Conclusion}{25}{chapter*.5}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Table des figures}{29}{appendix*.7}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{Table des matières}{31}{appendix*.8}

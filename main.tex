@@ -5,10 +5,11 @@
 \usepackage{fontspec}
 
 %%%%% Index %%%%%
-%\usepackage{index}
-%\usepackage{imakeidx}%pour les index, à charger avant hyperref
-%\makeindex
-%\makeindex[name=lieux, title=Index des noms de lieux]%créer un index des lieux
+\usepackage{index}
+\usepackage{imakeidx}%pour les index, à charger avant hyperref
+\makeindex
+\makeindex[name=referentiels, title=Index des noms de référentiels]
+\makeindex[name=ina, title=Index des termes concernant l'Institut national de l'Audiovisuel]
 
 \usepackage[pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={institut national de l'audiovisuel; référentiel; thésaurus; vocabulaire contrôlé; vocabulaire hiérarchique; ontologie; web de données; Wikidata; liens; alignement}]{hyperref}
 \usepackage[french]{babel}
@@ -41,15 +42,20 @@
 
 
 %%%%% Bibliographie %%%%%
-%\usepackage[backend=biber, sorting=nyt, style=enc, maxbibnames=3]{biblatex}
-%\addbibresource{bibliographie/bib.bib}
-%\nocite{*}
+\usepackage[backend=biber, sorting=nyt, style=enc, maxbibnames=3]{biblatex}
+\addbibresource{bibliographie/bib.bib}
+\nocite{*}
 %\defbibnote{intro}{Cette bibliographie contient toutes les références utilisées pour ce cours} %pour des notes introductives dans le début de la biblio
 
 %%%%% Abréviations %%%%%
 \usepackage{acro}
-\DeclareAcronym{ina}{short = INA, long = Institut National de l'Audiovisuel}
-% appel par \ac{ina}
+\DeclareAcronym{ddcol}{short = DDCOL, long = Direction déléguée aux collections}
+\DeclareAcronym{dj}{short = DJ, long = Direction juridique}
+\DeclareAcronym{dsi}{short = DSI, long = Direction des systèmes d'information}
+\DeclareAcronym{epic}{short = ÉPIC, long = Établissement public à caractère industriel et commercial}
+\DeclareAcronym{ina}{short = INA, long = Institut national de l'Audiovisuel}
+\DeclareAcronym{isan}{short = ISAN, long = \textit{International Standard Audiovisual Number}}
+\DeclareAcronym{ortf}{short = ORTF, long = Office de la radio-télévision française}
 
 
 %%%%% Nouvelles commandes %%%%%
@@ -61,10 +67,13 @@
 
 \newcommand{\titreEntete}[1]{\markboth{\slshape\MakeUppercase{#1}}{}}
 
+\newcommand{\nP}[2]{#1 \textsc{#2}}
+
 %%%%% Nouveaux environnements %%%%%
+\newenvironment{citationLongue}{\begin{quotation}\og}{\fg{}\end{quotation}}
 
 \author{Maxime Challon - M2 TNAH}
-\title{Les référentiels en institutions patrimoniales : évolution des pratiques et repositionnement. L’exemple des référentiels de l’Institut National de l’Audiovisuel.}
+\title{Les référentiels en institutions patrimoniales : évolution des pratiques et repositionnement. L’exemple des référentiels de l’Institut national de l’Audiovisuel.}
 
 %%%%%%%%%%%%%%%%%%%%
 %%%%% DOCUMENT %%%%%
@@ -86,8 +95,8 @@
 	
 	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
 	
-	\chapter{\label{I-A}Le référentiel comme clé}
-	\titreEntete{Le référentiel comme clé}
+	\include{parties/mainmatter/I/A/I-A}
+	
 	\chapter{\label{I-B}L'arbre, un vocabulaire contrôlé hiérarchique}
 	\titreEntete{L'arbre, un vocabulaire contrôlé hiérarchique}
 	\chapter{\label{I-C}Les référentiels à l’INA}
