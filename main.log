@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  2 SEP 2020 14:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  2 SEP 2020 17:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -736,6 +736,138 @@ File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 
 Loading lettrine.cfg
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/qtree/qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: xetex.def on input line 119.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 121.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-xetex.def
+File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks19
+\@arclen=\dimen177
+\@arcrad=\dimen178
+\@tempdimd=\dimen179
+)
+\c@treecount=\count291
+\c@branchcount=\count292
+\parentbox=\box72
+\treebox=\box73
+\treeboxone=\box74
+\treeboxtwo=\box75
+\treeboxthree=\box76
+\treeboxfour=\box77
+\treeboxfive=\box78
+\treeboxsix=\box79
+\treeboxseven=\box80
+\treeboxeight=\box81
+\treeboxnine=\box82
+\treeboxten=\box83
+\treeboxeleven=\box84
+\treeboxtwelve=\box85
+\treeboxthirteen=\box86
+\treeboxfourteen=\box87
+\treeboxfifteen=\box88
+\treeboxsixteen=\box89
+\treeboxseventeen=\box90
+\treeboxeighteen=\box91
+\treeboxnineteen=\box92
+\treeboxtwenty=\box93
+\treeoffsetone=\skip57
+\treeoffsettwo=\skip58
+\treeoffsetthree=\skip59
+\treeoffsetfour=\skip60
+\treeoffsetfive=\skip61
+\treeoffsetsix=\skip62
+\treeoffsetseven=\skip63
+\treeoffseteight=\skip64
+\treeoffsetnine=\skip65
+\treeoffsetten=\skip66
+\treeoffseteleven=\skip67
+\treeoffsettwelve=\skip68
+\treeoffsetthirteen=\skip69
+\treeoffsetfourteen=\skip70
+\treeoffsetfifteen=\skip71
+\treeoffsetsixteen=\skip72
+\treeoffsetseventeen=\skip73
+\treeoffseteighteen=\skip74
+\treeoffsetnineteen=\skip75
+\treeoffsettwenty=\skip76
+\treeshiftone=\skip77
+\treeshifttwo=\skip78
+\treeshiftthree=\skip79
+\treeshiftfour=\skip80
+\treeshiftfive=\skip81
+\treeshiftsix=\skip82
+\treeshiftseven=\skip83
+\treeshifteight=\skip84
+\treeshiftnine=\skip85
+\treeshiftten=\skip86
+\treeshifteleven=\skip87
+\treeshifttwelve=\skip88
+\treeshiftthirteen=\skip89
+\treeshiftfourteen=\skip90
+\treeshiftfifteen=\skip91
+\treeshiftsixteen=\skip92
+\treeshiftseventeen=\skip93
+\treeshifteighteen=\skip94
+\treeshiftnineteen=\skip95
+\treeshifttwenty=\skip96
+\treewidthone=\skip97
+\treewidthtwo=\skip98
+\treewidththree=\skip99
+\treewidthfour=\skip100
+\treewidthfive=\skip101
+\treewidthsix=\skip102
+\treewidthseven=\skip103
+\treewidtheight=\skip104
+\treewidthnine=\skip105
+\treewidthten=\skip106
+\treewidtheleven=\skip107
+\treewidthtwelve=\skip108
+\treewidththirteen=\skip109
+\treewidthfourteen=\skip110
+\treewidthfifteen=\skip111
+\treewidthsixteen=\skip112
+\treewidthseventeen=\skip113
+\treewidtheighteen=\skip114
+\treewidthnineteen=\skip115
+\treewidthtwenty=\skip116
+\daughteroffsetone=\skip117
+\daughteroffsettwo=\skip118
+\daughteroffsetthree=\skip119
+\daughteroffsetfour=\skip120
+\branchwidthone=\skip121
+\branchwidthtwo=\skip122
+\branchwidththree=\skip123
+\branchwidthfour=\skip124
+\parentoffset=\skip125
+\treeoffset=\skip126
+\daughteroffset=\skip127
+\branchwidth=\skip128
+\parentwidth=\skip129
+\treewidth=\skip130
+\qta=\toks20
+\qtb=\toks21
+\nbranches=\count293
+\qroofx=\count294
+\qroofy=\count295
+\@qrscratchbox=\box94
+)
 (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
 Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
 
@@ -754,10 +886,6 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
-)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
@@ -773,55 +901,55 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count291
-\pstFP@xia=\count292
-\pstFP@xib=\count293
-\pstFP@xfa=\count294
-\pstFP@xfb=\count295
-\pstFP@rega=\count296
-\pstFP@regb=\count297
-\pstFP@regs=\count298
-\pstFP@times=\count299
+\pstFP@xs=\count296
+\pstFP@xia=\count297
+\pstFP@xib=\count298
+\pstFP@xfa=\count299
+\pstFP@xfb=\count300
+\pstFP@rega=\count301
+\pstFP@regb=\count302
+\pstFP@regs=\count303
+\pstFP@times=\count304
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen177
-\pgfutil@tempdimb=\dimen178
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks22
+\pgfkeys@tmptoks=\toks25
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen179
-\pgf@xa=\dimen180
-\pgf@xb=\dimen181
-\pgf@xc=\dimen182
-\pgf@y=\dimen183
-\pgf@ya=\dimen184
-\pgf@yb=\dimen185
-\pgf@yc=\dimen186
-\c@pgf@counta=\count300
-\c@pgf@countb=\count301
-\c@pgf@countc=\count302
-\c@pgf@countd=\count303
-\pgfutil@tempcnta=\count304
-\pgfutil@tempcntb=\count305
+\pgf@x=\dimen182
+\pgf@xa=\dimen183
+\pgf@xb=\dimen184
+\pgf@xc=\dimen185
+\pgf@y=\dimen186
+\pgf@ya=\dimen187
+\pgf@yb=\dimen188
+\pgf@yc=\dimen189
+\c@pgf@counta=\count305
+\c@pgf@countb=\count306
+\c@pgf@countc=\count307
+\c@pgf@countd=\count308
+\pgfutil@tempcnta=\count309
+\pgfutil@tempcntb=\count310
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen187
-\pgfmath@count=\count306
-\pgfmath@box=\box72
-\pgfmath@toks=\toks23
-\pgfmath@stack@operand=\toks24
-\pgfmath@stack@operation=\toks25
+\pgfmath@dimen=\dimen190
+\pgfmath@count=\count311
+\pgfmath@box=\box95
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -841,61 +969,61 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count307
+\c@pgfmathroundto@lastzeros=\count312
 ))
-\pgffor@iter=\dimen188
-\pgffor@skip=\dimen189
-\pgffor@stack=\toks26
-\pgffor@toks=\toks27
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
 )
-\psLoopIndex=\count308
+\psLoopIndex=\count313
 
 `PSTricks' v2.82  <2018/01/06> (tvz,hv)
-\pst@dima=\dimen190
-\pst@dimb=\dimen191
-\pst@dimc=\dimen192
-\pst@dimd=\dimen193
-\pst@dimg=\dimen194
-\pst@dimh=\dimen195
-\pst@dimm=\dimen196
-\pst@dimn=\dimen197
-\pst@dimo=\dimen198
-\pst@dimp=\dimen256
-\pst@hbox=\box73
-\pst@ibox=\box74
-\pst@boxg=\box75
-\pst@cnta=\count309
-\pst@cntb=\count310
-\pst@cntc=\count311
-\pst@cntd=\count312
-\pst@cntg=\count313
-\pst@cnth=\count314
-\pst@cntm=\count315
-\pst@cntn=\count316
-\pst@cnto=\count317
-\pst@cntp=\count318
-\@zero=\count319
-\pst@toks=\toks28
+\pst@dima=\dimen193
+\pst@dimb=\dimen194
+\pst@dimc=\dimen195
+\pst@dimd=\dimen196
+\pst@dimg=\dimen197
+\pst@dimh=\dimen198
+\pst@dimm=\dimen256
+\pst@dimn=\dimen257
+\pst@dimo=\dimen258
+\pst@dimp=\dimen259
+\pst@hbox=\box96
+\pst@ibox=\box97
+\pst@boxg=\box98
+\pst@cnta=\count314
+\pst@cntb=\count315
+\pst@cntc=\count316
+\pst@cntd=\count317
+\pst@cntg=\count318
+\pst@cnth=\count319
+\pst@cntm=\count320
+\pst@cntn=\count321
+\pst@cnto=\count322
+\pst@cntp=\count323
+\@zero=\count324
+\pst@toks=\toks31
 (/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
-\psunit=\dimen257
-\psxunit=\dimen258
-\psyunit=\dimen259
-\pst@C@@rType=\count320
-\pslinewidth=\dimen260
-\psk@startLW=\dimen261
-\psk@endLW=\dimen262
-\pst@customdefs=\toks29
-\pslinearc=\dimen263
-\pst@symbolStep=\dimen264
-\pst@symbolWidth=\dimen265
-\pst@symbolLinewidth=\dimen266
-\everypsbox=\toks30
-\psframesep=\dimen267
-\pslabelsep=\dimen268
-\sh@wgridXunit=\dimen269
-\sh@wgridYunit=\dimen270
-\pst@shift=\dimen271
+\psunit=\dimen260
+\psxunit=\dimen261
+\psyunit=\dimen262
+\pst@C@@rType=\count325
+\pslinewidth=\dimen263
+\psk@startLW=\dimen264
+\psk@endLW=\dimen265
+\pst@customdefs=\toks32
+\pslinearc=\dimen266
+\pst@symbolStep=\dimen267
+\pst@symbolWidth=\dimen268
+\pst@symbolLinewidth=\dimen269
+\everypsbox=\toks33
+\psframesep=\dimen270
+\pslabelsep=\dimen271
+\sh@wgridXunit=\dimen272
+\sh@wgridYunit=\dimen273
+\pst@shift=\dimen274
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
@@ -909,13 +1037,13 @@ File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen272
-\pgfutil@tempdimb=\dimen273
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen275
+\pgfutil@tempdimb=\dimen276
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box76
+\pgfutil@abb=\box99
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -931,39 +1059,36 @@ Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
 )
-\Gin@req@height=\dimen274
-\Gin@req@width=\dimen275
+\Gin@req@height=\dimen277
+\Gin@req@width=\dimen278
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-\pgf@x=\dimen276
-\pgf@y=\dimen277
-\pgf@xa=\dimen278
-\pgf@ya=\dimen279
-\pgf@xb=\dimen280
-\pgf@yb=\dimen281
-\pgf@xc=\dimen282
-\pgf@yc=\dimen283
+\pgf@x=\dimen279
+\pgf@y=\dimen280
+\pgf@xa=\dimen281
+\pgf@ya=\dimen282
+\pgf@xb=\dimen283
+\pgf@yb=\dimen284
+\pgf@xc=\dimen285
+\pgf@yc=\dimen286
 \w@pgf@writea=\write19
 \r@pgf@reada=\read3
-\c@pgf@counta=\count321
-\c@pgf@countb=\count322
-\c@pgf@countc=\count323
-\c@pgf@countd=\count324
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
+\c@pgf@counta=\count326
+\c@pgf@countb=\count327
+\c@pgf@countc=\count328
+\c@pgf@countd=\count329
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -980,13 +1105,13 @@ File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 f
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
-\pgfsys@objnum=\count325
+\pgfsys@objnum=\count330
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count326
-\pgfsyssoftpath@bigbuffer@items=\count327
+\pgfsyssoftpath@smallbuffer@items=\count331
+\pgfsyssoftpath@bigbuffer@items=\count332
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -999,52 +1124,52 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen284
-\pgf@picmaxx=\dimen285
-\pgf@picminy=\dimen286
-\pgf@picmaxy=\dimen287
-\pgf@pathminx=\dimen288
-\pgf@pathmaxx=\dimen289
-\pgf@pathminy=\dimen290
-\pgf@pathmaxy=\dimen291
-\pgf@xx=\dimen292
-\pgf@xy=\dimen293
-\pgf@yx=\dimen294
-\pgf@yy=\dimen295
-\pgf@zx=\dimen296
-\pgf@zy=\dimen297
+\pgf@picminx=\dimen287
+\pgf@picmaxx=\dimen288
+\pgf@picminy=\dimen289
+\pgf@picmaxy=\dimen290
+\pgf@pathminx=\dimen291
+\pgf@pathmaxx=\dimen292
+\pgf@pathminy=\dimen293
+\pgf@pathmaxy=\dimen294
+\pgf@xx=\dimen295
+\pgf@xy=\dimen296
+\pgf@yx=\dimen297
+\pgf@yy=\dimen298
+\pgf@zx=\dimen299
+\pgf@zy=\dimen300
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen298
-\pgf@path@lasty=\dimen299
+\pgf@path@lastx=\dimen301
+\pgf@path@lasty=\dimen302
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen300
-\pgf@shorten@start@additional=\dimen301
+\pgf@shorten@end@additional=\dimen303
+\pgf@shorten@start@additional=\dimen304
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box77
-\pgf@hbox=\box78
-\pgf@layerbox@main=\box79
-\pgf@picture@serial@count=\count328
+\pgfpic=\box100
+\pgf@hbox=\box101
+\pgf@layerbox@main=\box102
+\pgf@picture@serial@count=\count333
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen302
+\pgflinewidth=\dimen305
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen303
-\pgf@pt@y=\dimen304
-\pgf@pt@temp=\dimen305
+\pgf@pt@x=\dimen306
+\pgf@pt@y=\dimen307
+\pgf@pt@temp=\dimen308
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
@@ -1060,12 +1185,12 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen306
+\pgfarrowsep=\dimen309
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen307
-\pgf@sys@shading@range@num=\count329
+\pgf@max=\dimen310
+\pgf@sys@shading@range@num=\count334
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1073,7 +1198,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box80
+\pgfexternal@startupbox=\box103
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
@@ -1089,15 +1214,15 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box81
+\pgfnodeparttextbox=\box104
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen308
-\pgf@nodesepend=\dimen309
+\pgf@nodesepstart=\dimen311
+\pgf@nodesepend=\dimen312
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -1111,10 +1236,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen310
-\pgffor@skip=\dimen311
-\pgffor@stack=\toks35
-\pgffor@toks=\toks36
+\pgffor@iter=\dimen313
+\pgffor@skip=\dimen314
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
@@ -1122,31 +1247,31 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count330
-\pgfplotmarksize=\dimen312
+\pgf@plot@mark@count=\count335
+\pgfplotmarksize=\dimen315
 )
-\tikz@lastx=\dimen313
-\tikz@lasty=\dimen314
-\tikz@lastxsaved=\dimen315
-\tikz@lastysaved=\dimen316
-\tikzleveldistance=\dimen317
-\tikzsiblingdistance=\dimen318
-\tikz@figbox=\box82
-\tikz@figbox@bg=\box83
-\tikz@tempbox=\box84
-\tikz@tempbox@bg=\box85
-\tikztreelevel=\count331
-\tikznumberofchildren=\count332
-\tikznumberofcurrentchild=\count333
-\tikz@fig@count=\count334
+\tikz@lastx=\dimen316
+\tikz@lasty=\dimen317
+\tikz@lastxsaved=\dimen318
+\tikz@lastysaved=\dimen319
+\tikzleveldistance=\dimen320
+\tikzsiblingdistance=\dimen321
+\tikz@figbox=\box105
+\tikz@figbox@bg=\box106
+\tikz@tempbox=\box107
+\tikz@tempbox@bg=\box108
+\tikztreelevel=\count336
+\tikznumberofchildren=\count337
+\tikznumberofcurrentchild=\count338
+\tikz@fig@count=\count339
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count335
-\pgfmatrixcurrentcolumn=\count336
-\pgf@matrix@numberofcolumns=\count337
+\pgfmatrixcurrentrow=\count340
+\pgfmatrixcurrentcolumn=\count341
+\pgf@matrix@numberofcolumns=\count342
 )
-\tikz@expandcount=\count338
+\tikz@expandcount=\count343
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1158,15 +1283,15 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen319
-\captionmargin@=\dimen320
-\captionwidth=\dimen321
-\caption@tempdima=\dimen322
-\caption@indent=\dimen323
-\caption@parindent=\dimen324
-\caption@hangindent=\dimen325
+\captionmargin=\dimen322
+\captionmargin@=\dimen323
+\captionwidth=\dimen324
+\caption@tempdima=\dimen325
+\caption@indent=\dimen326
+\caption@parindent=\dimen327
+\caption@hangindent=\dimen328
 )
-\c@ContinuedFloat=\count339
+\c@ContinuedFloat=\count344
 Package caption Info: hyperref package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -1174,11 +1299,11 @@ Package: biblatex 2017/12/19 v3.10 programmable bibliographies (PK/JW/AB)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count340
+\etb@tempcnta=\count345
 )
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count341
+\lrq@indent=\count346
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -1189,62 +1314,62 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write20
-\integerpart=\count342
-\decimalpart=\count343
+\integerpart=\count347
+\decimalpart=\count348
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count344
-\c@listtotal=\count345
-\c@listcount=\count346
-\c@liststart=\count347
-\c@liststop=\count348
-\c@citecount=\count349
-\c@citetotal=\count350
-\c@multicitecount=\count351
-\c@multicitetotal=\count352
-\c@instcount=\count353
-\c@maxnames=\count354
-\c@minnames=\count355
-\c@maxitems=\count356
-\c@minitems=\count357
-\c@citecounter=\count358
-\c@savedcitecounter=\count359
-\c@uniquelist=\count360
-\c@uniquename=\count361
-\c@refsection=\count362
-\c@refsegment=\count363
-\c@maxextratitle=\count364
-\c@maxextratitleyear=\count365
-\c@maxextradate=\count366
-\c@maxextraalpha=\count367
-\c@abbrvpenalty=\count368
-\c@highnamepenalty=\count369
-\c@lownamepenalty=\count370
-\c@maxparens=\count371
-\c@parenlevel=\count372
-\blx@tempcnta=\count373
-\blx@tempcntb=\count374
-\blx@tempcntc=\count375
-\blx@maxsection=\count376
-\blx@maxsegment@0=\count377
-\blx@notetype=\count378
-\blx@parenlevel@text=\count379
-\blx@parenlevel@foot=\count380
-\blx@sectionciteorder@0=\count381
-\labelnumberwidth=\skip57
-\labelalphawidth=\skip58
-\biblabelsep=\skip59
-\bibitemsep=\skip60
-\bibnamesep=\skip61
-\bibinitsep=\skip62
-\bibparsep=\skip63
-\bibhang=\skip64
+\c@tabx@nest=\count349
+\c@listtotal=\count350
+\c@listcount=\count351
+\c@liststart=\count352
+\c@liststop=\count353
+\c@citecount=\count354
+\c@citetotal=\count355
+\c@multicitecount=\count356
+\c@multicitetotal=\count357
+\c@instcount=\count358
+\c@maxnames=\count359
+\c@minnames=\count360
+\c@maxitems=\count361
+\c@minitems=\count362
+\c@citecounter=\count363
+\c@savedcitecounter=\count364
+\c@uniquelist=\count365
+\c@uniquename=\count366
+\c@refsection=\count367
+\c@refsegment=\count368
+\c@maxextratitle=\count369
+\c@maxextratitleyear=\count370
+\c@maxextradate=\count371
+\c@maxextraalpha=\count372
+\c@abbrvpenalty=\count373
+\c@highnamepenalty=\count374
+\c@lownamepenalty=\count375
+\c@maxparens=\count376
+\c@parenlevel=\count377
+\blx@tempcnta=\count378
+\blx@tempcntb=\count379
+\blx@tempcntc=\count380
+\blx@maxsection=\count381
+\blx@maxsegment@0=\count382
+\blx@notetype=\count383
+\blx@parenlevel@text=\count384
+\blx@parenlevel@foot=\count385
+\blx@sectionciteorder@0=\count386
+\labelnumberwidth=\skip131
+\labelalphawidth=\skip132
+\biblabelsep=\skip133
+\bibitemsep=\skip134
+\bibnamesep=\skip135
+\bibinitsep=\skip136
+\bibparsep=\skip137
+\bibhang=\skip138
 \blx@bcfin=\read4
 \blx@bcfout=\write21
-\c@mincomprange=\count382
-\c@maxcomprange=\count383
-\c@mincompwidth=\count384
+\c@mincomprange=\count387
+\c@maxcomprange=\count388
+\c@mincompwidth=\count389
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1253,80 +1378,80 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'enc.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count385
-\c@savedafterword=\count386
-\c@annotator=\count387
-\c@savedannotator=\count388
-\c@author=\count389
-\c@savedauthor=\count390
-\c@bookauthor=\count391
-\c@savedbookauthor=\count392
-\c@commentator=\count393
-\c@savedcommentator=\count394
-\c@editor=\count395
-\c@savededitor=\count396
-\c@editora=\count397
-\c@savededitora=\count398
-\c@editorb=\count399
-\c@savededitorb=\count400
-\c@editorc=\count401
-\c@savededitorc=\count402
-\c@foreword=\count403
-\c@savedforeword=\count404
-\c@holder=\count405
-\c@savedholder=\count406
-\c@introduction=\count407
-\c@savedintroduction=\count408
-\c@namea=\count409
-\c@savednamea=\count410
-\c@nameb=\count411
-\c@savednameb=\count412
-\c@namec=\count413
-\c@savednamec=\count414
-\c@translator=\count415
-\c@savedtranslator=\count416
-\c@shortauthor=\count417
-\c@savedshortauthor=\count418
-\c@shorteditor=\count419
-\c@savedshorteditor=\count420
-\c@labelname=\count421
-\c@savedlabelname=\count422
-\c@institution=\count423
-\c@savedinstitution=\count424
-\c@lista=\count425
-\c@savedlista=\count426
-\c@listb=\count427
-\c@savedlistb=\count428
-\c@listc=\count429
-\c@savedlistc=\count430
-\c@listd=\count431
-\c@savedlistd=\count432
-\c@liste=\count433
-\c@savedliste=\count434
-\c@listf=\count435
-\c@savedlistf=\count436
-\c@location=\count437
-\c@savedlocation=\count438
-\c@organization=\count439
-\c@savedorganization=\count440
-\c@origlocation=\count441
-\c@savedoriglocation=\count442
-\c@origpublisher=\count443
-\c@savedorigpublisher=\count444
-\c@publisher=\count445
-\c@savedpublisher=\count446
-\c@language=\count447
-\c@savedlanguage=\count448
-\c@origlanguage=\count449
-\c@savedoriglanguage=\count450
-\c@pageref=\count451
-\c@savedpageref=\count452
-\shorthandwidth=\skip65
-\shortjournalwidth=\skip66
-\shortserieswidth=\skip67
-\shorttitlewidth=\skip68
-\shortauthorwidth=\skip69
-\shorteditorwidth=\skip70
+\c@afterword=\count390
+\c@savedafterword=\count391
+\c@annotator=\count392
+\c@savedannotator=\count393
+\c@author=\count394
+\c@savedauthor=\count395
+\c@bookauthor=\count396
+\c@savedbookauthor=\count397
+\c@commentator=\count398
+\c@savedcommentator=\count399
+\c@editor=\count400
+\c@savededitor=\count401
+\c@editora=\count402
+\c@savededitora=\count403
+\c@editorb=\count404
+\c@savededitorb=\count405
+\c@editorc=\count406
+\c@savededitorc=\count407
+\c@foreword=\count408
+\c@savedforeword=\count409
+\c@holder=\count410
+\c@savedholder=\count411
+\c@introduction=\count412
+\c@savedintroduction=\count413
+\c@namea=\count414
+\c@savednamea=\count415
+\c@nameb=\count416
+\c@savednameb=\count417
+\c@namec=\count418
+\c@savednamec=\count419
+\c@translator=\count420
+\c@savedtranslator=\count421
+\c@shortauthor=\count422
+\c@savedshortauthor=\count423
+\c@shorteditor=\count424
+\c@savedshorteditor=\count425
+\c@labelname=\count426
+\c@savedlabelname=\count427
+\c@institution=\count428
+\c@savedinstitution=\count429
+\c@lista=\count430
+\c@savedlista=\count431
+\c@listb=\count432
+\c@savedlistb=\count433
+\c@listc=\count434
+\c@savedlistc=\count435
+\c@listd=\count436
+\c@savedlistd=\count437
+\c@liste=\count438
+\c@savedliste=\count439
+\c@listf=\count440
+\c@savedlistf=\count441
+\c@location=\count442
+\c@savedlocation=\count443
+\c@organization=\count444
+\c@savedorganization=\count445
+\c@origlocation=\count446
+\c@savedoriglocation=\count447
+\c@origpublisher=\count448
+\c@savedorigpublisher=\count449
+\c@publisher=\count450
+\c@savedpublisher=\count451
+\c@language=\count452
+\c@savedlanguage=\count453
+\c@origlanguage=\count454
+\c@savedoriglanguage=\count455
+\c@pageref=\count456
+\c@savedpageref=\count457
+\shorthandwidth=\skip139
+\shortjournalwidth=\skip140
+\shortserieswidth=\skip141
+\shorttitlewidth=\skip142
+\shortauthorwidth=\skip143
+\shorteditorwidth=\skip144
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1342,13 +1467,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2017/12/19 v3.10 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count453
-\c@textcitetotal=\count454
-\c@textcitemaxnames=\count455
-\c@biburlnumpenalty=\count456
-\c@biburlucpenalty=\count457
-\c@biburllcpenalty=\count458
-\c@smartand=\count459
+\c@textcitecount=\count458
+\c@textcitetotal=\count459
+\c@textcitemaxnames=\count460
+\c@biburlnumpenalty=\count461
+\c@biburlucpenalty=\count462
+\c@biburllcpenalty=\count463
+\c@smartand=\count464
 )
 Package biblatex Info: Trying to load bibliography style 'enc'...
 Package biblatex Info: ... file 'enc.bbx' found.
@@ -1378,18 +1503,18 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen326
-\l__xtemplate_tmp_int=\count460
+\l__xtemplate_tmp_dim=\dimen329
+\l__xtemplate_tmp_int=\count465
 \l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip71
+\l__xtemplate_tmp_skip=\skip145
 )
 Package: acro 2017/01/30 v2.8 Typeset Acronyms
-\l__acro_tmpa_int=\count461
-\l__acro_tmpb_int=\count462
-\l__acro_tmpc_int=\count463
-\l__acro_tmpd_int=\count464
-\l__acro_page_space_skip=\skip72
-\l__acro_short_width_dim=\dimen327
+\l__acro_tmpa_int=\count466
+\l__acro_tmpb_int=\count467
+\l__acro_tmpc_int=\count468
+\l__acro_tmpd_int=\count469
+\l__acro_page_space_skip=\skip146
+\l__acro_short_width_dim=\dimen330
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1435,7 +1560,7 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count465
+\c@abspage=\count470
 Package zref Info: New property: abspage on input line 62.
 )
 .................................................
@@ -1513,7 +1638,7 @@ Package zref Info: New property: abspage on input line 62.
 . 
 . Defining command \acuse with sig. '>{\SplitList {,}}m' on line 3151.
 .................................................
-\g__acro_barrier_int=\count466
+\g__acro_barrier_int=\count471
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1734,34 +1859,35 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count467
-\@quotereset=\count468
+\@quotelevel=\count472
+\@quotereset=\count473
 (./main.aux (./parties/frontmatter/page_titre.aux)
 (./parties/frontmatter/resume.aux) (./parties/frontmatter/remerciements.aux)
 (./parties/mainmatter/introduction_generale.aux)
-(./parties/mainmatter/I/A/I-A.aux)
+(./parties/mainmatter/I/A/I-A.aux) (./parties/mainmatter/I/B/I-B.aux)
+(./parties/mainmatter/I/C/I-C.aux)
 (./parties/mainmatter/conclusion_generale.aux)
 (./parties/backmatter/annexes.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1769,59 +1895,59 @@ LaTeX Font Info:    ... okay on input line 89.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 89.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 89.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 89.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 89.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 89.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 89.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 89.
-LaTeX Font Info:    Redeclaring math accent \check on input line 89.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 89.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 89.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 89.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 89.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 81.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 81.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 81.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 81.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 81.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 81.
+LaTeX Font Info:    Redeclaring math accent \check on input line 81.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 81.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 81.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 81.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 81.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 89.
+(Font)              `operators' in the math version `normal' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 89.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 81.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 89.
+(Font)              `operators' in the math version `bold' on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 89.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 89.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 89.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 89.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 89.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 89.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 89.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 89.
-\AtBeginShipoutBox=\box86
-Package hyperref Info: Link coloring OFF on input line 89.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 81.
+\AtBeginShipoutBox=\box109
+Package hyperref Info: Link coloring OFF on input line 81.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1829,18 +1955,18 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count469
+\c@section@level=\count474
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
 
 (./main.out) (./main.out)
 \@outlinefile=\write22
 \openout6 = `main.out'.
 
-LaTeX Info: Redefining \dots on input line 89.
-LaTeX Info: Redefining \up on input line 89.
+LaTeX Info: Redefining \dots on input line 81.
+LaTeX Info: Redefining \up on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1892,8 +2018,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 89.
-Package biblatex Info: Reference segment=0 on input line 89.
+Package biblatex Info: Reference section=0 on input line 81.
+Package biblatex Info: Reference segment=0 on input line 81.
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -1905,7 +2031,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 89.
+or `french'. on input line 81.
 \openout2 = `parties/frontmatter/page_titre.aux'.
 
  (./parties/frontmatter/page_titre.tex
@@ -2372,7 +2498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 \openout6 = `main.mw'.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
@@ -2387,11 +2513,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  [12] (./main.mw)
 \openout6 = `main.mw'.
 
+\openout2 = `parties/mainmatter/I/B/I-B.aux'.
 
+ (./parties/mainmatter/I/B/I-B.tex
 Chapitre 2.
+)
 \openout6 = `main.mw'.
 
-[13
+ [13
+
 
 
 ] (./main.mw)
@@ -2401,15 +2531,39 @@ Chapitre 2.
 
 \openout6 = `main.mw'.
 
+\openout2 = `parties/mainmatter/I/C/I-C.aux'.
+
+ (./parties/mainmatter/I/C/I-C.tex
 \openout6 = `main.mw'.
 
  [14
+
+
 
 ] (./main.mw)
 \openout6 = `main.mw'.
 
 
 Chapitre 3.
+(./parties/mainmatter/I/C/I-C-1.tex
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
 \openout6 = `main.mw'.
 
 [15] (./main.mw)
@@ -2421,16 +2575,92 @@ Chapitre 3.
 
 \openout6 = `main.mw'.
 
- [16
-
-] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [17] (./main.mw)
 \openout6 = `main.mw'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+(./images/arbre_porphyre_analytiques.tex
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+File: images/arbre_porprhyre_differences.png Graphic file (type bmp)
+<images/arbre_porprhyre_differences.png>
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+\openout6 = `main.mw'.
+
+[16] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+File: images/arbre_porphyre_boucle.png Graphic file (type bmp)
+<images/arbre_porphyre_boucle.png>
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout6 = `main.mw'.
+
+ [17]
+(./main.mw)
+\openout6 = `main.mw'.
+
+File: images/index_pline.png Graphic file (type bmp)
+<images/index_pline.png>
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2440,49 +2670,83 @@ Chapitre 3.
  [18] (./main.mw)
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+) (./parties/mainmatter/I/C/I-C-2.tex) (./parties/mainmatter/I/C/I-C-3.tex))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout6 = `main.mw'.
+
+ [19]
+(./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [20] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [21
+
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [22] (./main.mw)
+\openout6 = `main.mw'.
+
 
 Chapitre 4.
 \openout6 = `main.mw'.
 
-[19
+[23
 
 ] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [20
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-
-Chapitre 5.
-\openout6 = `main.mw'.
-
-[21] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [22
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-
-Chapitre 6.
-\openout6 = `main.mw'.
-
-[23] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2496,9 +2760,11 @@ Chapitre 6.
 ] (./main.mw)
 \openout6 = `main.mw'.
 
+
+Chapitre 5.
 \openout6 = `main.mw'.
 
- [25] (./main.mw)
+[25] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2507,16 +2773,16 @@ Chapitre 6.
 
 \openout6 = `main.mw'.
 
- [26] (./main.mw)
-\openout6 = `main.mw'.
-
-
-Chapitre 7.
-\openout6 = `main.mw'.
-
-[27
+ [26
 
 ] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Chapitre 6.
+\openout6 = `main.mw'.
+
+[27] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2530,11 +2796,45 @@ Chapitre 7.
 ] (./main.mw)
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+ [29] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [30] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Chapitre 7.
+\openout6 = `main.mw'.
+
+[31
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [32
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
 
 Chapitre 8.
 \openout6 = `main.mw'.
 
-[29] (./main.mw)
+[33] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2543,7 +2843,7 @@ Chapitre 8.
 
 \openout6 = `main.mw'.
 
- [30
+ [34
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -2552,7 +2852,7 @@ Chapitre 8.
 Chapitre 9.
 \openout6 = `main.mw'.
 
-[31] (./main.mw)
+[35] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2564,7 +2864,7 @@ Chapitre 9.
  (./parties/mainmatter/conclusion_generale.tex
 \openout6 = `main.mw'.
 
- [32
+ [36
 
 
 ] (./main.mw)
@@ -2573,7 +2873,7 @@ Chapitre 9.
 )
 \openout6 = `main.mw'.
 
- [33] (./main.mw)
+ [37] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2585,7 +2885,7 @@ Chapitre 9.
  (./parties/backmatter/annexes.tex
 \openout6 = `main.mw'.
 
- [34
+ [38
 
 
 
@@ -2594,13 +2894,13 @@ Chapitre 9.
 
 \openout6 = `main.mw'.
 
- [35]
+ [39]
 (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [36] (./main.mw)
+ [40] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -2615,7 +2915,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 <images/index_rerum_alsatia.jpg>
 \openout6 = `main.mw'.
 
-[37
+[41
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -2630,7 +2930,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [38
+ [42
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -2663,7 +2963,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 \openout6 = `main.mw'.
 
- [39] (./main.mw)
+ [43] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2672,7 +2972,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [40] (./main.mw)
+ [44] (./main.mw)
 \openout6 = `main.mw'.
 
 runsystem(makeindex referentiels.idx)...executed.
@@ -2680,7 +2980,7 @@ runsystem(makeindex referentiels.idx)...executed.
  (./referentiels.ind
 \openout6 = `main.mw'.
 
- [41
+ [45
 
 
 
@@ -2697,7 +2997,7 @@ runsystem(makeindex referentiels.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[42
+[46
 
 
 ] (./main.mw)
@@ -2705,19 +3005,13 @@ runsystem(makeindex referentiels.idx)...executed.
 
 runsystem(makeindex ina.idx)...executed.
 
- (./ina.ind) (./main.lof
-Overfull \hbox (3.012pt too wide) in paragraph at lines 36--36
- [][] [][]\TU/lmr/m/n/12 L’interopérabilité par le plus petit dénominateur comm
-un [Source : []\TU/lmr/m/sc/12 Bermès 
- []
-
-)
+ (./ina.ind) (./main.lof)
 \tf@lof=\write23
 \openout6 = `main.lof'.
 
 \openout6 = `main.mw'.
 
- [43
+ [47
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -2728,15 +3022,16 @@ un [Source : []\TU/lmr/m/sc/12 Bermès
 
 \openout6 = `main.mw'.
 
- [44
+ [48
 
 ] (./main.mw)
 \openout6 = `main.mw'.
 
- (./main.toc
+
+(./main.toc
 \openout6 = `main.mw'.
 
- [45] (./main.mw)
+ [49] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2749,17 +3044,13 @@ un [Source : []\TU/lmr/m/sc/12 Bermès
 
 \openout6 = `main.mw'.
 
- [46]
-(./main.mw)
+ [50] (./main.mw)
 \openout6 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
- (./main.aux (./parties/frontmatter/page_titre.aux)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+ (./main.aux
+(./parties/frontmatter/page_titre.aux)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2772,8 +3063,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
 
-(./parties/frontmatter/resume.aux
+\openout6 = `main.mw'.
+
+ (./parties/frontmatter/resume.aux
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2782,7 +3076,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 
 \openout6 = `main.mw'.
 
-) (./parties/frontmatter/remerciements.aux
+)
+(./parties/frontmatter/remerciements.aux
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2917,7 +3212,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 
 \openout6 = `main.mw'.
 
+) (./parties/mainmatter/I/B/I-B.aux
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 )
+(./parties/mainmatter/I/C/I-C.aux
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2950,6 +3263,71 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3172,8 +3550,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 \openout6 = `main.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 140.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3187,7 +3565,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
 \openout6 = `main.out'.
 
 \openout6 = `main.lof'.
@@ -3196,12 +3574,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
 
  ) 
 Here is how much of TeX's memory you used:
- 43127 strings out of 493007
- 863579 string characters out of 6136719
- 1542973 words of memory out of 5000000
- 46393 multiletter control sequences out of 15000+600000
- 533576 words of font info for 58 fonts, out of 8000000 for 9000
+ 43571 strings out of 493007
+ 870890 string characters out of 6136719
+ 1561311 words of memory out of 5000000
+ 46783 multiletter control sequences out of 15000+600000
+ 533584 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,7n,92p,10387b,6052s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,9n,92p,10387b,4984s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (58 pages).
+Output written on main.pdf (62 pages).

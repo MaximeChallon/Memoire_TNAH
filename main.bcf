@@ -1948,10 +1948,24 @@
     <bcf:citekey order="22">bibliotheque_nationale_de_france_protocole_nodate-1</bcf:citekey>
     <bcf:citekey order="23">noauthor_dublin_nodate</bcf:citekey>
     <bcf:citekey order="24">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="25">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="26">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="27">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="28">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="25">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="26">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="27">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="28">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="29">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="30">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="31">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="32">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="33">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="34">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="35">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="36">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="37">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="38">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="39">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="40">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="41">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="42">bermes_2_2013</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

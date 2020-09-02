@@ -509,6 +509,58 @@
       \verb https://dublincore.org/
       \endverb
     \endentry
+    \entry{eco_arbre_2010}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=eeb9256075038567a106101346ca2995}{%
+           family={Eco},
+           familyi={E\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e580901b8550aa1229ab94b6a9de6b5a}{%
+           family={Sauvage},
+           familyi={S\bibinitperiod},
+           given={Hélène},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {B. Grasset}%
+      }
+      \strng{namehash}{eeb9256075038567a106101346ca2995}
+      \strng{fullhash}{eeb9256075038567a106101346ca2995}
+      \strng{bibnamehash}{eeb9256075038567a106101346ca2995}
+      \strng{authorbibnamehash}{eeb9256075038567a106101346ca2995}
+      \strng{authornamehash}{eeb9256075038567a106101346ca2995}
+      \strng{authorfullhash}{eeb9256075038567a106101346ca2995}
+      \strng{translatorbibnamehash}{e580901b8550aa1229ab94b6a9de6b5a}
+      \strng{translatornamehash}{e580901b8550aa1229ab94b6a9de6b5a}
+      \strng{translatorfullhash}{e580901b8550aa1229ab94b6a9de6b5a}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-246-74851-9}
+      \field{note}{Country: {FR} ill., couv. ill. 23 cm. Bibliogr. p. 665-701. Index.}
+      \field{pagetotal}{712}
+      \field{shorttitle}{De l'arbre au labyrinthe}
+      \field{title}{De l'arbre au labyrinthe : [études historiques sur le signe et l'interprétation]}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volumes}{1}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:/home/maxime/Zotero/storage/INE5DGZL/Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:application/pdf
+      \endverb
+      \keyw{Interprétation (philosophie),Sémantique (philosophie),Sémiotique}
+    \endentry
     \entry{estienne_thesaurus_1573}{mvbook}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=b287f9fb9d760dabeef7c12cf4bd467e}{%
@@ -669,6 +721,21 @@
       \verb https://rameau.bnf.fr/
       \endverb
     \endentry
+    \entry{noauthor_httpsmemsicccsdcnrsfrmem_00803704document_nodate}{report}{}
+      \field{sortinit}{h}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labeltitlesource}{title}
+      \field{title}{https://memsic.ccsd.cnrs.fr/mem\_00803704/document}
+      \verb{file}
+      \verb Texte intégral:/home/maxime/Zotero/storage/FDAA3TQI/httpsmemsic.ccsd.cnrs.frmem_00803704document.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://memsic.ccsd.cnrs.fr/mem_00803704/document
+      \endverb
+      \verb{url}
+      \verb https://memsic.ccsd.cnrs.fr/mem_00803704/document
+      \endverb
+    \endentry
     \entry{noauthor_loi_1974}{book}{}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -783,6 +850,25 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:/home/maxime/Zotero/storage/FVFCVTP5/Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{noauthor_savoirs_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{title}{Savoirs {CDI}: Vocabulaires contrôlés}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Savoirs CDI\: Vocabulaires contrôlés:/home/maxime/Zotero/storage/LX9C5FA3/vocabulaires-controles.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.reseau-canope.fr/savoirscdi/societe-de-linformation/tic-et-documentation/veille-technologique/formats-normes-et-standards/vocabulaires-controles.html
+      \endverb
+      \verb{url}
+      \verb https://www.reseau-canope.fr/savoirscdi/societe-de-linformation/tic-et-documentation/veille-technologique/formats-normes-et-standards/vocabulaires-controles.html
       \endverb
     \endentry
     \entry{schoepflin_alsatia_1751}{mvbook}{}
