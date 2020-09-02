@@ -12,7 +12,7 @@
 \makeindex[name=ina, title=Index des termes concernant l'Institut national de l'Audiovisuel]
 
 \usepackage[pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={institut national de l'audiovisuel; référentiel; thésaurus; vocabulaire contrôlé; vocabulaire hiérarchique; ontologie; web de données; Wikidata; liens; alignement}]{hyperref}
-\usepackage[french]{babel}
+\usepackage[english, french]{babel}
 \usepackage{morewrites}
 \usepackage{tocbibind} %paquet pour mettre index et bib dans la toc
 
@@ -34,6 +34,7 @@
 %[.AP [.Deg \textit{really} ]
 %[.A\1 [.A \textit{simple} ]
 %\qroof{\textit{to use}}.CP ]]]]]]
+\usepackage{pstricks}
 \usepackage{tikz} %paquet pour dessiner ; à placer avant graphicx
 \usepackage{graphicx} %paquet image
 
@@ -55,11 +56,13 @@
 \DeclareAcronym{epic}{short = ÉPIC, long = Établissement public à caractère industriel et commercial}
 \DeclareAcronym{ina}{short = INA, long = Institut national de l'Audiovisuel}
 \DeclareAcronym{isan}{short = ISAN, long = \textit{International Standard Audiovisual Number}}
+\DeclareAcronym{lcsh}{short = LCSH, long = Library of Congress Subject Headings}
 \DeclareAcronym{ortf}{short = ORTF, long = Office de la radio-télévision française}
+\DeclareAcronym{rameau}{short = RAMEAU, long =Répertoire d'autorité-matière encyclopédique et alphabétique unifié}
 
 
 %%%%% Nouvelles commandes %%%%%
-% \newcommand{\reference}[1]{\autoref{#1}: \nameref{#1}}
+\newcommand{\reference}[1]{\autoref{#1}: \nameref{#1}}
 
 \newcommand{\chaptertoc}[1]{\chapter*{#1}
 	\addcontentsline{toc}{chapter}{#1}
@@ -78,7 +81,9 @@
 %%%%%%%%%%%%%%%%%%%%
 %%%%% DOCUMENT %%%%%
 %%%%%%%%%%%%%%%%%%%%
-\begin{document}	
+\begin{document}
+	\renewcommand*\appendixautorefname{Annexe}
+		
 	\frontmatter
 	\include{parties/frontmatter/page_titre}
 	
@@ -131,9 +136,8 @@
 %\printbibliography[title= Bibliographie sélective, prenote=intro]%postnote est aussi possible
 %\printbibliography[heading=subbibliography, keyword={semantique}, title={Sémantique}]%biblio sélective pour un mot clé donné
 
-% index à mettre ici si index	
-%	\printindex
-%\printindex[lieux]
+\printindex[referentiels]
+\printindex[ina]
 
 	\listoffigures
 

@@ -1926,6 +1926,17 @@
     <bcf:citekey order="0">*</bcf:citekey>
     <bcf:citekey order="1">naude_advis_1627</bcf:citekey>
     <bcf:citekey order="2">noauthor_loi_1974</bcf:citekey>
+    <bcf:citekey order="3">valery_variete_1936</bcf:citekey>
+    <bcf:citekey order="4">berger_indexation_2006</bcf:citekey>
+    <bcf:citekey order="5">schoepflin_alsatia_1751</bcf:citekey>
+    <bcf:citekey order="6">estienne_thesaurus_1573</bcf:citekey>
+    <bcf:citekey order="7">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="8">cnrtl_definition_2020</bcf:citekey>
+    <bcf:citekey order="9">bibliotheque_nationale_de_france_rameau_nodate</bcf:citekey>
+    <bcf:citekey order="10">the_library_of_congress_library_nodate</bcf:citekey>
+    <bcf:citekey order="11">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="12">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="13">rosenfeld_information_2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

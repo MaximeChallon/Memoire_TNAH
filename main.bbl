@@ -19,6 +19,254 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{berger_indexation_2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=205df96374e88d2d053496bd8342b5b5}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{205df96374e88d2d053496bd8342b5b5}
+      \strng{fullhash}{205df96374e88d2d053496bd8342b5b5}
+      \strng{bibnamehash}{205df96374e88d2d053496bd8342b5b5}
+      \strng{authorbibnamehash}{205df96374e88d2d053496bd8342b5b5}
+      \strng{authornamehash}{205df96374e88d2d053496bd8342b5b5}
+      \strng{authorfullhash}{205df96374e88d2d053496bd8342b5b5}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Publication du plus vieille index alphabétique "de fin de livre" connu, compilé au commencement du {XIIe} siècle pour servir au Grand cartulaire de Saint-Julien de Brioude, en Auvergne, afin de hiérarchiser et organiser les entrées géographiques des bien-fonds principaux mentionnés dans ses chartes.}
+      \field{journaltitle}{The Indexer}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{{OCLC}: 882418933}
+      \field{number}{2}
+      \field{shorttitle}{Indexation, memory, power and representations at the beginning of the 12th century}
+      \field{title}{Indexation, memory, power and representations at the beginning of the 12th century: The rediscovery of pages from the tables to the "Liber de honoribus", the first cartulary of the collegiate Church of St. Julian of auvergne (Brioude)}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volume}{25}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{95\bibrangedash 99}
+      \range{pages}{5}
+      \verb{file}
+      \verb Texte intégral:/home/maxime/Zotero/storage/BEDMPG83/Berger - 2006 - Indexation, memory, power and representations at t.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://halshs.archives-ouvertes.fr/halshs-00975166
+      \endverb
+      \verb{url}
+      \verb http://halshs.archives-ouvertes.fr/halshs-00975166
+      \endverb
+    \endentry
+    \entry{cnrtl_definition_2020}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8961dfc9eb18558f0569142c2583c0e1}{%
+           family={{CNRTL}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8961dfc9eb18558f0569142c2583c0e1}
+      \strng{fullhash}{8961dfc9eb18558f0569142c2583c0e1}
+      \strng{bibnamehash}{8961dfc9eb18558f0569142c2583c0e1}
+      \strng{authorbibnamehash}{8961dfc9eb18558f0569142c2583c0e1}
+      \strng{authornamehash}{8961dfc9eb18558f0569142c2583c0e1}
+      \strng{authorfullhash}{8961dfc9eb18558f0569142c2583c0e1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{26}
+      \field{langid}{french}
+      \field{month}{7}
+      \field{shorttitle}{Vocabulaire}
+      \field{title}{Définition de {VOCABULAIRE}}
+      \field{titleaddon}{{CNRTL}}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb VOCABULAIRE \: Définition de VOCABULAIRE:/home/maxime/Zotero/storage/39W2T7MT/vocabulaire.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cnrtl.fr/definition/vocabulaire
+      \endverb
+      \verb{url}
+      \verb https://www.cnrtl.fr/definition/vocabulaire
+      \endverb
+    \endentry
+    \entry{the_library_of_congress_library_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fab5f99a9e436a50a4cecfcfaa8e91a9}{%
+           family={Congress},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Library},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{fullhash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{bibnamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{authorbibnamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{authornamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{authorfullhash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include {LCSH}, {BIBFRAME}, {LC} Name Authorities, {LC} Classification, {MARC} codes, {PREMIS} vocabularies, {ISO} language codes, and more., The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. Library of Congress Subject Headings ({LCSH}) has been actively maintained since 1898 to catalog materials held at the Library of Congress. By virtue of cooperative cataloging other libraries around the United States also use {LCSH} to provide subject access to their collections. In addition {LCSH} is used internationally, often in translation. {LCSH} in this service includes all Library of Congress Subject Headings, free-floating subdivisions (topical and form), Genre/Form headings, Children's ({AC}) headings, and validation strings* for which authority records have been created. This content is expanded beyond the print issue of {LCSH} (the 'red books') with inclusion of validation strings.}
+      \field{shorttitle}{{LC} Linked Data Service}
+      \field{title}{Library of Congress Subject Headings}
+      \field{type}{webpage}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/MZPAXBA4/subjects.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://id.loc.gov/authorities/subjects.html
+      \endverb
+      \verb{url}
+      \verb https://id.loc.gov/authorities/subjects.html
+      \endverb
+    \endentry
+    \entry{estienne_thesaurus_1573}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b287f9fb9d760dabeef7c12cf4bd467e}{%
+           family={Estienne},
+           familyi={E\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lugduni}%
+      }
+      \list{publisher}{1}{%
+        {apud P. Thinghyum}%
+      }
+      \strng{namehash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \strng{fullhash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \strng{bibnamehash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \strng{authorbibnamehash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \strng{authornamehash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \strng{authorfullhash}{b287f9fb9d760dabeef7c12cf4bd467e}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Country: {FR}}
+      \field{shorttitle}{Thesaurus linguae latinae}
+      \field{title}{Thesaurus linguae latinae, seu Promptuarium dictionum et loquendi formularum omnium ad latini sermonis perfectam notitiam assequendam pertinentium, ex optimis auctoribus concinnatum}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volume}{2}
+      \field{volumes}{2}
+      \field{year}{1573}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://gallica.bnf.fr/ark:/12148/bpt6k8720517v
+      \endverb
+      \verb{url}
+      \verb http://gallica.bnf.fr/ark:/12148/bpt6k8720517v
+      \endverb
+    \endentry
+    \entry{bibliotheque_nationale_de_france_rameau_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
+           family={France},
+           familyi={F\bibinitperiod},
+           given={Bibliothèque},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={nationale\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{RAMEAU}}
+      \field{titleaddon}{{RAMEAU}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Accueil | rameau:/home/maxime/Zotero/storage/MAGHJ7KB/rameau.bnf.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://rameau.bnf.fr/
+      \endverb
+      \verb{url}
+      \verb https://rameau.bnf.fr/
+      \endverb
+    \endentry
+    \entry{bibliotheque_nationale_de_france_rameau_2020}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
+           family={France},
+           familyi={F\bibinitperiod},
+           given={Bibliothèque},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={nationale\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{title}{{RAMEAU}: Inititation}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Texte intégral:/home/maxime/Zotero/storage/5VQFP7YI/BnF - 2020 - RAMEAU Inititation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://rameau.bnf.fr/sites/default/files/2020-02/rameauinit.pdf
+      \endverb
+      \verb{url}
+      \verb https://rameau.bnf.fr/sites/default/files/2020-02/rameauinit.pdf
+      \endverb
+    \endentry
     \entry{noauthor_loi_1974}{book}{}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -63,6 +311,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{Chez François Targa, au premier pillier de la grand'salle du Palais, devant les Consultations}
+      \field{langid}{french}
       \field{pagetotal}{167}
       \field{shorttitle}{Advis pour dresser une bibliotheque}
       \field{title}{Advis pour dresser une bibliotheque. Tome 1 / . Presenté à monseigneur le president de Mesme. Par G. Naudé P....}
@@ -81,6 +330,139 @@
       \endverb
       \verb{url}
       \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
+      \endverb
+    \endentry
+    \entry{rosenfeld_information_2015}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=ce678185832a3d6d30797bea38563a54}{%
+           family={Rosenfeld},
+           familyi={R\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e7f06f2b98c047d8c26a680d59bebe98}{%
+           family={Morville},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=83de960fc462cdd39e669b449f9296e7}{%
+           family={Arango},
+           familyi={A\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly}%
+      }
+      \strng{namehash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \strng{fullhash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \strng{bibnamehash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \strng{authorbibnamehash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \strng{authornamehash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \strng{authorfullhash}{609547c569ecb4f1c6c2d33d4ef7f7e8}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-4919-1168-6}
+      \field{langid}{english}
+      \field{note}{{OCLC}: 922954742}
+      \field{title}{Information architecture for the World Wide Web}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:/home/maxime/Zotero/storage/FVFCVTP5/Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{schoepflin_alsatia_1751}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fca65704b6bc4fc6ad6709a51c6064ca}{%
+           family={Schoepflin},
+           familyi={S\bibinitperiod},
+           given={Johann\bibnamedelima Daniel},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Colmariae [Colmar]}%
+      }
+      \strng{namehash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \strng{fullhash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \strng{bibnamehash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \strng{authorbibnamehash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \strng{authornamehash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \strng{authorfullhash}{fca65704b6bc4fc6ad6709a51c6064ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{Ex typographia regia}
+      \field{note}{Sumptibus Jo. Friderici Schoepflini}
+      \field{pagetotal}{[8]-748-[45-1 bl.] p., [37] f. de pl.}
+      \field{series}{Collaction Jacques Doucet}
+      \field{shorttitle}{Alsatia illustrata}
+      \field{title}{Alsatia illustrata Celtica Romana Francica, auctor Jo. Daniel Schoepflinus, Consil. \& Historiographus Regius, Histor. \& Eloq. professor Argent. regiae inscriptionum ut \& Anglic. Petropolit. Ac Corton Academiarum socius.}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volume}{2}
+      \field{volumes}{2}
+      \field{year}{1751}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://bibliotheque-numerique.inha.fr/idurl/1/12532
+      \endverb
+      \verb{url}
+      \verb http://bibliotheque-numerique.inha.fr/idurl/1/12532
+      \endverb
+      \keyw{Corpus : Imprimés {>} Classiques de l'histoire de l'art {>} Archéologie,Date de numérisation : 2005,Description matérielle : 1 vol. (748 p.) : ill. ; 44 cm,Identifiant numérique : {NUM} {FOL} C 439 (2),Langue du document : Latin,Lieu de publication : Colmariae [Colmar],Nombre de vues : 848,Période : 18e siècle,Sujet : Alsace (France),Type de document : Texte imprimé}
+    \endentry
+    \entry{valery_variete_1936}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=27e370c5870f4cac547de23af16e8ef4}{%
+           family={Valéry},
+           familyi={V\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{27e370c5870f4cac547de23af16e8ef4}
+      \strng{fullhash}{27e370c5870f4cac547de23af16e8ef4}
+      \strng{bibnamehash}{27e370c5870f4cac547de23af16e8ef4}
+      \strng{authorbibnamehash}{27e370c5870f4cac547de23af16e8ef4}
+      \strng{authornamehash}{27e370c5870f4cac547de23af16e8ef4}
+      \strng{authorfullhash}{27e370c5870f4cac547de23af16e8ef4}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9e éd}
+      \field{langid}{french}
+      \field{pagetotal}{310}
+      \field{title}{Variété {III}}
+      \field{year}{1936}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://catalogue.bnf.fr/ark:/12148/cb41687051w
+      \endverb
+      \verb{url}
+      \verb https://catalogue.bnf.fr/ark:/12148/cb41687051w
       \endverb
     \endentry
   \enddatalist

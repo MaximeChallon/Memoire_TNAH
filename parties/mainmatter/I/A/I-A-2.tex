@@ -1,1 +1,43 @@
-\section{\label{I-A-2}Une clé entre les données: une terminologie maîtrisée, objectif des vocabulaires contrôlés}
+\section{\label{I-A-2}Une clé entre les données: les vocabulaires contrôlés}
+\titreEntete{Une clé entre les données}
+
+Dans les vocabulaires contrôlés, les termes servant à la description sont soumis à une normalisation. La maîtrise de la terminologie est l'objectif de ces vocabulaires ainsi que ce qui permet à ces derniers d'être une \og colle qui tient l'ensemble du système \footnote{\og Controlled vocabularies have become the glue that holds the system together \fg{} in \cite{rosenfeld_information_2015}}\fg{} et le rend cohérent. Ces vocabulaires ne sont pas hiérarchisés et tirent la description de leur terme uniquement par leur graphie et leur désambiguïsation face au langage naturel. Ils permettent d'éviter les erreurs de graphie introduites par le documentaliste --- par conséquent les différences de graphies --- , d'éviter également les redondances de termes similaires et de rendre un système univoque.
+Ainsi, les vocabulaires contrôlés deviennent à eux seuls des langages propres à leurs utilisateurs\footnote{Le Centre National de Ressources Textuelles et Lexicales (CNRTL) définit ainsi un vocabulaire: \og Dictionnaire ne comportant que les mots les plus usuels d'une langue\fg{}, in \cite{cnrtl_definition_2020}}, servant à lutter contre la trop grande richesse du langage naturel humain.
+Pour effectuer le contrôle des termes, plusieurs points de contrôle sont introduits: le contrôle de la forme des vedettes, celui de la polysémie, et celui de la synonymie. L'exemple des autorités \index[referentiels]{rameau@RAMEAU}\footcite{bibliotheque_nationale_de_france_rameau_nodate} et des \index[referentiels]{lcsh@LCSH}\footcite{the_library_of_congress_library_nodate}, bien que comprenant une hiérarchie et des relations complexes, permettent d'observer la formation d'un langage contrôlé.
+
+\subsection{Contrôle de la forme des vedettes}
+\titreEntete{Contrôle de la forme des vedettes}
+
+La forme des vedettes doit être contrôlée de manière à offrir une graphie uniformisée; plusieurs moyens sont alors utilisés:
+\begin{itemize}
+	\item Choix d'un mot ou d'une locution en langage libre, le plus général possible, en évitant les ambiguïtés: le \ac{rameau} a fait le choix de \og \href{https://data.bnf.fr/fr/11933646/television}{Télévision}\fg{}, de même que les \href{http://id.loc.gov/authorities/subjects/sh85133456.html}{\ac{lcsh}}
+	\item Utilisation d'une langue définie pour l'ensemble du vocabulaire, sauf pour le cas d'emprunts: \ac{rameau} est en français, on y trouve alors la vedette \og \href{https://data.bnf.fr/fr/13318464/droit_d_auteur/}{Droit d'auteur}\fg{} au lieu de \og Copyright\fg{}, alors que les vedettes \ac{lcsh} considèrent l'inverse: \og\href{http://id.loc.gov/authorities/subjects/sh85032446.html}{Copyright} \fg{} avec une variante en français renvoyant vers la vedette \ac{rameau}. Cependant, des variantes linguistiques sont attachées aux vedettes: l'italien \og Televisione\fg{} est ainsi lié à la vedette \og \href{https://data.bnf.fr/fr/11933646/television}{Télévision}\fg{} de \ac{rameau}
+	\item Utilisation majoritaire du pluriel pour les noms communs (comme la vedette \ac{rameau} \og \href{https://data.bnf.fr/fr/11932295/livres/}{Livre \fg{}}); le singulier étant utilisé pour les concepts généraux (\og \href{https://data.bnf.fr/fr/11936326/ecriture/}{Écriture}\fg{})
+	\item Choix d'une forme plus attestée ou plus usitée qu'une autre: nous pouvons trouver \og \href{https://data.bnf.fr/fr/11960499/radiodiffusion/}{Radiodiffusion}\fg{} et non \og Radio\fg{} dans \ac{rameau}; de même, nous constatons la présence de \og\href{http://id.loc.gov/authorities/subjects/sh85110448.html}{Radio broadcasting}\fg{} dans \ac{lcsh}, la vedette \og \href{http://id.loc.gov/authorities/subjects/sh85110385.html}{Radio}\fg{} étant réservée pour le moyen de communication
+\end{itemize}
+
+\subsection{Contrôle de la polysémie et de l'homographie}
+\titreEntete{Contrôle de la polysémie et de l'homographie}
+
+L'ambiguïté du langage naturel dans la graphie et la polysémie peut induire le documentaliste et l'utilisateur en erreur, et réduire ainsi la puissance et l'utilité du vocabulaire mis en place. Contrôler la polysémie et l'homographie est par conséquent indispensable. Une vedette doit alors correspondre à un seul concept: deux actions sont alors possibles pour supprimer les ambiguïtés et améliorer le vocabulaire.
+\begin{itemize}
+	\item L'ajout d'un qualificatif entre parenthèses peut permettre la levée de cette ambiguïté: \ac{rameau} utilise les qualificatifs \og \href{https://data.bnf.fr/fr/11935557/iris__plantes_/}{Plantes}\fg{} et \og\href{https://data.bnf.fr/fr/11938389/iris__anatomie_/}{Anatomie}\fg{} pour traiter l'homonymie de \og Iris\fg{}; cette ambiguïté existant également en anglais, \ac{lcsh} utilise les mêmes qualificatifs (\og \href{https://id.loc.gov/authorities/subjects/sh85068079.html}{Plants}\fg{} et \og\href{https://id.loc.gov/authorities/subjects/sh85068076.html}{Eye}\fg{})
+	\item L'utilisation de l'opposition singulier/pluriel permet de distinguer un concept abstrait d'une réalité concrète: \ac{rameau} utilise cette opposition de genre pour séparer le \og \href{https://data.bnf.fr/fr/11936118/cinema/}{Cinéma}\fg{} compris comme art, du \og \href{https://data.bnf.fr/fr/11939426/cinemas/}{cinéma}\fg{} compris comme bâtiment où cet art est projeté
+\end{itemize}
+
+\subsection{Contrôle de la synonymie}
+\titreEntete{Contrôle de la synonymie}
+
+Le dernier écueil des vocabulaires contrôlés est la synonymie: source de confusions, il conduit à la création de nombreuses vedettes qui se rapportent finalement à un même concept. \ac{lcsh} et \ac{rameau} ont fait le choix de créer des termes exclus qui renvoient vers le concept auquel ils sont reliés: ainsi, une recherche du terme \og \href{https://data.bnf.fr/fr/search?term=detenus#Rameau}{Détenus}\fg dans \ac{rameau} renvoie vers la vedette \og\href{https://data.bnf.fr/fr/13318775/prisonniers/}{Prisonniers}\fg{}. Les termes exclus peuvent être de différents types:
+\begin{itemize}
+	\item des synonymes: \og Cameramen \fg{}, \og Cinematographers\fg{}, \og Operating Cameraman\fg{} sont tous des termes exclus et synonymes de \og\href{https://id.loc.gov/authorities/subjects/sh2002011142.html}{Cameraman}\fg{} dans les \ac{lcsh}
+	\item des abréviations ou des acronymes: l'abréviation \og ISSN\fg{} est ainsi un terme exclu de l'\og\href{https://id.loc.gov/authorities/subjects/sh85067450.html}{\textit{International Standard Serial Numbers}}\fg{} dans les \ac{lcsh}
+	\item des inversions de termes --- qui permettent la mise en avant d'un terme important --- : \ac{lcsh} considère comme terme exclu de \og\href{https://id.loc.gov/authorities/subjects/sh2002011142.html}{Cameraman}\fg{} \og Operators, Camera\fg{}
+	\item enfin, les termes exclus peuvent être des constructions syntaxiques, permettant de supprimer l'ambiguïté encore présente ou bien préciser le champ de la vedette: \ac{rameau} précise ainsi l'étendue géographique des vedettes en ajoutant le nom du pays après le concept; la nouvelle vedette ainsi créée devient restrictive et spécifique. C'est le cas notamment de \og\href{https://data.bnf.fr/fr/11979998/chaines_de_television_--_france/}{Chaînes de télévision -- France}\fg{} qui précise la vedette \og\href{https://data.bnf.fr/fr/11936935/chaines_de_television/}{Chaînes de télévision}\fg{}.
+\end{itemize}
+\bigskip
+
+ Ces termes exclus permettent de multiplier les points d'accès à un concept en prenant en compte la complexité du langage naturel qui désigne souvent par différents termes un même concept. Ainsi, deux utilisateurs cherchant la même vedette mais avec des termes différents pourront plus facilement retrouver cette vedette. Si ces termes ne sont pas obligatoirement des synonymes, leur contexte et le vocabulaire dans lesquels ils se trouvent les font se considérer comme synonymes\footcite{rosenfeld_information_2015}. \nP{Peter}{Morville} et \nP{Louis}{Rosenfeld} nomment ces rapprochements des \og Anneaux de synonymie\fg{}\footnote{\og Synonym rings\fg{} in \cite{rosenfeld_information_2015}. Voir \reference{synonym_ring_rameau} et \reference{synonym_ring_lcsh}.}: ils connectent un ensemble de mots qui sont compris comme équivalents dans leur contexte d'utilisation\footnote{\og Connects a set of words that are defined as equivalent for the purposes of the retrieval.\fg{} in \cite{rosenfeld_information_2015}}.
+
+ \input{images/synonym_ring_rameau.tex}
+ \input{images/synonym_ring_lcsh.tex}
