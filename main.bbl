@@ -65,6 +65,234 @@
       \verb http://halshs.archives-ouvertes.fr/halshs-00975166
       \endverb
     \endentry
+    \entry{bermes_1_2013}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorbibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authornamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorfullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0184-0886}
+      \field{journaltitle}{Bibliotheques}
+      \field{langid}{french}
+      \field{note}{{ISBN}: 9782765414179 Publisher: Éditions du Cercle de la Librairie}
+      \field{shorttitle}{1. Du catalogue de bibliothèque aux données sur le Web}
+      \field{title}{1. Du catalogue de bibliothèque aux données sur le Web : un changement de paradigme du côté de l’usager}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{17\bibrangedash 28}
+      \range{pages}{12}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/BF8ZXVVH/le-web-semantique-en-bibliotheque--9782765414179-page-17.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-17.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-17.htm
+      \endverb
+    \endentry
+    \entry{bermes_2_2013}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorbibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authornamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorfullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0184-0886}
+      \field{journaltitle}{Bibliotheques}
+      \field{langid}{french}
+      \field{note}{{ISBN}: 9782765414179 Publisher: Éditions du Cercle de la Librairie}
+      \field{shorttitle}{2. Convergence et interopérabilité}
+      \field{title}{2. Convergence et interopérabilité : vers le Web de données}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 46}
+      \range{pages}{18}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/DLFEBTLB/le-web-semantique-en-bibliotheque--9782765414179-page-29.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \endverb
+    \endentry
+    \entry{aymonin_arabesques_2017}{book}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=2458e0e7ad166d18acb49bf333f629a6}{%
+           family={Boulet},
+           familyi={B\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3f0adac705b1f143b60afe961ac2f858}{%
+           family={Mistral},
+           familyi={M\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c9514048d1ccae832da9480c74e36c80}{%
+           family={Rousseaux},
+           familyi={R\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=361bdafdf70c24ff6fe8787f50c990a3}{%
+           family={Nicolas},
+           familyi={N\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=62cfbccb2e2d542cf5eff5f36e1f06f3}{%
+           family={Le\bibnamedelima Pape},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editorb}{1}{}{%
+        {{hash=f0348436ead5ed5895c5ce5c00c01ef8}{%
+           family={Aymonin},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montpellier}%
+      }
+      \list{publisher}{1}{%
+        {Agence Bibliographique de l'Enseignement Supérieur}%
+      }
+      \strng{namehash}{50abdebb28cddb49f79d008f5bcf38cd}
+      \strng{fullhash}{381985a25dbaaa56e3e703b5af10c0b4}
+      \strng{bibnamehash}{50abdebb28cddb49f79d008f5bcf38cd}
+      \strng{authorbibnamehash}{50abdebb28cddb49f79d008f5bcf38cd}
+      \strng{authornamehash}{50abdebb28cddb49f79d008f5bcf38cd}
+      \strng{authorfullhash}{381985a25dbaaa56e3e703b5af10c0b4}
+      \strng{editorbbibnamehash}{f0348436ead5ed5895c5ce5c00c01ef8}
+      \strng{editorbnamehash}{f0348436ead5ed5895c5ce5c00c01ef8}
+      \strng{editorbfullhash}{f0348436ead5ed5895c5ce5c00c01ef8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{editorbtype}{redactor}
+      \field{langid}{french}
+      \field{month}{4}
+      \field{pagetotal}{28}
+      \field{series}{Arabesques}
+      \field{shorttitle}{Arabesques}
+      \field{title}{Arabesques n°85}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volume}{85}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb 2017 - ABES Arabesques n°85 – Arabesques – Publications.pdf:/home/maxime/Zotero/storage/GSTKA3KZ/2017 - ABES Arabesques n°85 – Arabesques – Publications.pdf:application/pdf;ABES \: Arabesques n°85 – Arabesques – Publications / Evénements:/home/maxime/Zotero/storage/5VMALW2E/Arabesques-n-85.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.abes.fr/Publications-Evenements/Arabesques/Arabesques-n-85
+      \endverb
+      \verb{url}
+      \verb http://www.abes.fr/Publications-Evenements/Arabesques/Arabesques-n-85
+      \endverb
+    \endentry
+    \entry{online_computer_library_center_viaf_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=02ec03576003683aea3873332dcbcea5}{%
+           family={Center},
+           familyi={C\bibinitperiod},
+           given={Online\bibnamedelimb Computer\bibnamedelima Library},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02ec03576003683aea3873332dcbcea5}
+      \strng{fullhash}{02ec03576003683aea3873332dcbcea5}
+      \strng{bibnamehash}{02ec03576003683aea3873332dcbcea5}
+      \strng{authorbibnamehash}{02ec03576003683aea3873332dcbcea5}
+      \strng{authornamehash}{02ec03576003683aea3873332dcbcea5}
+      \strng{authorfullhash}{02ec03576003683aea3873332dcbcea5}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{VIAF}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb VIAF:/home/maxime/Zotero/storage/YHE53SX7/viaf.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://viaf.org/
+      \endverb
+      \verb{url}
+      \verb http://viaf.org/
+      \endverb
+    \endentry
     \entry{cnrtl_definition_2020}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=8961dfc9eb18558f0569142c2583c0e1}{%
@@ -143,6 +371,144 @@
       \verb https://id.loc.gov/authorities/subjects.html
       \endverb
     \endentry
+    \entry{dalbin_approches_2011}{article}{}
+      \name{author}{13}{}{%
+        {{uniquename=0,uniquepart=base,hash=0365a01315a7b7171abefb4d0f8e5c9a}{%
+           family={Dalbin},
+           familyi={D\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d2b4c08f84fb61f477df9eec45dd0b8}{%
+           family={Wenz},
+           familyi={W\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=361bdafdf70c24ff6fe8787f50c990a3}{%
+           family={Nicolas},
+           familyi={N\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c40984a39282c208aaeebe4ee28fda2}{%
+           family={Merabti},
+           familyi={M\bibinitperiod},
+           given={Tayeb},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e51795cfbe62504acc078c813071e106}{%
+           family={Angjeli},
+           familyi={A\bibinitperiod},
+           given={Anila},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44d317899d2d143bbcf3b71712e35a48}{%
+           family={Francart},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f3c77ca8125b0ca0f3b8d0b068efc667}{%
+           family={Rozat},
+           familyi={R\bibinitperiod},
+           given={Lise},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b70916cab2bae5a8d990bddb8799ae26}{%
+           family={Vandenbussche},
+           familyi={V\bibinitperiod},
+           given={Pierre-Yves},
+           giveni={P\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81c72f5a7e5ed4d4f8302ea158f44020}{%
+           family={Vatant},
+           familyi={V\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44a67d52a280c82511ddccdb495f7cfa}{%
+           family={Raimond},
+           familyi={R\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=252042c3f2cd0c84d7af0c351255e554}{%
+           family={Cotte},
+           familyi={C\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{990671db83ca92b79c3e7710b7976028}
+      \strng{fullhash}{254bed078c918a7b06a6350b878f9e3e}
+      \strng{bibnamehash}{990671db83ca92b79c3e7710b7976028}
+      \strng{authorbibnamehash}{990671db83ca92b79c3e7710b7976028}
+      \strng{authornamehash}{990671db83ca92b79c3e7710b7976028}
+      \strng{authorfullhash}{254bed078c918a7b06a6350b878f9e3e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The web is designed for public access, a model that does not fit private business, which needs to exercice control and limits over information. Nevertheless, companies can benefit from the web model, with its founding principles of universality, simplicity and technical suppport and the techologies that make this possible. The same applies to the semantic web, as our case study shows.}
+      \field{issn}{0012-4508}
+      \field{journaltitle}{Documentaliste-Sciences de l'Information}
+      \field{langid}{french}
+      \field{note}{Publisher: A.D.B.S.}
+      \field{number}{4}
+      \field{shorttitle}{Approches documentaires}
+      \field{title}{Approches documentaires : priorité aux contenus}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{volume}{Vol. 48}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 59}
+      \range{pages}{18}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/3LXVR75V/Dalbin et al. - 2011 - Approches documentaires priorité aux contenus.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/AGXJRHU6/revue-documentaliste-sciences-de-l-information-2011-4-page-42.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-documentaliste-sciences-de-l-information-2011-4-page-42.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-documentaliste-sciences-de-l-information-2011-4-page-42.htm
+      \endverb
+    \endentry
+    \entry{noauthor_dublin_nodate}{online}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Dublin Core Metadata Initiative}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb DCMI\: Home:/home/maxime/Zotero/storage/VIUE6B6G/dublincore.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://dublincore.org/
+      \endverb
+      \verb{url}
+      \verb https://dublincore.org/
+      \endverb
+    \endentry
     \entry{estienne_thesaurus_1573}{mvbook}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=b287f9fb9d760dabeef7c12cf4bd467e}{%
@@ -186,6 +552,84 @@
       \verb http://gallica.bnf.fr/ark:/12148/bpt6k8720517v
       \endverb
     \endentry
+    \entry{bibliotheque_nationale_de_france_protocole_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
+           family={France},
+           familyi={F\bibinitperiod},
+           given={Bibliothèque},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={nationale\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Le protocole Z39.50}
+      \field{titleaddon}{{BnF} - Site institutionnel}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/L36X67B9/le-protocole-z3950.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bnf.fr/fr/le-protocole-z3950
+      \endverb
+      \verb{url}
+      \verb https://www.bnf.fr/fr/le-protocole-z3950
+      \endverb
+    \endentry
+    \entry{bibliotheque_nationale_de_france_protocole_nodate-1}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
+           family={France},
+           familyi={F\bibinitperiod},
+           given={Bibliothèque},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={nationale\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
+      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Protocole {OAI}-{PMH}}
+      \field{titleaddon}{{BnF} - Site institutionnel}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/6L8CI7D3/protocole-oai-pmh.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bnf.fr/fr/protocole-oai-pmh
+      \endverb
+      \verb{url}
+      \verb https://www.bnf.fr/fr/protocole-oai-pmh
+      \endverb
+    \endentry
     \entry{bibliotheque_nationale_de_france_rameau_nodate}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
@@ -223,48 +667,6 @@
       \endverb
       \verb{url}
       \verb https://rameau.bnf.fr/
-      \endverb
-    \endentry
-    \entry{bibliotheque_nationale_de_france_rameau_2020}{unpublished}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
-           family={France},
-           familyi={F\bibinitperiod},
-           given={Bibliothèque},
-           giveni={B\bibinitperiod},
-           givenun=0,
-           prefix={nationale\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{18}
-      \field{langid}{french}
-      \field{month}{2}
-      \field{title}{{RAMEAU}: Inititation}
-      \field{urlday}{1}
-      \field{urlmonth}{8}
-      \field{urlyear}{2020}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Texte intégral:/home/maxime/Zotero/storage/5VQFP7YI/BnF - 2020 - RAMEAU Inititation.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://rameau.bnf.fr/sites/default/files/2020-02/rameauinit.pdf
-      \endverb
-      \verb{url}
-      \verb https://rameau.bnf.fr/sites/default/files/2020-02/rameauinit.pdf
       \endverb
     \endentry
     \entry{noauthor_loi_1974}{book}{}
