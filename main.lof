@@ -15,11 +15,27 @@
 \defcounter {refsection}{0}\relax
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Arbre porphyrien prenant en compte les différences}}{17}{figure.caption.8}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Infinitude de l'arbre de Porphyre}}{18}{figure.caption.9}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Infinitude de l'arbre de Porphyre}}{17}{figure.caption.9}
 \defcounter {refsection}{0}\relax
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Extrait de l'arborescence de l'index de Pline \textsc {l'Ancien}\relax }}{18}{figure.caption.10}
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Classification des vocabulaires selon leur complexité}}{20}{figure.caption.11}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Le modèle taxonomique\relax }}{21}{figure.caption.12}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Le modèle du thésaurus simple\relax }}{21}{figure.caption.12}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Le modèle polyhiérarchique\relax }}{22}{figure.caption.13}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Application du modèle polyhiérarchique\relax }}{22}{figure.caption.13}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Relation d'équivalence\relax }}{23}{figure.caption.14}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Relation d'association\relax }}{23}{figure.caption.15}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Relation de hiérarchie\relax }}{24}{figure.caption.16}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Modélisation d'une vedette de thésaurus}}{24}{figure.caption.17}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
@@ -33,12 +49,18 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{41}{figure.caption.13}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{41}{figure.caption.13}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{47}{figure.caption.20}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{47}{figure.caption.20}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{43}{figure.caption.14}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{49}{figure.caption.21}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{44}{figure.caption.15}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{50}{figure.caption.22}
+\defcounter {refsection}{0}\relax
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{51}{figure.caption.23}

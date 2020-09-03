@@ -1,2 +1,65 @@
-\section{\label{I-C-2}Les \textit{thesauri}, vocabulaire contrôlé hiérarchique le plus fréquent}
-\titreEntete{Les thesauri}
+\section{\label{I-C-2}Le \textit{thésaurus}, vocabulaire contrôlé hiérarchique le plus fréquent}
+\titreEntete{Le thésaurus}
+
+Né dans les années 1950 aux États-Unis, le thésaurus n'a été adopté massivement qu'avec l'apparition de l'informatique. C'est un langage combinatoire, une liste organisée de termes normalisés et contrôlés, qui permet de faire le lien entre le langage naturel de l'homme et le nécessaire besoin d'avoir un langage contrôlé pour les ressources. La sélection d'un terme lors de l'indexation permet de sélectionner un concept lui-même décrit par plusieurs termes (synonymes, équivalents, traductions). Ainsi, les institutions patrimoniales se sont emparées de cet outil, adaptable au domaine de chacune: l'\ac{ina} possède un thésaurus orienté vers l'audiovisuel, la Cinémathèque française un \href{http://www.cineressources.net/thesaurus/}{thésaurus orienté vers le cinéma}.
+
+\subsection{\label{I-C-2-a}Types de structure}
+\titreEntete{Types de structure}
+
+Le type de thésaurus le plus utilisé est celui constitué d'une hiérarchie simple\footnote{La typologie des \textit{thesauri} décrite par la suite est présente chez \cite{rosenfeld_information_2015}.}. L'\ac{ina} possède un thésaurus de noms communs formé sur cette hiérarchie simple à unique ascendance\footnote{Voir \reference{annexe_thesaurus}}, c'est à dire qu'un terme est nécessairement descendant d'une seule classe, il ne peut pas hériter de deux caractéristiques différentes, ce qui le rapproche de la taxinomie\footnote{Voir \reference{modele_taxo} et \reference{modele_thes_simple}.}.
+
+\input{images/comparaison_taxo_thes_simple.tex} 
+
+De manière à exprimer la descendance depuis plusieurs caractéristiques, un thésaurus polyhiérarchique existe. Il permet de définir et d'accepter plus de termes contrôlés que le thésaurus simple. En effet, par la combinaison des termes ascendants, un même terme peut avoir deux ascendance différentes. \nP{Peter}{Morville} et \nP{Louis}{Rosenfeld} prennent un exemple médical pour illustrer ce type particulier de thésaurus.
+
+\input{images/polyhierarchie.tex}
+
+Enfin, comme nous l'avons évoqué précédemment\footnote{Voir \reference{I-C-1}.}, le seul arbre possible est un arbre multiple, adapté à son contexte. Ainsi, des \textit{thesauri} à facettes existent, reflétant les multiples dimensions thématiques que peuvent contenir les documents ou les éléments: un terme se retrouve alors dans plusieurs arbres, multipliant les points d'accès. Plusieurs \textit{thesauri} simples sont par conséquent créés, permettant la description de l'ensemble de ces dimensions.
+
+\subsection{\label{I-C-2-b}Relations entre les termes}
+\titreEntete{Relations entre les termes}
+
+La force du thésaurus ne réside pas seulement dans l'enchaînement d'ascendances et de descendances. Les relations établies entre les termes sont essentielles pour permettre le lien entre le langage humain naturel et le besoin de contrôle imposé par l'indexation et la recherche: un thésaurus est \og un vocabulaire contrôlé dans lequel les relations d'équivalence, de hiérarchie et d'association sont correctement identifiées de manière à permettre une meilleure récupération\fg{}\footcite{rosenfeld_information_2015}.\\
+
+Les relations créées précisent le sens de chaque vedette par comparaison aux vedettes de sens voisin, elles permettent de naviguer entre ces vedettes pour affiner sa recherche, l'élargir ou bien la réorienter. La hiérarchisation et l'établissement de liens permet de passer à une navigation sémantique, alors que les simples vocabulaires contrôlés évoqués au \reference{I-A} ne permettaient qu'une navigation par mots.\\
+
+La première relation est la relation d'équivalence.
+\begin{wrapfigure}{L}{4cm}
+	\centering
+	\input{images/relation_equivalence.tex}
+	\caption{Relation d'équivalence}
+	\label{relation_equivalence}	
+\end{wrapfigure} Elle connecte le terme préférentiel --- le terme principal de la vedette --- avec ses variantes: les synonymes, les acronymes, les abréviations, les variantes lexicales ou les différences de graphie sont ainsi incorporés au thésaurus comme variantes. Cette relation\footnote{Voir \reference{relation_equivalence}} est une relation horizontale, d'égalité, comme dans l'anneau de synonymie. Dans l'\reference{annexe_thesaurus}, le terme \og Cadreur\fg{}, qui est le terme préférentiel, a deux variantes --- ou termes \og Employés pour\fg{}, \og Cameraman\fg{} et \og Opérateur de prise de vue\fg{}.\\
+
+Le second type de relation est la relation associative. \begin{wrapfigure}{R}{5cm}
+	\centering
+	\input{images/relation_association.tex}
+	\caption{Relation d'association}
+	\label{relation_association}	
+\end{wrapfigure} Comme la relation d'équivalence, elle est horizontale. Elle permet d'exprimer la proximité sémantique entre deux termes: dans \ac{rameau}, la vedette \href{https://data.bnf.fr/fr/11933646/television/}{\og Télévision\fg{}} possède quarante relations d'association avec d'autres vedettes, comme \href{https://data.bnf.fr/fr/12648926/industrie_de_la_television/}{\og Industrie de la télévision\fg{}}. L'association\footnote{Voir \reference{relation_association}.} n'est pas une relation de stricte égalité, elle indique le partage sémantique d'une partie de leur définition. Cette relation permet l'élargissement d'une recherche depuis une vedette.\\
+
+Le dernier type de relation est hiérarchique.Il est le plus utilisé car il permet l'expression de nombreuses relations du langage naturel: \begin{wrapfigure}{L}{5cm}
+	\centering
+	\input{images/relation_hierar.tex}
+	\caption{Relation de hiérarchie}
+	\label{relation_hierar}	
+\end{wrapfigure}
+\begin{itemize}
+	\item la relation génétique --- la plus fréquente --- peut ainsi être exprimée. Le sens du terme générique est inclus dans celui du terme spécifique: la vedette \ac{rameau} \href{https://data.bnf.fr/fr/11960499/radiodiffusion/}{\og Radiodiffusion\fg{}} est l'un des termes génériques de  \href{https://data.bnf.fr/fr/11933646/television/}{\og Télévision\fg{}} qui est elle-même terme générique de \href{https://data.bnf.fr/fr/11936935/chaines_de_television/}{\og Chaînes de télévision\fg{}} notamment. Chacune de ces vedettes est décrite par son ascendance et sa descendance.
+	\item la relation d'appartenance --- ou de regroupement --- est possible;
+	\item de même que la relation partitive
+\end{itemize}
+La définition de cette relation hiérarchique\footnote{Voir \reference{relation_hierar}.} permet l'expression de caractéristiques et de relations du langage naturel infinies. La recherche d'une vedette peut alors être affinée --- quand l'utilisateur passe d'une vedette générique à une vedette spécifique --- ou bien élargie --- quand il passe d'une vedette spécifique à une vedette générique.\\
+
+Alors, chaque terme devient le centre de son propre réseau et construit un nouvel arbre, entièrement né de son contexte.
+
+
+\subsection{\label{I-C-2-c}Utiliser la précoordination pour les relations complexes}
+\titreEntete{Utiliser la précoordination pour les relations complexes}
+
+L'inconvénient du thésaurus comme évoqué précédemment est l'impossibilité pour l'utilisateur de feuilleter l'index: \og Télévision\fg{} et \og Chaînes de télévision\fg{}, bien qu'étant proches, ne seraient pas au même endroit dans l'index. Pour faciliter la navigation de l'utilisateur, les mots-clés sont coordonnés avant l'utilisation par l'utilisateur pour former une vedette-matière construite (comme dans le cas de \ac{rameau}): une vedette principale constitue la tête de la vedette, puis des subdivisions la complètent\footnote{Dans \og \href{https://data.bnf.fr/fr/11977461/plantes-hotes/}{Plantes -- Parasites -- Plantes-hôtes}\fg{}, \og Plantes\fg{} est la tête de vedette, complétée par deux subdivisions.}. Une vision globale est ainsi offerte et permet une précision du sujet des facettes ainsi qu'une limitation du bruit: \href{https://data.bnf.fr/fr/11977461/plantes-hotes/}{Plantes -- Parasites -- Plantes-hôtes}\fg{} est ainsi séparée de \href{https://data.bnf.fr/fr/12397201/plantes_parasites/}{\og Plantes parasites\fg{}}.\\
+
+\bigskip
+Les différentes structures de \textit{thesauri} et leurs multiples relations permettent un modèle de classification, de combinaison et de description des termes efficace, à la fois proche du langage naturel mais en s'en éloignant par le formalisme et le contrôle des termes. Chaque vedette est le centre de son propre référentiel, dirigeant vers des variantes, des vedettes proches ou en relation.
+
+\input{images/recap_thes.tex}

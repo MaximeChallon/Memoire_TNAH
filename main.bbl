@@ -293,7 +293,7 @@
       \verb http://viaf.org/
       \endverb
     \endentry
-    \entry{cnrtl_definition_2020}{online}{}
+    \entry{cnrtl_definition_2020}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=8961dfc9eb18558f0569142c2583c0e1}{%
            family={{CNRTL}},
@@ -314,7 +314,6 @@
       \field{month}{7}
       \field{shorttitle}{Vocabulaire}
       \field{title}{Définition de {VOCABULAIRE}}
-      \field{titleaddon}{{CNRTL}}
       \field{urlday}{26}
       \field{urlmonth}{7}
       \field{urlyear}{2020}
@@ -489,6 +488,52 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-documentaliste-sciences-de-l-information-2011-4-page-42.htm
       \endverb
     \endentry
+    \entry{degez_thesauroglossaire_2001}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=86995a02f1d20c96da588d906931cc12}{%
+           family={Dégez},
+           familyi={D\bibinitperiod},
+           given={Danièle},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a745efb37b21e714bd0e3e080dd47b45}{%
+           family={Menillet},
+           familyi={M\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {{ADBS} éditions}%
+      }
+      \strng{namehash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \strng{fullhash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \strng{bibnamehash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \strng{authorbibnamehash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \strng{authornamehash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \strng{authorfullhash}{33cac2cf2aafe4a7fd9680362ab3a62b}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-84365-051-2}
+      \field{pagetotal}{181}
+      \field{series}{Collection Sciences de l'information}
+      \field{shorttitle}{Thésauroglossaire des langages documentaires}
+      \field{title}{Thésauroglossaire des langages documentaires : un outil de contrôle sémantique}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://catalogue.bnf.fr/ark:/12148/cb37703277d
+      \endverb
+      \verb{url}
+      \verb https://catalogue.bnf.fr/ark:/12148/cb37703277d
+      \endverb
+      \keyw{Documentation,Indexation (documentation),Langages documentaires,Thésaurus}
+    \endentry
     \entry{noauthor_dublin_nodate}{online}{}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
@@ -545,7 +590,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{isbn}{978-2-246-74851-9}
-      \field{note}{Country: {FR} ill., couv. ill. 23 cm. Bibliogr. p. 665-701. Index.}
+      \field{langid}{french}
       \field{pagetotal}{712}
       \field{shorttitle}{De l'arbre au labyrinthe}
       \field{title}{De l'arbre au labyrinthe : [études historiques sur le signe et l'interprétation]}
@@ -602,6 +647,26 @@
       \endverb
       \verb{url}
       \verb http://gallica.bnf.fr/ark:/12148/bpt6k8720517v
+      \endverb
+    \endentry
+    \entry{noauthor_foaf_nodate}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{FOAF} Vocabulary Specification}
+      \field{urlday}{3}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb FOAF Vocabulary Specification:/home/maxime/Zotero/storage/92IUW97A/spec.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://xmlns.com/foaf/spec/
+      \endverb
+      \verb{url}
+      \verb http://xmlns.com/foaf/spec/
       \endverb
     \endentry
     \entry{bibliotheque_nationale_de_france_protocole_nodate}{online}{}
@@ -721,6 +786,27 @@
       \verb https://rameau.bnf.fr/
       \endverb
     \endentry
+    \entry{noauthor_general_nodate}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{{GEMET}}
+      \field{title}{General Multilingual Environmental Thesaurus}
+      \field{urlday}{3}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Themes:/home/maxime/Zotero/storage/UY86LD5N/themes.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.eionet.europa.eu/gemet/en/groups/
+      \endverb
+      \verb{url}
+      \verb https://www.eionet.europa.eu/gemet/en/groups/
+      \endverb
+    \endentry
     \entry{noauthor_httpsmemsicccsdcnrsfrmem_00803704document_nodate}{report}{}
       \field{sortinit}{h}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
@@ -734,6 +820,25 @@
       \endverb
       \verb{url}
       \verb https://memsic.ccsd.cnrs.fr/mem_00803704/document
+      \endverb
+    \endentry
+    \entry{noauthor_les_nodate}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labeltitlesource}{title}
+      \field{title}{Les thesaurus}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Les thesaurus:/home/maxime/Zotero/storage/3MRKPNNW/Les thesaurus_test_1.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://bbouillon.free.fr/univ/cours_ufr/bootz/Les%20thesaurus_test_1.htm
+      \endverb
+      \verb{url}
+      \verb http://bbouillon.free.fr/univ/cours_ufr/bootz/Les%20thesaurus_test_1.htm
       \endverb
     \endentry
     \entry{noauthor_loi_1974}{book}{}

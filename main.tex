@@ -29,6 +29,7 @@
 \usepackage{pstricks}
 \usepackage{tikz} %paquet pour dessiner ; à placer avant graphicx
 \usepackage{graphicx} %paquet image
+\usepackage{wrapfig}
 
 
 \usepackage{caption} %pour que la mention de figure n'apparaisse pas dans les légendes de l'image
@@ -47,6 +48,8 @@
 \DeclareAcronym{dsi}{short = DSI, long = Direction des systèmes d'information}
 \DeclareAcronym{ead}{short = EAD, long = Encoded Archival Description}
 \DeclareAcronym{epic}{short = ÉPIC, long = Établissement public à caractère industriel et commercial}
+\DeclareAcronym{foaf}{short = FOAF, long = Friend of a Friend}
+\DeclareAcronym{gemet}{short = GEMET, long = General Multilingual Environmental Thesaurus}
 \DeclareAcronym{ina}{short = INA, long = Institut national de l'Audiovisuel}
 \DeclareAcronym{isan}{short = ISAN, long = \textit{International Standard Audiovisual Number}}
 \DeclareAcronym{lcsh}{short = LCSH, long = Library of Congress Subject Headings}
@@ -80,6 +83,7 @@
 %%%%%%%%%%%%%%%%%%%%
 \begin{document}
 	\renewcommand*\appendixautorefname{Annexe}
+	\renewcommand*\chapterautorefname{Chapitre}
 		
 	\frontmatter
 	\include{parties/frontmatter/page_titre}
