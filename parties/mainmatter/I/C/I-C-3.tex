@@ -1,2 +1,64 @@
 \section{\label{I-C-3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}
 \titreEntete{Passer du texte libre à un vocabulaire contrôlé}
+
+Dans la description de documents audiovisuels --- comme dans celle d'autres documents patrimoniaux ---, désigner des personnes est indispensable. Pour enrichir le seul état civil de la personne, plusieurs moyens peuvent être utilisés:
+\begin{itemize}
+	\item rédiger un texte libre décrivant les caractéristiques de la personne, ses fonctions, ses dates de naissance et de mort, \dots. Cette solution pose la problématique de la structuration des données: un texte libre n'est pas lisible par une machine; son accès est par conséquent restreint.
+	\item utiliser un vocabulaire contrôlé et sélectionner les termes correspondant à la personne. Cependant, en fonction du niveau de précision souhaité, ce vocabulaire doit être plus ou moins précis, rendant, dans le cas d'une grande précision, la description longue et fastidieuse.
+	\item définir des champs essentiels à la description de cette personne, et rédiger un texte libre pour les informations supplémentaires. De même que dans le premier cas, le texte libre appauvrit l'effort de structuration de la description.
+\end{itemize}
+Face à ces difficultés, les documentalistes de la \ac{ddcol} l'\ac{ina} créent des vedettes de personnes selon une succession de champs (sexe, date de naissance, date de mort, \dots) et de notes, dont une note qualité qui est régie par un guide de rédaction. Cette note qualité a pour but de décrire en quelques mots les fonctions de la personne et le lieu d'exercice.\\
+
+Dans le cadre de la migration des données de la \ac{ddcol} dans le \textit{Lac de données}, un alignement de ces notes qualité est nécessaire avec le thésaurus des noms communs qui existe parallèlement, notamment pour enrichir le thésaurus des termes des notes qualité qui n'y existent pas.
+
+\subsection{\label{I-C-3-a}Contrôler du texte libre}
+\titreEntete{Contrôler du texte libre}
+
+La note qualité est rédigée selon des règles définies au préalable par les documentalistes. Cependant, la rédaction en texte libre conduit à l'apparition d'erreurs humaines, comme les erreurs de graphie, de grammaire ou de ponctuation. En effet, une note qualité peut avoir deux formes:
+\begin{itemize}
+	\item Fonction1, fonction2, \dots~.Pays
+	\item Homonymes: 1 - Fonction1, fonction2, \dots~.Pays ; 2 - Fonction1, fonction2, \dots~.Pays 
+\end{itemize}
+Ainsi, l'oubli d'une ponctuation, ou son inversion, conduit à rendre la note qualité non conforme aux règles et, par conséquent, à rendre son traitement plus difficile voire impossible. De plus, les différences de graphie liées au masculin et au féminin, et au singulier et au pluriel, rendent ces notes qualité très disparates.\\
+
+De manière à pouvoir les aligner avec le thésaurus de noms communs, un premier traitement est nécessaire, pour extraire et normaliser les fonctions. Le logiciel ETL (\textit{Extract Transform Loaad})\footnote{Un ETL permet de migrer des données depuis une source vers une cible, en leur appliquant des traitements avant de les charger dans la cible.} \href{https://www.talend.com/fr/products/big-data/}{Talend Big Data Platform} permet ce premier traitement.\\
+
+La première étape consiste à scinder chaque note selon les fonctions et les pays: le point sépare ces deux éléments et permet cette scission. Ainsi, la fonction extraite de \og Historien, musicologue. France\fg{} est \og Historien, musicologue\fg{} alors que la note qualité \og Journaliste, France\fg{} ne peut pas être scindée. Une seconde scission intervient par la suite de manière à récupérer chaque fonction une à une, passant de \og Historien, musicologue\fg{} à \og Historien\fg{} et \og musicologue\fg{}.\\
+
+Quand les fonctions sont récupérées, le contrôle des termes peut avoir lieu selon plusieurs choix à effectuer en amont:
+\begin{itemize}
+	\item le choix du genre doit être effectué pour éviter les termes équivalents dans le sens mais différents en graphie
+	\item le choix du nombre
+	\item la gestion de la ponctuation propre aux fonctions comme les traits d'union
+	\item la gestion de l'accentuation
+\end{itemize}
+Pour normaliser le plus possible, le choix du masculin singulier, de la suppression de toute la ponctuation et de l'accentuation a été effectué. Pour le choix du genre, le nombre des exceptions comme \og musée\fg{}, portant une terminaison du féminin, étant plus rares que le nombre de tous les féminins, le choix du masculin s'est imposé pour normaliser le maximum de fonctions.La \autoref{exemple_realisateur_NQ} montre une dernière normalisation à effectuer: la suppression des \textit{stopwords}, effectuée en \autoref{exemple_realisateur_NQ2}.
+\begin{figure}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/dessinateur_fonctions.csv}
+	\caption{Données d'exemple de notes qualité avec la fonction de Réalisateur}
+	\label{exemple_realisateur_NQ}
+\end{figure}
+\begin{figure}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/dessinateur_fonctions2.csv}
+	\caption{Données d'exemple de notes qualité avec la fonction de Réalisateur, après normalisation des fonctions}
+	\label{exemple_realisateur_NQ2}
+\end{figure}
+\bigskip
+
+Après la normalisation, les fonctions sont suffisamment contrôlées et proches des règles d'un thésaurus pour être alignées. Cependant, nous pouvons observer que les erreurs humaines de graphie, comme l'oubli d'un \og s\fg{} dans \og dessinateur\fg{}, restent et ne pourront par conséquent pas être alignées. Le traitement correct de l'ensemble des notes en texte libre reste impossible à cause des erreurs introduites par l'homme.\\
+
+Enfin, les notes qualité de l'\ac{ina} comprennent également des qualités ne décrivant pas directement la personne, mais définissant cette personne par un lien avec un fait. C'est le cas des faits divers, des attentats, des affaires judiciaires dans lesquels une personne peut être impliquées comme victime ou accusé; c'est le cas également des indications de filiation et de généalogie avec lesquelles une personne est seulement désignée, sans apporter de précisions sur ses véritables fonctions\footnote{Voir \reference{exemple_NQ_sans_fonctions}.}. Ces parties de notes qualité --- ou bien la totalité de ces notes --- ne décrivant pas la fonction de la personne et n'allant pas trouver d'équivalent dans le thésaurus, elles sont écartées du traitement.
+\begin{figure}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/affaires_attentat.csv}
+	\caption{Données d'exemple de notes qualité sans fonctions}
+	\label{exemple_NQ_sans_fonctions}
+\end{figure}
+
+\subsection{\label{I-C-3-b}Aligner les extractions en langage naturel avec un thésaurus de noms communs}
+\titreEntete{Aligner avec un thésaurus de noms communs}
+
+\subsection{\label{I-C-3-c}Classer pour repérer les blocages}
+\titreEntete{Classer pour repérer les blocages}

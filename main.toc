@@ -51,34 +51,40 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {3.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{25}{section.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{27}{part.2}
+\contentsline {subsection}{\numberline {3.3.1}Contrôler du texte libre}{25}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{29}{chapter.4}
+\contentsline {subsection}{\numberline {3.3.2}Aligner les extractions en langage naturel avec un thésaurus de noms communs}{27}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{31}{chapter.5}
+\contentsline {subsection}{\numberline {3.3.3}Classer pour repérer les blocages}{27}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{33}{chapter.6}
+\contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{29}{part.2}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{35}{part.3}
+\contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{31}{chapter.4}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{37}{chapter.7}
+\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{33}{chapter.5}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{39}{chapter.8}
+\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{35}{chapter.6}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{41}{chapter.9}
+\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{37}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{43}{chapter*.18}
+\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{39}{chapter.7}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{47}{part*.19}
+\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{41}{chapter.8}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{47}{appendix.A}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{43}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{49}{appendix.B}
+\contentsline {chapter}{Conclusion}{45}{chapter*.21}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Le thésaurus de noms communs de l'\ac {ina}}{51}{appendix.C}
+\contentsline {part}{Annexes}{49}{part*.22}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{53}{figure.caption.23}
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{49}{appendix.A}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{55}{appendix*.24}
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{51}{appendix.B}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{57}{appendix*.25}
+\contentsline {chapter}{\numberline {C}Le thésaurus de noms communs de l'\ac {ina}}{53}{appendix.C}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index des noms de référentiels}{55}{figure.caption.26}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des figures}{57}{appendix*.27}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{59}{appendix*.28}
