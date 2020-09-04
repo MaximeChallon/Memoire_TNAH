@@ -37,13 +37,15 @@
 \defcounter {refsection}{0}\relax
 \contentsline {figure}{\numberline {3.13}{\ignorespaces Modélisation d'une vedette de thésaurus}}{24}{figure.caption.17}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Données d'exemple de notes qualité avec la fonction de Réalisateur\relax }}{26}{figure.caption.18}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Données d'exemple de notes qualité avec la fonction de Réalisateur\relax }}{27}{figure.caption.18}
 \defcounter {refsection}{0}\relax
 \contentsline {figure}{\numberline {3.15}{\ignorespaces Données d'exemple de notes qualité avec la fonction de Réalisateur, après normalisation des fonctions\relax }}{27}{figure.caption.19}
 \defcounter {refsection}{0}\relax
 \contentsline {figure}{\numberline {3.16}{\ignorespaces Données d'exemple de notes qualité sans fonctions\relax }}{27}{figure.caption.20}
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Utilisation des synonymes pour l'alignement du terme \FB@og Cuisinier\FB@fg \relax {}\relax }}{29}{figure.caption.21}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Gestion de la polysémie dans l'alignement du terme \FB@og Cuisinier\FB@fg \relax {}\relax }}{29}{figure.caption.22}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
@@ -57,16 +59,22 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{49}{figure.caption.23}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{49}{figure.caption.23}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{51}{figure.caption.25}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{51}{figure.caption.25}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{51}{figure.caption.24}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{53}{figure.caption.26}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{52}{figure.caption.25}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{54}{figure.caption.27}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{53}{figure.caption.26}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{55}{figure.caption.28}
+\defcounter {refsection}{0}\relax
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Résultat de l'alignement des journalistes avec le thésaurus des noms communs\relax }}{57}{figure.caption.29}

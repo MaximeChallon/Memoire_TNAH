@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  3 SEP 2020 17:54
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  4 SEP 2020 08:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2947,8 +2947,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
+ []
+
+
+Overfull \hbox (41.44798pt too wide) in paragraph at lines 55--56
+ [][] 
  []
 
 \openout6 = `main.mw'.
@@ -2957,32 +2965,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 \openout6 = `main.mw'.
 
 
-Overfull \hbox (41.44798pt too wide) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout6 = `main.mw'.
+
+ [27]
+(./main.mw)
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Overfull \hbox (49.96799pt too wide) in paragraph at lines 70--71
  [][] 
  []
 
-))
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (49.96799pt too wide) in paragraph at lines 78--79
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+Underfull \vbox (badness 6125) has occurred while \output is active []
+
 \openout6 = `main.mw'.
 
- [27] (./main.mw)
+ [28]
+(./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [28
-
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
+)
 \openout6 = `main.mw'.
 
  [29] (./main.mw)
@@ -2994,34 +3024,33 @@ Overfull \hbox (41.44798pt too wide) in paragraph at lines 55--56
 
 \openout6 = `main.mw'.
 
- [30] (./main.mw)
+ [30
+
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [31] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [32] (./main.mw)
 \openout6 = `main.mw'.
 
 
 Chapitre 4.
 \openout6 = `main.mw'.
 
-[31
+[33
 
 ] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [32
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-
-Chapitre 5.
-\openout6 = `main.mw'.
-
-[33] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3036,7 +3065,7 @@ Chapitre 5.
 \openout6 = `main.mw'.
 
 
-Chapitre 6.
+Chapitre 5.
 \openout6 = `main.mw'.
 
 [35] (./main.mw)
@@ -3053,9 +3082,11 @@ Chapitre 6.
 ] (./main.mw)
 \openout6 = `main.mw'.
 
+
+Chapitre 6.
 \openout6 = `main.mw'.
 
- [37] (./main.mw)
+[37] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3064,34 +3095,32 @@ Chapitre 6.
 
 \openout6 = `main.mw'.
 
- [38] (./main.mw)
+ [38
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [39] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [40] (./main.mw)
 \openout6 = `main.mw'.
 
 
 Chapitre 7.
 \openout6 = `main.mw'.
 
-[39
+[41
 
 ] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [40
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-
-Chapitre 8.
-\openout6 = `main.mw'.
-
-[41] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3106,10 +3135,28 @@ Chapitre 8.
 \openout6 = `main.mw'.
 
 
-Chapitre 9.
+Chapitre 8.
 \openout6 = `main.mw'.
 
 [43] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [44
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Chapitre 9.
+\openout6 = `main.mw'.
+
+[45] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3121,7 +3168,7 @@ Chapitre 9.
  (./parties/mainmatter/conclusion_generale.tex
 \openout6 = `main.mw'.
 
- [44
+ [46
 
 
 ] (./main.mw)
@@ -3130,7 +3177,7 @@ Chapitre 9.
 )
 \openout6 = `main.mw'.
 
- [45] (./main.mw)
+ [47] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3142,7 +3189,7 @@ Chapitre 9.
  (./parties/backmatter/annexes.tex
 \openout6 = `main.mw'.
 
- [46
+ [48
 
 
 
@@ -3151,13 +3198,13 @@ Chapitre 9.
 
 \openout6 = `main.mw'.
 
- [47]
+ [49]
 (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [48] (./main.mw)
+ [50] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -3168,7 +3215,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 <images/index_rerum_alsatia.jpg>
 \openout6 = `main.mw'.
 
-[49
+[51
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3183,7 +3230,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [50
+ [52
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3215,7 +3262,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[51] (./main.mw)
+[53] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3224,17 +3271,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [52] (./main.mw)
+ [54] (./main.mw)
 \openout6 = `main.mw'.
 
 
 Annexe C.
 File: images/cadreur_hierarchie.png Graphic file (type bmp)
 <images/cadreur_hierarchie.png>
-)
 \openout6 = `main.mw'.
 
- [53
+[55
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3245,7 +3291,26 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [54
+ [56
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Annexe D.
+)
+\openout6 = `main.mw'.
+
+ [57] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [58
 
 
 ] (./main.mw)
@@ -3256,7 +3321,7 @@ runsystem(makeindex referentiels.idx)...executed.
  (./referentiels.ind
 \openout6 = `main.mw'.
 
- [55
+ [59
 
 
 
@@ -3271,7 +3336,7 @@ runsystem(makeindex referentiels.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[56
+[60
 
 
 ] (./main.mw)
@@ -3285,7 +3350,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [57
+ [61
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3296,7 +3361,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [58
+ [62
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3305,7 +3370,7 @@ runsystem(makeindex ina.idx)...executed.
 (./main.toc
 \openout6 = `main.mw'.
 
- [59] (./main.mw)
+ [63] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3314,7 +3379,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [60] (./main.mw)
+ [64] (./main.mw)
 \openout6 = `main.mw'.
 
 )
@@ -3323,7 +3388,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [61] (./main.mw)
+ [65] (./main.mw)
 \openout6 = `main.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
@@ -3510,6 +3575,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
 
 )
 (./parties/mainmatter/I/C/I-C.aux
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3971,6 +4052,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 )
 \openout6 = `main.mw'.
 
@@ -4021,12 +4126,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
 
  ) 
 Here is how much of TeX's memory you used:
- 44435 strings out of 493007
- 891106 string characters out of 6136719
- 1581696 words of memory out of 5000000
- 47585 multiletter control sequences out of 15000+600000
+ 44465 strings out of 493007
+ 891849 string characters out of 6136719
+ 1583895 words of memory out of 5000000
+ 47604 multiletter control sequences out of 15000+600000
  533584 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,9n,92p,10387b,4984s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (73 pages).
+Output written on main.pdf (77 pages).
