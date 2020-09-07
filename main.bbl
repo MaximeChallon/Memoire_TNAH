@@ -19,6 +19,63 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{alquier_production_2017}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e988c66b33ab5a56d0bbc90954aa7c7b}{%
+           family={Alquier},
+           familyi={A\bibinitperiod},
+           given={Eléonore},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=12f742b4208879084d5f82e621ae9aad}{%
+           family={Carrive},
+           familyi={C\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b20c308e2d32bf38715f7a926d67afd3}{%
+           family={Lalande},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{fullhash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{bibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authorbibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authornamehash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{authorfullhash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1279-5127}
+      \field{journaltitle}{Document numérique}
+      \field{langid}{french}
+      \field{note}{Publisher: Lavoisier}
+      \field{number}{2}
+      \field{title}{Production documentaire et usages}
+      \field{urlday}{5}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{volume}{Vol. 20}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{115\bibrangedash 136}
+      \range{pages}{22}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/SGNR6Z2I/Alquier et al. - 2017 - Production documentaire et usages.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/5U4ZJBDN/revue-document-numerique-2017-2-page-115.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-document-numerique-2017-2-page-115.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-document-numerique-2017-2-page-115.htm
+      \endverb
+      \keyw{important}
+    \endentry
     \entry{berger_indexation_2006}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=205df96374e88d2d053496bd8342b5b5}{%
@@ -293,43 +350,6 @@
       \verb http://viaf.org/
       \endverb
     \endentry
-    \entry{cnrtl_definition_2020}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=8961dfc9eb18558f0569142c2583c0e1}{%
-           family={{CNRTL}},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{8961dfc9eb18558f0569142c2583c0e1}
-      \strng{fullhash}{8961dfc9eb18558f0569142c2583c0e1}
-      \strng{bibnamehash}{8961dfc9eb18558f0569142c2583c0e1}
-      \strng{authorbibnamehash}{8961dfc9eb18558f0569142c2583c0e1}
-      \strng{authornamehash}{8961dfc9eb18558f0569142c2583c0e1}
-      \strng{authorfullhash}{8961dfc9eb18558f0569142c2583c0e1}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{day}{26}
-      \field{langid}{french}
-      \field{month}{7}
-      \field{shorttitle}{Vocabulaire}
-      \field{title}{Définition de {VOCABULAIRE}}
-      \field{urlday}{26}
-      \field{urlmonth}{7}
-      \field{urlyear}{2020}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb VOCABULAIRE \: Définition de VOCABULAIRE:/home/maxime/Zotero/storage/39W2T7MT/vocabulaire.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.cnrtl.fr/definition/vocabulaire
-      \endverb
-      \verb{url}
-      \verb https://www.cnrtl.fr/definition/vocabulaire
-      \endverb
-    \endentry
     \entry{the_library_of_congress_library_nodate}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=fab5f99a9e436a50a4cecfcfaa8e91a9}{%
@@ -532,7 +552,7 @@
       \verb{url}
       \verb https://catalogue.bnf.fr/ark:/12148/cb37703277d
       \endverb
-      \keyw{Documentation,Indexation (documentation),Langages documentaires,Thésaurus}
+      \keyw{Thésaurus,Documentation,Indexation (documentation),Langages documentaires}
     \endentry
     \entry{noauthor_dublin_nodate}{online}{}
       \field{sortinit}{D}
@@ -807,38 +827,89 @@
       \verb https://www.eionet.europa.eu/gemet/en/groups/
       \endverb
     \endentry
-    \entry{noauthor_httpsmemsicccsdcnrsfrmem_00803704document_nodate}{report}{}
-      \field{sortinit}{h}
+    \entry{hoog_lina_2006}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc576e514f47c602dfd0b2219c909611}{%
+           family={Hoog},
+           familyi={H\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de France}%
+      }
+      \strng{namehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{fullhash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{bibnamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authorbibnamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authornamehash}{fc576e514f47c602dfd0b2219c909611}
+      \strng{authorfullhash}{fc576e514f47c602dfd0b2219c909611}
+      \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{https://memsic.ccsd.cnrs.fr/mem\_00803704/document}
-      \verb{file}
-      \verb Texte intégral:/home/maxime/Zotero/storage/FDAA3TQI/httpsmemsic.ccsd.cnrs.frmem_00803704document.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://memsic.ccsd.cnrs.fr/mem_00803704/document
-      \endverb
-      \verb{url}
-      \verb https://memsic.ccsd.cnrs.fr/mem_00803704/document
-      \endverb
-    \endentry
-    \entry{noauthor_les_nodate}{online}{}
-      \field{sortinit}{L}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labeltitlesource}{title}
-      \field{title}{Les thesaurus}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
+      \field{abstract}{L{\textbackslash}'{INA} est une institution créée pour archiver et restituer toutes les dimensions d{\textbackslash}'une mémoire collective alimentée à flux permanent par la radio et la télévision. En cinquante ans cette entreprise originale est devenue à la fois la bibliothèque nationale de l{\textbackslash}'audiovisuel, la plus grande banque d{\textbackslash}'archives numérisées au monde, le premier centre européen de formation aux métiers de l{\textbackslash}'image et du son, un laboratoire unique d{\textbackslash}'expérimentation et de recherche, un lieu de production innovante. Son patrimoine exceptionnel commence à s{\textbackslash}'ouvrir à tous.}
+      \field{isbn}{978-2-13-054545-3}
+      \field{langid}{french}
+      \field{note}{{ISSN}: 0768-0066}
+      \field{pagetotal}{128}
+      \field{series}{Que sais-je?}
+      \field{title}{L’{INA}}
+      \field{urlday}{5}
+      \field{urlmonth}{7}
       \field{urlyear}{2020}
+      \field{year}{2006}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Les thesaurus:/home/maxime/Zotero/storage/3MRKPNNW/Les thesaurus_test_1.html:text/html
+      \verb Snapshot:/home/maxime/Zotero/storage/PZUCHI64/l-ina--9782130545453.html:text/html
       \endverb
       \verb{urlraw}
-      \verb http://bbouillon.free.fr/univ/cours_ufr/bootz/Les%20thesaurus_test_1.htm
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
       \endverb
       \verb{url}
-      \verb http://bbouillon.free.fr/univ/cours_ufr/bootz/Les%20thesaurus_test_1.htm
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
+      \endverb
+    \endentry
+    \entry{institut_national_de_laudiovisuel_rapport_2019}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e3f87d9ac82cbc330e96d1d0afa20bd6}{%
+           family={l'Audiovisuel},
+           familyi={l\bibinitperiod},
+           given={Institut},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={national\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{institution}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \list{location}{1}{%
+        {Bry-sur-Marne}%
+      }
+      \strng{namehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{fullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{bibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authorbibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authornamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authorfullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \field{sortinit}{l}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Rapport d'activités 2019}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb INA - 2019 - Rapport d'activités 2019.pdf:/home/maxime/Zotero/storage/KREZQ8VJ/INA - 2019 - Rapport d'activités 2019.pdf:application/pdf
       \endverb
     \endentry
     \entry{noauthor_loi_1974}{book}{}
@@ -906,6 +977,32 @@
       \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
       \endverb
     \endentry
+    \entry{roche-diore_atelier_2020}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=baa74f5d886426e0202e676889e68247}{%
+           family={Roche-Dioré},
+           familyi={R\bibinithyphendelim D\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{baa74f5d886426e0202e676889e68247}
+      \strng{fullhash}{baa74f5d886426e0202e676889e68247}
+      \strng{bibnamehash}{baa74f5d886426e0202e676889e68247}
+      \strng{authorbibnamehash}{baa74f5d886426e0202e676889e68247}
+      \strng{authornamehash}{baa74f5d886426e0202e676889e68247}
+      \strng{authorfullhash}{baa74f5d886426e0202e676889e68247}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{title}{Atelier transmission des connaissances}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
     \entry{rosenfeld_information_2015}{book}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=ce678185832a3d6d30797bea38563a54}{%
@@ -955,25 +1052,6 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:/home/maxime/Zotero/storage/FVFCVTP5/Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{noauthor_savoirs_nodate}{online}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labeltitlesource}{title}
-      \field{title}{Savoirs {CDI}: Vocabulaires contrôlés}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Savoirs CDI\: Vocabulaires contrôlés:/home/maxime/Zotero/storage/LX9C5FA3/vocabulaires-controles.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.reseau-canope.fr/savoirscdi/societe-de-linformation/tic-et-documentation/veille-technologique/formats-normes-et-standards/vocabulaires-controles.html
-      \endverb
-      \verb{url}
-      \verb https://www.reseau-canope.fr/savoirscdi/societe-de-linformation/tic-et-documentation/veille-technologique/formats-normes-et-standards/vocabulaires-controles.html
       \endverb
     \endentry
     \entry{schoepflin_alsatia_1751}{mvbook}{}

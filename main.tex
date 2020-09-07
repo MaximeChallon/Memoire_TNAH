@@ -34,6 +34,8 @@
 
 \usepackage{caption} %pour que la mention de figure n'apparaisse pas dans les légendes de l'image
 \usepackage{csvsimple}
+\usepackage{tabularx}
+\newcolumntype{C}{>{\centering}X}
 \usepackage{longtable}
 
 
@@ -45,8 +47,10 @@
 
 %%%%% Abréviations %%%%%
 \usepackage{acro}
+\DeclareAcronym{da}{short = DA, long = Département des Archives Professionnelles}
 \DeclareAcronym{ddcol}{short = DDCOL, long = Direction déléguée aux collections}
 \DeclareAcronym{dj}{short = DJ, long = Direction juridique}
+\DeclareAcronym{dl}{short = DL, long = Dépôt Légal}
 \DeclareAcronym{dsi}{short = DSI, long = Direction des systèmes d'information}
 \DeclareAcronym{ead}{short = EAD, long = Encoded Archival Description}
 \DeclareAcronym{epic}{short = ÉPIC, long = Établissement public à caractère industriel et commercial}
@@ -140,6 +144,8 @@
 \printindex[ina]
 
 	\listoffigures
+	
+	\listoftables
 
 	\tableofcontents
 	

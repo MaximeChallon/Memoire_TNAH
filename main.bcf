@@ -1947,10 +1947,10 @@
     <bcf:citekey order="21">bibliotheque_nationale_de_france_protocole_nodate-1</bcf:citekey>
     <bcf:citekey order="22">noauthor_dublin_nodate</bcf:citekey>
     <bcf:citekey order="23">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="24">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="25">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="26">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="27">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="24">hoog_lina_2006</bcf:citekey>
+    <bcf:citekey order="25">institut_national_de_laudiovisuel_rapport_2019</bcf:citekey>
+    <bcf:citekey order="26">alquier_production_2017</bcf:citekey>
+    <bcf:citekey order="27">institut_national_de_laudiovisuel_rapport_2019</bcf:citekey>
     <bcf:citekey order="28">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="29">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="30">eco_arbre_2010</bcf:citekey>
@@ -1960,14 +1960,14 @@
     <bcf:citekey order="34">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="35">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="36">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="37">rosenfeld_information_2015</bcf:citekey>
-    <bcf:citekey order="38">degez_thesauroglossaire_2001</bcf:citekey>
-    <bcf:citekey order="39">noauthor_general_nodate</bcf:citekey>
-    <bcf:citekey order="40">noauthor_foaf_nodate</bcf:citekey>
+    <bcf:citekey order="37">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="38">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="39">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="40">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="41">rosenfeld_information_2015</bcf:citekey>
-    <bcf:citekey order="42">rosenfeld_information_2015</bcf:citekey>
-    <bcf:citekey order="43">rosenfeld_information_2015</bcf:citekey>
-    <bcf:citekey order="44">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="42">degez_thesauroglossaire_2001</bcf:citekey>
+    <bcf:citekey order="43">noauthor_general_nodate</bcf:citekey>
+    <bcf:citekey order="44">noauthor_foaf_nodate</bcf:citekey>
     <bcf:citekey order="45">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="46">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="47">rosenfeld_information_2015</bcf:citekey>
@@ -1975,10 +1975,16 @@
     <bcf:citekey order="49">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="50">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="51">rosenfeld_information_2015</bcf:citekey>
-    <bcf:citekey order="52">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="53">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="54">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="55">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="52">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="53">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="54">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="55">rosenfeld_information_2015</bcf:citekey>
+    <bcf:citekey order="56">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="57">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="58">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="59">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="60">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="61">roche-diore_atelier_2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

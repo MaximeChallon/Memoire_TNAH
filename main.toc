@@ -31,62 +31,84 @@
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {2}Les référentiels à l’INA}{13}{chapter.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {3}L'arbre, un vocabulaire contrôlé hiérarchique}{15}{chapter.3}
+\contentsline {section}{\numberline {2.1}De multiples fonds à décrire}{14}{section.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.1}L'arbre de Porphyre: origines et influences}{15}{section.3.1}
+\contentsline {subsection}{\numberline {2.1.1}Les archives professionnelles}{14}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.1.1}L'arbre de Porphyre}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Les fonds issus du dépôt légal}{14}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.1.2}L'encyclopédisme (Antiquité - Moyen-Âge): la recherche d'un arbre global mimant le monde réel}{18}{subsection.3.1.2}
+\contentsline {section}{\numberline {2.2}Un système documentaire pluriel répondant aux besoins}{15}{section.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.1.3}Influences: une diversité de référentiels hiérarchiques}{19}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {2.2.1}Les bases de données du dépôt légal (DL)}{16}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.2}Le \textit {thésaurus}, vocabulaire contrôlé hiérarchique le plus fréquent}{20}{section.3.2}
+\contentsline {subsection}{\numberline {2.2.2}Les bases de données des archives professionnelles (DA)}{17}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.2.1}Types de structure}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {2.2.3}La base de donnés juridique (DJ)}{17}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.2.2}Relations entre les termes}{22}{subsection.3.2.2}
+\contentsline {section}{\numberline {2.3}Multiplication des sources de données et des référentiels}{18}{section.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.2.3}Utiliser la précoordination pour les relations complexes}{24}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {3}L'arbre, un vocabulaire contrôlé hiérarchique}{21}{chapter.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{25}{section.3.3}
+\contentsline {section}{\numberline {3.1}L'arbre de Porphyre: origines et influences}{21}{section.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.3.1}Contrôler du texte libre}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.1.1}L'arbre de Porphyre}{22}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.3.2}Aligner les extractions en langage naturel avec un thésaurus de noms communs}{28}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.1.2}L'encyclopédisme (Antiquité - Moyen-Âge): la recherche d'un arbre global mimant le monde réel}{24}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.3.3}Classer pour repérer les blocages}{29}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.1.3}Influences: une diversité de référentiels hiérarchiques}{25}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{31}{part.2}
+\contentsline {section}{\numberline {3.2}Le \textit {thésaurus}, vocabulaire contrôlé hiérarchique le plus fréquent}{26}{section.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{33}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.1}Types de structure}{27}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{35}{chapter.5}
+\contentsline {subsection}{\numberline {3.2.2}Relations entre les termes}{28}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{37}{chapter.6}
+\contentsline {subsection}{\numberline {3.2.3}Utiliser la précoordination pour les relations complexes}{30}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{39}{part.3}
+\contentsline {section}{\numberline {3.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{31}{section.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{41}{chapter.7}
+\contentsline {subsection}{\numberline {3.3.1}Contrôler du texte libre}{31}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{43}{chapter.8}
+\contentsline {subsection}{\numberline {3.3.2}Aligner les extractions en langage naturel avec un thésaurus de noms communs}{34}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{45}{chapter.9}
+\contentsline {subsection}{\numberline {3.3.3}Classer selon le thésaurus}{35}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{47}{chapter*.23}
+\contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{37}{part.2}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{51}{part*.24}
+\contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{39}{chapter.4}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{51}{appendix.A}
+\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{41}{chapter.5}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{53}{appendix.B}
+\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{43}{chapter.6}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Le thésaurus de noms communs de l'\ac {ina}}{55}{appendix.C}
+\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{45}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{57}{appendix.D}
+\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{47}{chapter.7}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{59}{figure.caption.29}
+\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{49}{chapter.8}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{61}{appendix*.30}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{51}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{63}{appendix*.31}
+\contentsline {chapter}{Conclusion}{53}{chapter*.23}
+\defcounter {refsection}{0}\relax
+\contentsline {part}{Annexes}{57}{part*.24}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{57}{appendix.A}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{59}{appendix.B}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{61}{appendix.C}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {D}Le thésaurus de noms communs de l'\ac {ina}}{63}{appendix.D}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {E}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{65}{appendix.E}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {F}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{67}{appendix.F}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {G}Les fournisseurs externes de données de l'\ac {ina}}{69}{appendix.G}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index des noms de référentiels}{71}{table.caption.34}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des figures}{73}{appendix*.35}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{75}{appendix*.36}
