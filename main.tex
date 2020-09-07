@@ -30,9 +30,9 @@
 \usepackage{tikz} %paquet pour dessiner ; à placer avant graphicx
 \usepackage{graphicx} %paquet image
 \usepackage{wrapfig}
-
-
 \usepackage{caption} %pour que la mention de figure n'apparaisse pas dans les légendes de l'image
+
+%%%%% Tableaux %%%%%
 \usepackage{csvsimple}
 \usepackage{tabularx}
 \newcolumntype{C}{>{\centering}X}
@@ -107,11 +107,22 @@
 	
 	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
 	
+	%intro
+	Simple liste de mots ou thésaurus, un référentiel peut être conçu sous différentes formes. Dans un premier temps, son utilisation répond à un unique besoin: contrôler les formes que peuvent prendre les termes de manière à pouvoir les associer à plusieurs reprises à des documents, pour éviter une redondance de la même information à différents endroits. Le référentiel n'a alors qu'une fonction de clé. Cette opération, simple au premier abord, peut se complexifier avec l'intégration de synonymes ou de termes similaires associés au terme principal. L'arbre de classification, modèle du thésaurus, permet de contrôler un ensemble de termes tout en leur apportant du sens.\\
+	
+	Les référentiels de l'\ac{ina} reflètent cette évolution et les pratiques qui leur sont liées. L'\ac{ina} est pourvu de listes de noms associés à des synonymes ou des variantes pour les noms de personnes, mais les noms communs --- plus difficiles à exprimer de manière contrôlée --- se trouvent eux dans un thésaurus permettant d'établir plus de relations sémantiques entre les termes similaires.
+	
 	\include{parties/mainmatter/I/A/I-A}
-	\include{parties/mainmatter/I/B/I-B}
 	\include{parties/mainmatter/I/C/I-C}
+	\include{parties/mainmatter/I/B/I-B}
+	
+	%conclu
+	
+	%mettre des schémas recap
 	
 	\part{\label{relier}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}
+	
+	%intro
 	
 	\chapter{\label{II-A}Le web de données: une exposition commune des référentiels}
 	\titreEntete{Le web de données: une exposition commune des référentiels}
@@ -120,7 +131,11 @@
 	\chapter{\label{II-C}Relier ses données à Wikidata}
 	\titreEntete{Relier ses données à Wikidata}
 	
+	%conclu
+	
 	\part{\label{centraliser}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}	
+	
+	%intro
 	
 	\chapter{\label{III-A}Les labyrinthes comme réseaux de données et de liens}
 	\titreEntete{Les labyrinthes comme réseaux de données et de liens}
@@ -128,6 +143,8 @@
 	\titreEntete{Le référentiel au centre du modèle}
 	\chapter{\label{III-C}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}
 	\titreEntete{Aligner deux référentiels de personnes physiques}
+	
+	%conclu
 
 	\include{parties/mainmatter/conclusion_generale}
 	
