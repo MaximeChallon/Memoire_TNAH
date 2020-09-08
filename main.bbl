@@ -232,6 +232,160 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
       \endverb
     \endentry
+    \entry{berners-lee_information_1989}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Information Mangement: A Proposal}
+      \field{titleaddon}{w3}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb The original proposal of the WWW, HTMLized:/home/maxime/Zotero/storage/NEUL9T6A/proposal.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/History/1989/proposal.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/History/1989/proposal.html
+      \endverb
+    \endentry
+    \entry{berners-lee_plenary_1994}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Plenary talk at {WorlWideWeb}}
+      \field{titleaddon}{w3}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Plenary talk by Tim BL at WWWF94\: Overview:/home/maxime/Zotero/storage/3KCNK8CC/WWW94Tim.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/Talks/WWW94Tim/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/Talks/WWW94Tim/
+      \endverb
+    \endentry
+    \entry{berners-lee_semantic_1998}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{title}{Semantic Web roadmap}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Semantic Web roadmap:/home/maxime/Zotero/storage/3SLIAL8B/Semantic.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/DesignIssues/Semantic.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/DesignIssues/Semantic.html
+      \endverb
+    \endentry
+    \entry{berners-lee_linked_2006}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Linked Data}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Linked Data - Design Issues:/home/maxime/Zotero/storage/A3MMN7ML/LinkedData.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/DesignIssues/LinkedData.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/DesignIssues/LinkedData.html
+      \endverb
+    \endentry
     \entry{aymonin_arabesques_2017}{book}{}
       \name{author}{5}{}{%
         {{uniquename=0,uniquepart=base,hash=2458e0e7ad166d18acb49bf333f629a6}{%
@@ -975,6 +1129,45 @@
       \endverb
       \verb{url}
       \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
+      \endverb
+    \endentry
+    \entry{poupeau_rassembler_2019}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Institut National de l'Histoire de l'Art}%
+      }
+      \strng{namehash}{3589829689e3be332872995f39629943}
+      \strng{fullhash}{3589829689e3be332872995f39629943}
+      \strng{bibnamehash}{3589829689e3be332872995f39629943}
+      \strng{authorbibnamehash}{3589829689e3be332872995f39629943}
+      \strng{authornamehash}{3589829689e3be332872995f39629943}
+      \strng{authorfullhash}{3589829689e3be332872995f39629943}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{title}{Rassembler les métadonnées des collections de l'{INA}}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=KYOzoRPks8Q
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=KYOzoRPks8Q
       \endverb
     \endentry
     \entry{roche-diore_atelier_2020}{unpublished}{}

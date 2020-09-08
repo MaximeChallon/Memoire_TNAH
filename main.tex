@@ -56,6 +56,7 @@
 \DeclareAcronym{epic}{short = ÉPIC, long = Établissement public à caractère industriel et commercial}
 \DeclareAcronym{foaf}{short = FOAF, long = Friend of a Friend}
 \DeclareAcronym{gemet}{short = GEMET, long = General Multilingual Environmental Thesaurus}
+\DeclareAcronym{http}{short = HTTP, long = HyperText Transfer Protocol}
 \DeclareAcronym{ina}{short = INA, long = Institut national de l'Audiovisuel}
 \DeclareAcronym{isan}{short = ISAN, long = \textit{International Standard Audiovisual Number}}
 \DeclareAcronym{lcsh}{short = LCSH, long = Library of Congress Subject Headings}
@@ -64,6 +65,8 @@
 \DeclareAcronym{oclc}{short = OCLC, long = Online Computer Library Center}
 \DeclareAcronym{ortf}{short = ORTF, long = Office de la radio-télévision française}
 \DeclareAcronym{rameau}{short = RAMEAU, long =Répertoire d'autorité-matière encyclopédique et alphabétique unifié}
+\DeclareAcronym{rdf}{short = RDF, long = Resource Description Framework}
+\DeclareAcronym{sparql}{short = SPARQL, long = SPARQL Protocol and RDF Query Language}
 \DeclareAcronym{unimarc}{short = UNIMARC, long =UNIversal MAchine-Readable Cataloging }
 
 
@@ -107,7 +110,6 @@
 	
 	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
 	
-	%intro
 	Simple liste de mots ou thésaurus, un référentiel peut être conçu sous différentes formes. Dans un premier temps, son utilisation répond à un unique besoin: contrôler les formes que peuvent prendre les termes de manière à pouvoir les associer à plusieurs reprises à des documents, pour éviter une redondance de la même information à différents endroits. Le référentiel n'a alors qu'une fonction de clé. Cette opération, simple au premier abord, peut se complexifier avec l'intégration de synonymes ou de termes similaires associés au terme principal. L'arbre de classification, modèle du thésaurus, permet de contrôler un ensemble de termes tout en leur apportant du sens.\\
 	
 	Les référentiels de l'\ac{ina} reflètent cette évolution et les pratiques qui leur sont liées. L'\ac{ina} est pourvu de listes de noms associés à des synonymes ou des variantes pour les noms de personnes, mais les noms communs --- plus difficiles à exprimer de manière contrôlée --- se trouvent eux dans un thésaurus permettant d'établir plus de relations sémantiques entre les termes similaires.
@@ -116,20 +118,18 @@
 	\include{parties/mainmatter/I/C/I-C}
 	\include{parties/mainmatter/I/B/I-B}
 	
-	%conclu
+	Le référentiel, tel que présenté dans les chapitres précédents, n'a pour destination que l'institution qui l'a créé, dans un unique but qui est de répondre à ses propres besoins selon ses activités. Cependant, nous l'avons évoqué, une même institution peut disposer de plusieurs référentiels, parfois similaires mais structurés différemment. Ces référentiels prennent la forme de liste de termes, ou de \textit{thesauri}, qui offrent des clés et des termes normalisés aux documents décrits. L'interopérabilité entre les bases de données n'est pas recherchée, comme celle avec des référentiels externes: le lien n'apparaît pas encore comme essentiel.\\
 	
-	%mettre des schémas recap
+	Ainsi, le référentiel comme fournisseur de clés et de termes contrôlés n'a qu'un usage interne et spécifique; il n'est pas utilisable autre part comme le montre la \reference{schema_general_controler}.
+	\input{images/schema_general_controler.tex}
 	
 	\part{\label{relier}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}
 	
 	%intro
 	
-	\chapter{\label{II-A}Le web de données: une exposition commune des référentiels}
-	\titreEntete{Le web de données: une exposition commune des référentiels}
-	\chapter{\label{II-B}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}
-	\titreEntete{Les ontologies, grammaires communes mais spécifiques}
-	\chapter{\label{II-C}Relier ses données à Wikidata}
-	\titreEntete{Relier ses données à Wikidata}
+	\input{parties/mainmatter/II/A/II-A.tex}
+	\input{parties/mainmatter/II/B/II-B.tex}
+	\input{parties/mainmatter/II/C/II-C.tex}
 	
 	%conclu
 	
