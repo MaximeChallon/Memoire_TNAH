@@ -1,0 +1,69 @@
+\begin{figure}[!h]
+	\centering
+	\begin{pspicture}(0,0.8)(16,15.2)
+		%cercle central
+		\pscircle(8.2,8){1.3}
+		\uput[0](7.4,8.6){Vedette}
+		\uput[0](7.2,8){\href{https://id.loc.gov/authorities/subjects/sh85133456.html}{television}}
+		\uput[0](7.2,7.4){de \ac{lcsh}}
+		
+		%rectangles de légende
+		\psframe[fillstyle=solid,fillcolor=lightgray](11,13)(15.5,14.5)
+		\uput[0](11,14){Correspondance exacte}
+		\uput[0](11.4,13.4){entre les vedettes}
+		
+		\psframe[fillstyle=solid,fillcolor=lightgray](11,1)(14.5,2)
+		\uput[0](11,1.5){Vedettes proches}
+		
+		\psframe[fillstyle=solid,fillcolor=lightgray](1,5)(4,6)
+		\uput[0](1,5.5){Vedettes filles}
+		
+		%3 barres de séparation
+		\psline[linewidth=0.1](7.2,7.2)(1.1,1.1)
+		\psline[linewidth=0.1](9.4,7.5)(15,5.5)
+		\psline[linewidth=0.1](8.2,9.3)(8.2,15)
+		
+		%bulles de liens
+		\pscircle(13,10){1.3}
+		\uput[0](12,10.5){\href{http://lod.nal.usda.gov/nalt/51607}{television}}
+		\uput[0](12.6,10){de}
+		\uput[0](12,9.5){l'USDA}
+		
+		\pscircle(11.6,4.4){1.3}
+		\uput[0](10.5,4.8){\href{http://data.bnf.fr/ark:/12148/cb119336465}{Télévision}}
+		\uput[0](11.2,4.3){de}
+		\uput[0](10.8,3.8){la BNF}
+		\pscircle(9,2.5){1.3}
+		\uput[0](8,3){\href{http://id.worldcat.org/fast/1146535}{Television}}
+		\uput[0](8.6,2.5){de}
+		\uput[0](8.1,2){l'\ac{oclc}}
+		\pscircle(6,3.5){1.3}
+		\uput[0](5.2,4){\href{http://www.yso.fi/onto/yso/p5759}{televisio}}
+		\uput[0](5.7,3.5){de}
+		\uput[0](5.3,3){l'YSO}
+		
+		\pscircle(3.5,8){1.3}
+		\uput[0](3.2,8){\dots}
+		\pscircle(2,12){1.3}
+		\uput[0](0.9,12.7){\href{http://id.worldcat.org/fast/1146565}{Television}}
+		\uput[0](0.8,12.2){\href{http://id.worldcat.org/fast/1146565}{-- Influence}}
+		\uput[0](1.7,11.7){de}
+		\uput[0](1.2,11.2){l'\ac{oclc}}
+		\pscircle(6,11.4){1.3}
+		\uput[0](4.9,12.1){\href{http://id.worldcat.org/fast/1146614}{Television}}
+		\uput[0](4.8,11.6){\href{http://id.worldcat.org/fast/1146614}{-- Research}}
+		\uput[0](5.6,11.1){de}
+		\uput[0](5.2,10.6){l'\ac{oclc}}
+		
+		%liens
+		\psline(9.4,8.5)(11.8,9.4)
+		\psline(9.1,7.1)(10.7,5.3)
+		\psline(8.4,6.75)(9,3.8)
+		\psline(6.5,4.6)(7.7,6.8)
+		\psline(6.9,8)(4.8,8)
+		\psline(3,11.2)(7,8.6)
+		\psline(6.8,10.4)(7.6,9.2)
+	\end{pspicture}
+	\caption[Modélisation des liens vers des référentiels externes présents dans la vedette \og television\fg{} de \ac{lcsh}]{Modélisation des liens vers des référentiels externes présents dans la vedette \og \href{https://id.loc.gov/authorities/subjects/sh85133456.html}{television}\fg{} de \ac{lcsh}}
+	\label{lcsh_liens}
+\end{figure}

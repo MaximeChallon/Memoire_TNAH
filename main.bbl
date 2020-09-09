@@ -76,6 +76,188 @@
       \endverb
       \keyw{important}
     \endentry
+    \entry{baker_rapport_2012}{report}{}
+      \name{author}{13}{}{%
+        {{uniquename=0,uniquepart=base,hash=50a0d0f788c1ca4724785fe0e3b8bbdb}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7c827782588d1b70ecd3d5885b9bd7c8}{%
+           family={Coyle},
+           familyi={C\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8c695170b22cd8b49c8f680f65ffff8f}{%
+           family={Dunsire},
+           familyi={D\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82106e6ca6e4a468e65f4fa5b13efc89}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=74a7ab262359920ebcfc4951a5952427}{%
+           family={Panzer},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bd63a5f13e254142491092608e2b40ff}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7299f03569f29cd0dbf6d26814156e76}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cae6ab465ef453d8bca7237a53c80316}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9a7eeeb885ef48f9eb8d3b05eadad231}{%
+           family={Waites},
+           familyi={W\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=47a2a1e4100b6ce8df27e6dca72f723f}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81156f94bdf4d98368c0459f03cb554e}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{5}{}{%
+        {{hash=0afd9da1c59a8b1fec54798dbedbd28c}{%
+           family={Bailly},
+           familyi={B\bibinitperiod},
+           given={Rodolphe},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6db230925c0ce3e61c858974617d153d}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={Marie-Hélène},
+           giveni={M\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=0365a01315a7b7171abefb4d0f8e5c9a}{%
+           family={Dalbin},
+           familyi={D\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7eb8f72d050b556d9efd79bc5915bb23}{%
+           family={Plu},
+           familyi={P\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0abb9eca47b7b2c51dd723ee65d3cc1}{%
+           family={Chauveinc},
+           familyi={C\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {W3C}%
+      }
+      \strng{namehash}{5e2d0443daf20e2f82b83e286dda44f7}
+      \strng{fullhash}{908c3e8427283f3c220fbff8a45667bc}
+      \strng{bibnamehash}{5e2d0443daf20e2f82b83e286dda44f7}
+      \strng{authorbibnamehash}{5e2d0443daf20e2f82b83e286dda44f7}
+      \strng{authornamehash}{5e2d0443daf20e2f82b83e286dda44f7}
+      \strng{authorfullhash}{908c3e8427283f3c220fbff8a45667bc}
+      \strng{translatorbibnamehash}{de97b221cf909baeb34b7293dc6268f6}
+      \strng{translatornamehash}{de97b221cf909baeb34b7293dc6268f6}
+      \strng{translatorfullhash}{455e0939162438b3d996766f3b438be9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{langid}{french}
+      \field{month}{9}
+      \field{title}{Rapport final du groupe d’incubation "Bibliothèques et web de données" ({LLD}-{XG})}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Rapport final du groupe d’incubation "Bibliothèques et web de données":/home/maxime/Zotero/storage/F9LAJNPY/XGR-lld-fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://mediatheque.cite-musique.fr/MediaComposite/ARTICLES/W3C/XGR-lld-fr.html#xd_co_f=ZWZhZWJmOGEtZjhkMS00ODI1LWI4M2YtNTQyZmYxMzg3MzZl~
+      \endverb
+      \verb{url}
+      \verb http://mediatheque.cite-musique.fr/MediaComposite/ARTICLES/W3C/XGR-lld-fr.html#xd_co_f=ZWZhZWJmOGEtZjhkMS00ODI1LWI4M2YtNTQyZmYxMzg3MzZl~
+      \endverb
+    \endentry
+    \entry{benezet_participer_2015}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3863f03a6ef902e13ad13cf61f041253}{%
+           family={Bénézet},
+           familyi={B\bibinitperiod},
+           given={Joly},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3863f03a6ef902e13ad13cf61f041253}
+      \strng{fullhash}{3863f03a6ef902e13ad13cf61f041253}
+      \strng{bibnamehash}{3863f03a6ef902e13ad13cf61f041253}
+      \strng{authorbibnamehash}{3863f03a6ef902e13ad13cf61f041253}
+      \strng{authornamehash}{3863f03a6ef902e13ad13cf61f041253}
+      \strng{authorfullhash}{3863f03a6ef902e13ad13cf61f041253}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Architecture du Web (1) World Wide Web : toile d’araignée de serveurs d’informations reliés les uns aux autres par des liens physiques (le réseau matériel) et des liens logiques (les liens hypertextes) Architecture du Web : infrastructure technologique définie par des standards Standardisation de l’architecture du Web assurée par un organisme, le W3C (World Wide Web Consortium) : accessibilité pour les logiciels et machines et accessibilité universelle aux contenus}
+      \field{langid}{french}
+      \field{title}{Participer au Web de données}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/AKL372GJ/3213771.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://slideplayer.fr/slide/3213771/
+      \endverb
+      \verb{url}
+      \verb https://slideplayer.fr/slide/3213771/
+      \endverb
+    \endentry
     \entry{berger_indexation_2006}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=205df96374e88d2d053496bd8342b5b5}{%
@@ -122,7 +304,7 @@
       \verb http://halshs.archives-ouvertes.fr/halshs-00975166
       \endverb
     \endentry
-    \entry{bermes_1_2013}{article}{}
+    \entry{bermes_convergence_2013}{incollection}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -143,6 +325,9 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
       \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
       \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
       \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
@@ -152,13 +337,69 @@
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0184-0886}
-      \field{journaltitle}{Bibliotheques}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Le Web sémantique en bibliothèque}
+      \field{isbn}{978-2-7654-1417-9}
       \field{langid}{french}
-      \field{note}{{ISBN}: 9782765414179 Publisher: Éditions du Cercle de la Librairie}
-      \field{shorttitle}{1. Du catalogue de bibliothèque aux données sur le Web}
-      \field{title}{1. Du catalogue de bibliothèque aux données sur le Web : un changement de paradigme du côté de l’usager}
+      \field{note}{{ISSN} : 0184-0886}
+      \field{title}{Convergence et interopérabilité : vers le Web de données}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 46}
+      \range{pages}{18}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/DLFEBTLB/le-web-semantique-en-bibliotheque--9782765414179-page-29.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \endverb
+    \endentry
+    \entry{bermes_du_2013}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
+      \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorbibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authornamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorfullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Le Web sémantique en bibliothèque}
+      \field{isbn}{978-2-7654-1417-9}
+      \field{langid}{french}
+      \field{note}{{ISSN}: 0184-0886}
+      \field{title}{Du catalogue de bibliothèque aux données sur le Web : un changement de paradigme du côté de l’usager}
       \field{urlday}{31}
       \field{urlmonth}{7}
       \field{urlyear}{2020}
@@ -177,7 +418,7 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-17.htm
       \endverb
     \endentry
-    \entry{bermes_2_2013}{article}{}
+    \entry{bermes_les_2013}{incollection}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
            family={Bermès},
@@ -198,6 +439,9 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
       \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
       \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
       \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
@@ -207,29 +451,28 @@
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0184-0886}
-      \field{journaltitle}{Bibliotheques}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Le Web sémantique en bibliothèque}
+      \field{isbn}{978-2-7654-1417-9}
       \field{langid}{french}
-      \field{note}{{ISBN}: 9782765414179 Publisher: Éditions du Cercle de la Librairie}
-      \field{shorttitle}{2. Convergence et interopérabilité}
-      \field{title}{2. Convergence et interopérabilité : vers le Web de données}
+      \field{note}{{ISSN}: 0184-0886}
+      \field{title}{Les promesses du Web de données en bibliothèque}
       \field{urlday}{1}
       \field{urlmonth}{8}
       \field{urlyear}{2020}
       \field{year}{2013}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{29\bibrangedash 46}
-      \range{pages}{18}
+      \field{pages}{47\bibrangedash 65}
+      \range{pages}{19}
       \verb{file}
-      \verb Snapshot:/home/maxime/Zotero/storage/DLFEBTLB/le-web-semantique-en-bibliotheque--9782765414179-page-29.html:text/html
+      \verb Snapshot:/home/maxime/Zotero/storage/PMCSHPMQ/le-web-semantique-en-bibliotheque--9782765414179-page-47.html:text/html
       \endverb
       \verb{urlraw}
-      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-47.htm
       \endverb
       \verb{url}
-      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-47.htm
       \endverb
     \endentry
     \entry{berners-lee_information_1989}{online}{}
@@ -386,6 +629,108 @@
       \verb https://www.w3.org/DesignIssues/LinkedData.html
       \endverb
     \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010-1}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
+           family={bibliothèques},
+           familyi={b\bibinitperiod},
+           given={Fédération},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
+           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \field{sortinit}{b}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRSAD}}
+      \field{title}{Fonctionnalités requises des données d'autorité matières -- Rapport final}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \endverb
+    \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
+           family={bibliothèques},
+           familyi={b\bibinitperiod},
+           given={Fédération},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
+           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \field{sortinit}{b}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRAD}}
+      \field{title}{Fonctionnalités requises desdonnées d'autorité -- Rapport final}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \endverb
+    \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2012}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
+           family={bibliothèques},
+           familyi={b\bibinitperiod},
+           given={Fédération},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
+           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
+      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
+      \field{sortinit}{b}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRBR}}
+      \field{title}{Fonctionnalités requises des notices bibliographiques -- Rapport final}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \endverb
+    \endentry
     \entry{aymonin_arabesques_2017}{book}{}
       \name{author}{5}{}{%
         {{uniquename=0,uniquepart=base,hash=2458e0e7ad166d18acb49bf333f629a6}{%
@@ -504,14 +849,75 @@
       \verb http://viaf.org/
       \endverb
     \endentry
+    \entry{noauthor_cidoc-crm_nodate}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{CIDOC}-{CRM}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Home | CIDOC CRM:/home/maxime/Zotero/storage/MNDR4XCD/www.cidoc-crm.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.cidoc-crm.org/
+      \endverb
+      \verb{url}
+      \verb http://www.cidoc-crm.org/
+      \endverb
+    \endentry
+    \entry{library_of_congress_overview_2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=00e8f04415b0b593c92877024b6ef817}{%
+           family={Congress},
+           familyi={C\bibinitperiod},
+           given={Library},
+           giveni={L\bibinitperiod},
+           givenun=1,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{00e8f04415b0b593c92877024b6ef817}
+      \strng{fullhash}{00e8f04415b0b593c92877024b6ef817}
+      \strng{bibnamehash}{00e8f04415b0b593c92877024b6ef817}
+      \strng{authorbibnamehash}{00e8f04415b0b593c92877024b6ef817}
+      \strng{authornamehash}{00e8f04415b0b593c92877024b6ef817}
+      \strng{authorfullhash}{00e8f04415b0b593c92877024b6ef817}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{BIBFRAME} (Bibliographic Framework) is an initiative to evolve bibliographic description standards to a linked data model, in order to make bibliographic information more useful both within and outside the library community. When a resource is cataloged -- a book, for example -- the resulting description includes information elements such as the author, what the book is about, various published forms, and information about copies of the book.}
+      \field{langid}{english}
+      \field{title}{Overview of the {BIBFRAME} 2.0 Model}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/PWHTQ3FR/bibframe2-model.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.loc.gov/bibframe/docs/bibframe2-model.html
+      \endverb
+      \verb{url}
+      \verb https://www.loc.gov/bibframe/docs/bibframe2-model.html
+      \endverb
+    \endentry
     \entry{the_library_of_congress_library_nodate}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=fab5f99a9e436a50a4cecfcfaa8e91a9}{%
+        {{uniquename=1,uniquepart=given,hash=fab5f99a9e436a50a4cecfcfaa8e91a9}{%
            family={Congress},
            familyi={C\bibinitperiod},
            given={The\bibnamedelima Library},
            giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0,
+           givenun=1,
            prefix={of},
            prefixi={o\bibinitperiod},
            prefixun=0}}%
@@ -1087,6 +1493,27 @@
       \verb https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000333539&pageCourante=08355
       \endverb
     \endentry
+    \entry{noauthor_modeles_nodate}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Modèles {FRBR}, {FRAD} et {FRSAD}}
+      \field{titleaddon}{Site institutionnel}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/N4DPNF7L/modeles-frbr-frad-et-frsad.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bnf.fr/fr/modeles-frbr-frad-et-frsad
+      \endverb
+      \verb{url}
+      \verb https://www.bnf.fr/fr/modeles-frbr-frad-et-frsad
+      \endverb
+    \endentry
     \entry{naude_advis_1627}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=86bcda1d4e86aa180cad840cf9d8cf46}{%
@@ -1129,6 +1556,46 @@
       \endverb
       \verb{url}
       \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
+      \endverb
+    \endentry
+    \entry{poupeau_reflexions_2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3589829689e3be332872995f39629943}
+      \strng{fullhash}{3589829689e3be332872995f39629943}
+      \strng{bibnamehash}{3589829689e3be332872995f39629943}
+      \strng{authorbibnamehash}{3589829689e3be332872995f39629943}
+      \strng{authornamehash}{3589829689e3be332872995f39629943}
+      \strng{authorfullhash}{3589829689e3be332872995f39629943}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{title}{Réflexions et questions autour du Web sémantique}
+      \field{titleaddon}{Les Petites Cases}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Réflexions et questions autour du Web sémantique | Les petites cases:/home/maxime/Zotero/storage/WT99VWXB/reflexions-et-questions-autour-du-web-semantique.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.lespetitescases.net/reflexions-et-questions-autour-du-web-semantique
+      \endverb
+      \verb{url}
+      \verb http://www.lespetitescases.net/reflexions-et-questions-autour-du-web-semantique
       \endverb
     \endentry
     \entry{poupeau_rassembler_2019}{unpublished}{}
@@ -1290,6 +1757,31 @@
       \verb http://bibliotheque-numerique.inha.fr/idurl/1/12532
       \endverb
       \keyw{Corpus : Imprimés {>} Classiques de l'histoire de l'art {>} Archéologie,Date de numérisation : 2005,Description matérielle : 1 vol. (748 p.) : ill. ; 44 cm,Identifiant numérique : {NUM} {FOL} C 439 (2),Langue du document : Latin,Lieu de publication : Colmariae [Colmar],Nombre de vues : 848,Période : 18e siècle,Sujet : Alsace (France),Type de document : Texte imprimé}
+    \endentry
+    \entry{noauthor_linked_2020}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{The Linked Open Data Cloud}
+      \field{titleaddon}{The Linked Open Data Cloud}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb lod-cloud-sm.jpg:/home/maxime/Zotero/storage/J6APSSVD/lod-cloud-sm.jpg:image/jpeg;The Linked Open Data Cloud:/home/maxime/Zotero/storage/MP3GZD5J/www.lod-cloud.net.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.lod-cloud.net/
+      \endverb
+      \verb{url}
+      \verb https://www.lod-cloud.net/
+      \endverb
     \endentry
     \entry{valery_variete_1936}{book}{}
       \name{author}{1}{}{%
