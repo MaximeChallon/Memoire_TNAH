@@ -1,2 +1,20 @@
 \chapter{\label{II-C}Relier ses données à Wikidata: l'exemple de l'alignement des personnes physiques de l'\ac{ina}}
 \titreEntete{Relier ses données à Wikidata}
+
+%intro
+Si certaines institutions patrimoniales ont fait le choix d'exposer l'ensemble de leur données sur le Web avec le Web de données, certaines ne font pas ce choix. C'est le cas de l'\ac{ina}. En effet, l'Institut se concentre sur la mise en cohérence et la centralisation de ses données, tout en les enrichissant le plus possible. Dans ce but d'enrichissement des données, l'\ac{ina}, nous l'avons évoqué au \reference{I-B}, récupère des données complémentaires auprès de sociétés et créé ainsi du lien avec ces dernières par la conservation dans les bases de données des identifiants propres à chaque document et à chaque société. Cependant, les données fournies sont spécifiques à un domaine d'activité et restreintes. Par conséquent, l'utilisation du Web de données, avec des données ouvertes et accessibles à tous, permet la liaison avec plusieurs jeux de données et la récupération des informations manquantes.\\
+
+\href{https://www.wikidata.org/}{Wikidata} est une base de connaissances collaborative \ac{rdf} concentrant le plus de données et de connaissances sur le monde. L'\ac{ina} utilise ainsi les identifiants de cette base comme liens vers les données qui y sont stockées\footnote{Le \reference{III-A} évoque en détail les possibilités offertes par Wikidata dans le parcours des liens et du graphe.}. Ces identifiants peuvent être ajoutés dès l'opération de catalogage des documents audiovisuels; ou bien ajoutés \textit{a posteriori} par un alignement.\\
+
+Pour réaliser cet alignement entre des données institutionnelles et un jeu de données externes du Web sémantique, plusieurs outils existent:
+\begin{itemize}
+	\item Des logiciels comme \href{https://openrefine.org/}{Open Refine}\footnote{Ce logiciel est notamment utilisé par les archives Nationales pour aligner les personnes de la \href{http://www2.culture.gouv.fr/documentation/leonore/}{base Léonore de la Légion d'Honneur} avec Wikidata.} permettent d'aligner des données avec Wikidata en un clic sur l'interface; seulement, ce type de logiciel est peu personnalisable dans la constitution des requêtes effectuées.
+	\item Des logiciels ETL permettant de créer des chaînes de récupération et de traitement des données, peu importe le lieu et le type de leur stockage. \href{https://www.talend.com/fr/}{Talend} est ainsi utilisé par l'\ac{ina}.
+\end{itemize}
+\medskip
+
+De même que l'alignement entre les personnes physiques et le thésaurus de noms communs de l'\ac{ina}\footnote{Voir \reference{I-B}.}, celui-ci présente de nombreuses difficultés liées au langage naturel de chaque jeu de données. Plusieurs points de comparaison doivent alors être utilisés, ce qui multiplie les alignements avec Wikidata. De plus, ce type d'alignement révèle de multiples limites, tant techniques que linguistiques.
+
+%input
+
+%conclu
