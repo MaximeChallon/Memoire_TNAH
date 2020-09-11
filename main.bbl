@@ -1387,6 +1387,125 @@
       \verb https://www.eionet.europa.eu/gemet/en/groups/
       \endverb
     \endentry
+    \entry{gruber_role_1991}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d6f62ae7296670cfaa17a18ca91d28f1}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann}%
+      }
+      \strng{namehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{fullhash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{bibnamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authorbibnamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authornamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authorfullhash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Principles of Knowledge Representation and Reasoning: Proceedings of the Second International Conference}
+      \field{langid}{english}
+      \field{title}{The Role of Common Ontology in Achieving Sharable, Reusable Knowledge Bases}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{601\bibrangedash 602}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.35.1743&rep=rep1&type=pdf
+      \endverb
+      \verb{url}
+      \verb http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.35.1743&rep=rep1&type=pdf
+      \endverb
+    \endentry
+    \entry{gruber_toward_1993}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d6f62ae7296670cfaa17a18ca91d28f1}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stanford}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{fullhash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{bibnamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authorbibnamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authornamehash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \strng{authorfullhash}{d6f62ae7296670cfaa17a18ca91d28f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{{OCLC}: 123335010}
+      \field{title}{Toward principles for the design of ontologies used for knowledge sharing.}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://tomgruber.org/writing/onto-design.pdf
+      \endverb
+      \verb{url}
+      \verb https://tomgruber.org/writing/onto-design.pdf
+      \endverb
+    \endentry
+    \entry{guarino_formal_1998}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f1f12e774ba86b03412f5a4be80f8f89}{%
+           family={Guarino},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=082cd17c4a3b5e41f66691ec3d5baee6}{%
+           family={International\bibnamedelimb Conference\bibnamedelimb on\bibnamedelimb Formal\bibnamedelimb Ontology\bibnamedelimb in\bibnamedelimb Information\bibnamedelima Systems},
+           familyi={I\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={{FOIS}},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam; Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {{IOS} Press ; Ohmsha}%
+      }
+      \strng{namehash}{b00a2542331f2261a07d89c9ebfbc029}
+      \strng{fullhash}{b00a2542331f2261a07d89c9ebfbc029}
+      \strng{bibnamehash}{b00a2542331f2261a07d89c9ebfbc029}
+      \strng{authorbibnamehash}{b00a2542331f2261a07d89c9ebfbc029}
+      \strng{authornamehash}{b00a2542331f2261a07d89c9ebfbc029}
+      \strng{authorfullhash}{b00a2542331f2261a07d89c9ebfbc029}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-90-5199-399-8 978-4-274-90223-9}
+      \field{langid}{english}
+      \field{shorttitle}{Formal ontology in information systems}
+      \field{title}{Formal ontology in information systems: proceedings of the first international conference ({FOIS}'98), June 6-8, Trento, Italy}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
     \entry{hoog_lina_2006}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=fc576e514f47c602dfd0b2219c909611}{%
@@ -1431,6 +1550,53 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
       \endverb
+    \endentry
+    \entry{isaac_les_2012}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ADBS}%
+      }
+      \strng{namehash}{73a935f38c7dd51639f66d24fd0d9179}
+      \strng{fullhash}{73a935f38c7dd51639f66d24fd0d9179}
+      \strng{bibnamehash}{73a935f38c7dd51639f66d24fd0d9179}
+      \strng{authorbibnamehash}{73a935f38c7dd51639f66d24fd0d9179}
+      \strng{authornamehash}{73a935f38c7dd51639f66d24fd0d9179}
+      \strng{authorfullhash}{73a935f38c7dd51639f66d24fd0d9179}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Tout d'abord, nous préciserons ce que la notion de référentiel peut recouvrir pour une approche linked data. A savoir, des artefacts de type: "metadata element sets" (ontologies formalisées à la {OWL}), "value vocabularies" (thesauri, fichiers d'autorités...), autres "datasets" (données sur les "objets du monde"). (cf. http://www.w3.org/2005/Incubator/lld/{XGR}‐lld‐vocabdataset/) Pour chacune de ces catégories, nous discuterons les caractéristiques de référentiels typiques. Nous nous intéresserons à leur provenance et à la manière dont ils ont été conçus (top‐down vs. bottom‐up, choix de modélisation). Nous insisterons également sur ce que la technologie Linked Data (et en particulier le rôle crucial des {URIs}) permet de changer par rapport aux artefacts qui correspondent à ces catégories, dans des approches plus traditionnelles. Par exemple: pour les thesauri et autres "value vocabularies", la transition de plus en plus visible d'une approche orientée termes (et noms) à une approche orientée concepts, voire "entités du monde réel", et, pour les schémas de données, les possibilités de réutilisation, voire d'"édition distribuée". Si l'interopérabilité au niveau des "datasets" de référence aura pu être abordée dans la matinée, on pourra dans l'après‐midi se concentrer sur l'interopérabilité au niveau des "value vocabularies" et des "metadata element sets". Pour ces deux familles on étudiera ce à quoi la notion d'alignement peut faire référence, ainsi que les scenarios de réutilisation par extension et/ou contrainte, en particulier au travers du concept d'"application profile" pour les schémas de données.}
+      \field{eventtitle}{Séminaire {IST} Inria : le document numérique à l'heure du web de données}
+      \field{isbn}{978-2-84365-142-7}
+      \field{langid}{french}
+      \field{shorttitle}{Les référentiels}
+      \field{title}{Les référentiels : typologie et interopérabilité}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{85\bibrangedash 104}
+      \range{pages}{20}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/BXFUDC9M/Isaac - 2012 - Les référentiels typologie et interopérabilité.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/P4NCACDZ/hal-00740282.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.inria.fr/hal-00740282
+      \endverb
+      \verb{url}
+      \verb https://hal.inria.fr/hal-00740282
+      \endverb
+      \keyw{Important}
     \endentry
     \entry{institut_national_de_laudiovisuel_rapport_2019}{report}{}
       \name{author}{1}{}{%
@@ -1758,6 +1924,55 @@
       \endverb
       \keyw{Corpus : Imprimés {>} Classiques de l'histoire de l'art {>} Archéologie,Date de numérisation : 2005,Description matérielle : 1 vol. (748 p.) : ill. ; 44 cm,Identifiant numérique : {NUM} {FOL} C 439 (2),Langue du document : Latin,Lieu de publication : Colmariae [Colmar],Nombre de vues : 848,Période : 18e siècle,Sujet : Alsace (France),Type de document : Texte imprimé}
     \endentry
+    \entry{studer_knowledge_1998}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e0c7ea82e283188bb50d580b79aae9e3}{%
+           family={Studer},
+           familyi={S\bibinitperiod},
+           given={Rudi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d05cc686bf995648279cd706a26c5b8}{%
+           family={Benjamins},
+           familyi={B\bibinitperiod},
+           given={V.Richard},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ba4603066ec9f23db109035b8d738b0c}{%
+           family={Fensel},
+           familyi={F\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93e85ae6c73ad74f173052f6a1b68115}
+      \strng{fullhash}{93e85ae6c73ad74f173052f6a1b68115}
+      \strng{bibnamehash}{93e85ae6c73ad74f173052f6a1b68115}
+      \strng{authorbibnamehash}{93e85ae6c73ad74f173052f6a1b68115}
+      \strng{authornamehash}{93e85ae6c73ad74f173052f6a1b68115}
+      \strng{authorfullhash}{93e85ae6c73ad74f173052f6a1b68115}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper gives an overview of the development of the field of Knowledge Engineering over the last 15 years. We discuss the paradigm shift from a transfer view to a modeling view and describe two approaches which considerably shaped research in Knowledge Engineering: Role-limiting Methods and Generic Tasks. To illustrate various concepts and methods which evolved in recent years we describe three modeling frameworks: {CommonKADS}, {MIKE} and {PROTÉGÉ}-{II}. This description is supplemented by discussing some important methodological developments in more detail: specification languages for knowledge-based systems, problem-solving methods and ontologies. We conclude by outlining the relationship of Knowledge Engineering to Software Engineering, Information Integration and Knowledge Management.}
+      \field{issn}{0169-023X}
+      \field{journaltitle}{Data \& Knowledge Engineering}
+      \field{langid}{english}
+      \field{note}{{OCLC}: 4927801743}
+      \field{number}{1}
+      \field{shorttitle}{Knowledge engineering}
+      \field{title}{Knowledge engineering: Principles and methods}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{volume}{25}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{161\bibrangedash 197}
+      \range{pages}{37}
+    \endentry
     \entry{noauthor_linked_2020}{online}{}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
@@ -1820,6 +2035,47 @@
       \verb{url}
       \verb https://catalogue.bnf.fr/ark:/12148/cb41687051w
       \endverb
+    \endentry
+    \entry{welty_supporting_2011}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=361fb4932f40c4ea48567e2b26a7c10a}{%
+           family={Welty},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f1f12e774ba86b03412f5a4be80f8f89}{%
+           family={Guarino},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \strng{fullhash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \strng{bibnamehash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \strng{authorbibnamehash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \strng{authornamehash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \strng{authorfullhash}{6115cd079ad89eaee7ad308e8954f0aa}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Database Systems and Knowledgebase Systems share many common principles. Data \& Knowledge Engineering ({DKE}) stimulates the exchange of ideas and interaction between these two related fields of interest. {DKE} reaches a world-wide audience of researchers, designers, managers and users. The major aim of the journal is to identify, investigate and analyze the underlying principles in the design and effective use of these systems. {DKE} achieves this aim by publishing original research results, technical advances and news items concerning data engineering, knowledge engineering, and the interface of these two fields.}
+      \field{issn}{1872-6933}
+      \field{journaltitle}{Data \& knowledge engineering}
+      \field{langid}{english}
+      \field{note}{Place: Amsterdam Publisher: Elsevier {OCLC}: 67323599}
+      \field{number}{39}
+      \field{title}{Supporting ontological analysis of taxonomic relationships}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{51\bibrangedash 74}
+      \range{pages}{24}
     \endentry
   \enddatalist
 \endrefsection

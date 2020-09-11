@@ -83,11 +83,11 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{Naissance du Web de données}{42}{section*.24}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{Principes généraux}{43}{section*.25}
+\contentsline {subsubsection}{Principes généraux}{44}{section*.25}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.1.2}Inventer un format d'échange compatible avec ce modèle de données: RDF}{44}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.2}Inventer un format d'échange compatible avec ce modèle de données: RDF}{45}{subsection.4.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.2}La mise en commun de référentiels au service des institutions}{45}{section.4.2}
+\contentsline {section}{\numberline {4.2}La mise en commun de référentiels au service des institutions}{46}{section.4.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {4.2.1}L'adoption du Web de données en institutions patrimoniales}{46}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax
@@ -95,52 +95,74 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {4.2.3}Créer des passerelles entre les référentiels}{48}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.3}Vers la fin de la notion de référentiels?}{49}{section.4.3}
+\contentsline {section}{\numberline {4.3}Vers la fin de la notion de référentiels?}{50}{section.4.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {4.3.1}Quand tout devient un potentiel référentiel}{50}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.3.2}Vers une uniformisation internationale de la donnée sur le Web et l'adoption de \ac {rdf} comme format de production}{51}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.2}Vers une uniformisation internationale de la donnée sur le Web et l'adoption de \ac {rdf} comme format de production}{52}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{53}{chapter.5}
+\contentsline {chapter}{\numberline {5}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}{55}{chapter.5}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{55}{chapter.6}
+\contentsline {section}{\numberline {5.1}L'ontologie, un vocabulaire structurant}{56}{section.5.1}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{57}{part.3}
+\contentsline {subsection}{\numberline {5.1.1}Origines de l'ontologie informatique}{56}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{59}{chapter.7}
+\contentsline {subsection}{\numberline {5.1.2}Des ontologies différentes}{57}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{61}{chapter.8}
+\contentsline {subsection}{\numberline {5.1.3}Les principes de l'ontologie}{58}{subsection.5.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{63}{chapter.9}
+\contentsline {section}{\numberline {5.2}Des \textit {Knowledge Organization Systems} (KOS) à \ac {skos}: vers l'interopérabilité syntaxique}{60}{section.5.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{65}{chapter*.27}
+\contentsline {subsection}{\numberline {5.2.1}Distinguer les systèmes d'organisation de la connaissance des ontologies}{60}{subsection.5.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{69}{part*.28}
+\contentsline {subsection}{\numberline {5.2.2}\ac {skos}: exposer les systèmes d'organisation de la connaissance sur le Web de données}{61}{subsection.5.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{69}{appendix.A}
+\contentsline {section}{\numberline {5.3}Les ontologies dans le Web sémantique}{63}{section.5.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{71}{appendix.B}
+\contentsline {subsection}{\numberline {5.3.1}Décrire des ontologies en \ac {rdf}: \ac {rdfs} et \ac {owl}}{63}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{73}{appendix.C}
+\contentsline {subsection}{\numberline {5.3.2}Utilisation des ontologies en institutions}{64}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{75}{appendix.D}
+\contentsline {chapter}{\numberline {6}Relier ses données à Wikidata}{67}{chapter.6}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{77}{appendix.E}
+\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{69}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{79}{appendix.F}
+\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{71}{chapter.7}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{81}{appendix.G}
+\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{73}{chapter.8}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{83}{appendix.H}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{75}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{85}{appendix.I}
+\contentsline {chapter}{Conclusion}{77}{chapter*.30}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{87}{appendix.J}
+\contentsline {part}{Annexes}{81}{part*.31}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{89}{figure.caption.43}
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{81}{appendix.A}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{91}{appendix*.44}
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{83}{appendix.B}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{93}{appendix*.45}
+\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{85}{appendix.C}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{95}{appendix*.46}
+\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{87}{appendix.D}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{89}{appendix.E}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{91}{appendix.F}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{93}{appendix.G}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{95}{appendix.H}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{97}{appendix.I}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{99}{appendix.J}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {K}Ontologies de haut et de bas niveaux}{101}{appendix.K}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index des noms de référentiels}{103}{figure.caption.49}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des figures}{105}{appendix*.50}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Liste des tableaux}{107}{appendix*.51}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{109}{appendix*.52}

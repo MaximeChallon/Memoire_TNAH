@@ -1,2 +1,39 @@
 \chapter{\label{II-B}Partager des structurations similaires de jeux de données par les classes et les propriétés : les ontologies, grammaires communes mais spécifiques}
 \titreEntete{Les ontologies, grammaires communes mais spécifiques}
+
+%intro
+L'éclatement des référentiels dans le Web de données conduit à la création, ou au renforcement, de liens entre eux, ainsi qu'entre leur données. Ces liens doivent porter une valeur sémantique de manière à ce que l'éclatement ait lieu sans perdre d'informations. De nouveau, il faut alors que le sens des relations soit contrôlé et partagé par le plus grand nombre: les ontologies permettent cela. Ainsi, si le référentiel présenté sous la forme de liste ou de thésaurus disparaît au profit du Web de données, de nouveaux référentiels, adaptés au Web sémantique, prennent le relais.\\
+
+Souvent confondues avec les systèmes organisés de connaissances\footnote{Ils sont fréquemment nommés KOS pour \textit{Knowledge Organization Systems}.}, les ontologies diffèrent par leur formalisme. La \reference{controler} a montré qu'une interopérabilité par les référentiels est possible et que les arbres de classification portent difficilement du sens, l'arborescence permettant essentiellement d'effectuer une classification; avec les ontologies, une interopérabilité sémantique peut avoir lieu.\\
+
+De même qu'avec le Web de données, le milieu bibliothéconomique a été l'un des premiers à adopter massivement les ontologies afin de pouvoir typer les relations entre les entités: l'ontologie est essentielle au Web sémantique.\\
+
+\input{parties/mainmatter/II/B/II-B-1.tex}
+\input{parties/mainmatter/II/B/II-B-2.tex}
+\input{parties/mainmatter/II/B/II-B-3.tex}
+
+%conclu
+\bigskip
+\bigskip
+\bigskip
+Les \ac{frbr} et le modèle de données de la BnF permettent de conclure sur l'importance des ontologies dans le Web de données pour les institutions. En effet, son modèle de données étant basé sur les \ac{frbr}, tous types de relations sont nécessaires pour relier l'œuvre aux points d'accès --- autorités, sujets, dates, \dots~ Ces relations sont exprimées par des ontologies publiques: l'exposition \ac{rdf} des données permet alors l'utilisation des URIs des ontologies et une description fine du document décrit et de son contexte. Treize ontologies sont ainsi utilisées\footnote{Voir \reference{mdd_bnf}.}, non complètement, mais partiellement, uniquement pour les propriétés nécessaires à la BnF:
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=15cm]{images/mdd_bnf.PNG}
+	\caption[Le modèle de données de la BnF]{Le modèle de données de la BnF [Source: \url{https://data.bnf.fr/images/modele_donnees_2018_02.PNG}]}
+	\label{mdd_bnf}
+\end{figure}
+\begin{itemize}
+	\item \ac{foaf} pour les autorités;
+	\item \ac{rdf} pour exprimer les instances --- avec rdf:type ---;
+	\item \ac{rdfs}
+	\item \ac{skos} pour créer le concept préférentiel et définir les sujets proches 
+	\item DC Terms pour les descriptions bibliographiques simples
+	\item Geo pour les descriptions géographiques
+	\item FRBR-RDA, RDAgroup2elements et RDArelationships pour exprimer les entités du modèle \ac{frbr}
+	\item des ontologies internes, BNF-onto et BNFroles
+	\item l'extension \ac{rdf} \ac{owl}-time
+	\item enfin une ontologie du langage de catalogage \ac{marc} MARCrel
+\end{itemize}
+
+L'exemple de la BnF montre qu'il n'y a plus de référentiel unique propre à une institution, mais seulement un ensemble de données dispersées dans le Web de données --- utilisation de \ac{rameau} notamment --- avec des ontologies qui permettent la production de sens sur les liens entre les ressources.
