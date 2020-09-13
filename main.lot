@@ -19,7 +19,11 @@
 \defcounter {refsection}{0}\relax
 \contentsline {table}{\numberline {6.3}{\ignorespaces Paramètres principaux du module \textit {wbgetclaims} de l'\ac {api} Wikibase}}{71}{table.caption.32}
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.4}{\ignorespaces Informations disponibles pour Howard Roberts à l'\ac {ina}\relax }}{72}{table.caption.33}
+\defcounter {refsection}{0}\relax
+\contentsline {table}{\numberline {6.5}{\ignorespaces Comparaison des informations disponibles pour Howard Roberts à l'\ac {ina} et sur Wikidata\relax }}{73}{table.caption.34}
+\defcounter {refsection}{0}\relax
+\contentsline {table}{\numberline {6.6}{\ignorespaces Comparaison des informations disponibles pour Howard Roberts à l'\ac {ina} et sur Wikidata après un premier traitement\relax }}{74}{table.caption.35}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
@@ -41,7 +45,9 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {table}{\numberline {H.1}{\ignorespaces L'apport des données de Médiamétrie dans la description effectuée au \ac {dl}}}{100}{table.caption.47}
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {table}{\numberline {H.1}{\ignorespaces L'apport des données de Médiamétrie dans la description effectuée au \ac {dl}}}{104}{table.caption.51}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax

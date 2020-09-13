@@ -63,7 +63,7 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Requête \ac {sparql} de récupération des pays\relax }}{75}{figure.caption.36}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
@@ -71,60 +71,62 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{85}{figure.caption.35}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{85}{figure.caption.35}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{89}{figure.caption.39}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{89}{figure.caption.39}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{87}{figure.caption.36}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{91}{figure.caption.40}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{88}{figure.caption.37}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{92}{figure.caption.41}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.3}{\ignorespaces L'interopérabilité de le roue et de l'essieu}}{88}{figure.caption.38}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces L'interopérabilité de le roue et de l'essieu}}{92}{figure.caption.42}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.4}{\ignorespaces L'interopérabilité par parcours de liens}}{88}{figure.caption.39}
-\defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Les types de données présents dans les bases de données de l'\ac {ina}}}{89}{figure.caption.40}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces L'interopérabilité par parcours de liens}}{92}{figure.caption.43}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Les bases de données de la \ac {ddcol} de l'\ac {ina}}}{91}{figure.caption.41}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Les types de données présents dans les bases de données de l'\ac {ina}}}{93}{figure.caption.44}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {E.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{93}{figure.caption.42}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Les bases de données de la \ac {ddcol} de l'\ac {ina}}}{95}{figure.caption.45}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Résultat de l'alignement des journalistes avec le thésaurus des noms communs\relax }}{95}{figure.caption.43}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{97}{figure.caption.46}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {G.1}{\ignorespaces Stations de radio captées au titre du dépôt légal}}{97}{figure.caption.44}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {G.2}{\ignorespaces Chaînes de télévision captées au titre du dépôt légal}}{98}{figure.caption.45}
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Résultat de l'alignement des journalistes avec le thésaurus des noms communs\relax }}{99}{figure.caption.47}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {H.1}{\ignorespaces Les fournisseurs extérieurs de données de l'\ac {ina}}}{99}{figure.caption.46}
+\contentsline {figure}{\numberline {G.1}{\ignorespaces Stations de radio captées au titre du dépôt légal}}{101}{figure.caption.48}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {G.2}{\ignorespaces Chaînes de télévision captées au titre du dépôt légal}}{102}{figure.caption.49}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {I.1}{\ignorespaces La constellation du Linked Open Data en juillet 2020}}{102}{figure.caption.48}
+\contentsline {figure}{\numberline {H.1}{\ignorespaces Les fournisseurs extérieurs de données de l'\ac {ina}}}{103}{figure.caption.50}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {J.1}{\ignorespaces Le modèle \ac {frbr}}}{103}{figure.caption.49}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {J.2}{\ignorespaces Le modèle de données de Wikidata}}{104}{figure.caption.50}
+\contentsline {figure}{\numberline {I.1}{\ignorespaces La constellation du Linked Open Data en juillet 2020}}{106}{figure.caption.52}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {K.1}{\ignorespaces Une ontologie de haut niveau: CIDOC-CRM}}{105}{figure.caption.51}
+\contentsline {figure}{\numberline {J.1}{\ignorespaces Le modèle \ac {frbr}}}{107}{figure.caption.53}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {K.2}{\ignorespaces Une ontologie de domaine: FRBR}}{106}{figure.caption.52}
+\contentsline {figure}{\numberline {J.2}{\ignorespaces Le modèle de données de Wikidata}}{108}{figure.caption.54}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {K.3}{\ignorespaces Une ontologie applicative: C4O}}{106}{figure.caption.53}
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {K.1}{\ignorespaces Une ontologie de haut niveau: CIDOC-CRM}}{109}{figure.caption.55}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {K.2}{\ignorespaces Une ontologie de domaine: FRBR}}{110}{figure.caption.56}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {K.3}{\ignorespaces Une ontologie applicative: C4O}}{110}{figure.caption.57}

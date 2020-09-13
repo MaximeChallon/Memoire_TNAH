@@ -1,6 +1,106 @@
-\section{\label{II-C-2}Aligner des personnes avec des données contrôlées}
-\titreEntete{Aligner des personnes avec des données contrôlées}
+\section{\label{II-C-2}Aligner des personnes depuis des données contrôlées}
+\titreEntete{Aligner des personnes depuis des données contrôlées}
 
 %intro
+L'\ac{ina} conserve ses données sous deux formes: des données contrôlées, et des données en texte libre\footnote{Voir \reference{annexe_type_donnees_axel} (\reference{type_donnees_axel}).}. Les premières permettent une meilleure exploitation et des traitements facilités, notamment lors d'un alignement avec un référentiel ou un autre jeu de données\footnote{L'alignement des notes qualité de l'\ac{ina} avec un thésaurus interne a déjà démontré la difficulté de l'utilisation du texte libre.}. Cependant, le contrôle du langage naturel se fait différemment selon le contexte de création et d'utilisation des données. Ainsi, deux jeux de données contrôlés peuvent avoir pour un même concept deux graphies et deux normes différentes, tout en respectant de chaque côté un contrôle du langage qui leur est propre.\\
+
+Bien que les personnes physiques décrites à l'\ac{ina} respectent des règles de structure, et le soient dans plusieurs attributs d'une table de base de données, elles ne correspondent pas exactement aux entités de Wikidata qui sont créées selon d'autres règles de graphie. Ainsi, quel que soit le jeu de données, il est nécessaire de lui apporter un premier traitement afin de trouver le lien vers un autre jeu de données.
+
+\subsection{\label{II-C-2-a}Choix des déclarations des entités de Wikidata}
+\titreEntete{Choix des déclarations des entités de Wikidata}
+
+À partir des mêmes personnes physiques de la \reference{I-C-3}, il est nécessaire de créer du lien avec Wikidata de manière à les enrichir. Plusieurs informations sont ainsi disponibles pour chaque personne: les dates de naissance et de mort, et la note qualité\footnote{Voir \reference{table_roberts_1}.}.
+\begin{table}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/ex_II_C_2.csv}
+	\caption{Informations disponibles pour Howard Roberts à l'\ac{ina}}
+	\label{table_roberts_1}
+\end{table}
+\medskip
+
+%propriété Wiki correspondantes
+L'entité\footnote{Howard Roberts: \url{https://www.wikidata.org/wiki/Q1631895}} Howard Roberts comporte plusieurs dizaines de déclarations --- paire propriété--valeur. Cependant, la présence de ces déclarations n'est pas uniforme selon les entités de personnes. De manière à aligner les entités Wikidata avec un jeu de données, il est nécessaire de chercher les propriétés les plus communes et le plus souvent présentes, qui puissent correspondre à chacune des informations disponibles dans le jeu de données à aligner.\\
+
+Ce choix, pour les dates de naissance ou de mort, le sexe ou le pays de citoyenneté, est aisé et correspond à des propriétés utilisées presque systématiquement dans les entités de type personne:
+\begin{itemize}
+	\item le sexe de la personne est défini par la propriété P21\footnote{Sexe (P21): \url{https://www.wikidata.org/wiki/Property:P21}} de Wikidata; une entité correspond à la valeur
+	\item la date de naissance est la propriété P569\footnote{Date de naissance (P569): \url{https://www.wikidata.org/wiki/Property:P569}}; la valeur de cette déclaration est un littéral
+	\item la date de décès est la propriété P570\footnote{Date de décès (P570): \url{https://www.wikidata.org/wiki/Property:P570}}; la valeur de cette déclaration est un littéral
+	\item enfin, le pays de citoyenneté est la propriété P27\footnote{Pays de citoyenneté (P27): \url{https://www.wikidata.org/wiki/Property:P27}}; la valeur est une entité de pays
+\end{itemize} 
+
+\subsection{\label{II-C-2-b} Adapter les données contrôlées pour les valeurs des déclarations}
+\titreEntete{Adapter les données contrôlées}
+
+%table comparaison ina wiki avec propriétés
+Bien que contrôlés, les jeux de données diffèrent dans la graphie de leurs valeurs\footnote{Voir \reference{table_roberts_2}.}. Il est par conséquent nécessaire d'effectuer un premier traitement sur les données de l'\ac{ina} de manière à faciliter leur alignement avec Wikidata.
+\begin{table}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/ex_II_C_2_2.csv}
+	\csvautotabular[separator=semicolon]{images/ex_II_C_2_2a.csv}
+	\caption{Comparaison des informations disponibles pour Howard Roberts à l'\ac{ina} et sur Wikidata}
+	\label{table_roberts_2}
+\end{table}
+
+%traiteemnt préalbale
+D'abord, une inversion des noms et prénoms des personnes physiques de l'\ac{ina} doit être effectuée afin de correspondre au libellé de Wikidata. Il existe des propriétés nom de famille (P734)\footnote{Nom de famille (P734): \url{https://www.wikidata.org/wiki/Property:P734}} et prénom (P735)\footnote{Prénom (P735): \url{https://www.wikidata.org/wiki/Property:P735}}: ce formalisme trop important par rapport aux données de l'\ac{ina} n'aurait pas permis de comparer également les autres libellés qui ne sont pas divisés ainsi. L'inversion du nom et du prénom a par conséquent été réalisée pour pouvoir correspondre au libellé préférentiel de l'entité, ainsi qu'à ses libellés alternatifs.\\
+
+Ensuite, le pays doit être extrait de la note qualité selon la méthode expliquée à la \reference{I-C-3}.En cas de pays multiples dans cette note, la ligne et ses informations est répétée autant de fois nécessaire avec un pays par ligne: cela permet de traiter la double nationalité ou les différents pays d'exercice des fonctions de chaque personne. La propriété P27 n'indiquant que le pays de citoyenneté, conserver les multiples pays de la note qualité permet d'augmenter les chances d'alignement avec Wikidata.\\
+
+%années
+Enfin, afin d'éviter l'écueil des différentes notations des dates --- en plein texte, avec des tirets ou des barres obliques, avec les horaires, \dots ---, les dates de naissance et de décès sont réduites à l'année à la fois pour les données de l'\ac{ina} que pour celles de Wikidata. Il est en effet possible de considérer qu'une personne et une entité partageant le même libellé et ayant les mêmes années de naissance et de décès sont équivalentes.
+\begin{table}[!h]
+	\centering
+	\csvautotabular[separator=semicolon]{images/ex_II_C_2_3a.csv}
+	\csvautotabular[separator=semicolon]{images/ex_II_C_2_3b.csv}
+	\caption{Comparaison des informations disponibles pour Howard Roberts à l'\ac{ina} et sur Wikidata après un premier traitement}
+	\label{table_roberts_3}
+\end{table}
+\medskip
+
+%scinder jeu selon critères
+Quand les deux jeux de données présentent la même forme et la même graphie pour des propriétés équivalentes, l'alignement peut débuter\footnote{Voir \reference{table_roberts_3}.}. Cependant, les personnes physiques de l'\ac{ina} peuvent ne pas avoir de date de naissance connue, un pays absent, \dots~ Afin de ne pas comparer ces données manquantes avec celles certainement présentes de Wikidata, il convient de regrouper les personnes physiques selon les caractéristiques qui sont remplies, pour adapter les requêtes et les comparaisons.
+
+\subsection{\label{II-C-2-c}Effectuer l'alignement par de multiples requêtes}
+\titreEntete{Effectuer l'alignement par de multiples requêtes}
+
+%genre
+Le premier traitement effectué ci-dessus ne suffit cependant pas à rendre les données alignables entre-elles. En effet, \textit{Q6581097} et \textit{Homme} ne sont pas similaires, tout comme le pays avec l'identifiant Wikidata. Il est par conséquent nécessaire d'attribuer ces identifiants Wikidata dans le jeu de données de l'\ac{ina}. Ainsi, les mentions de genre, \og Homme\fg{} et \og Femme\fg{} sont, quand elles sont présentes, remplacées par l'identifiant des entités \og masculin\fg{}\footnote{masculin (Q6581097): \url{https://www.wikidata.org/wiki/Q6581097}} et \og féminin\fg{}\footnote{féminin (Q1775415): \url{https://www.wikidata.org/wiki/Q1775415}} de Wikidata.\\
+
+%pays
+L'ajout de l'identifiant du pays est également nécessaire. Ces pays se comptant par centaines, l'alignement doit être réalisé automatiquement à partir d'une requête dans le \ac{sparql}-EndPoint. En effet, une seule requête, non répétée ensuite, est nécessaire pour récupérer l'ensemble des pays de Wikidata, leur identifiant, leur libellé préférentiel et leurs libellés alternatifs\footnote{Voir \reference{sparql_pays}.}. Les pays récupérés, ainsi que les pays de l'\ac{ina}, voient leur ponctuation et leur accentuation supprimées, et les majuscules transformées en minuscules afin d'arriver à un rapprochement le plus grand possible entre les graphies d'un même pays. Les Ètats-Unis indiqués dans les données de l'\ac{ina} sont alors alignés avec le même identifiant que le pays de citoyenneté de l''entite \nP{Howard}{Roberts} de Wikidata.
+
+\begin{figure}[!h]
+	\centering
+\begin{minted}{sparql}
+SELECT DISTINCT ?country ?countryLabel ?altLabel
+WHERE
+{
+?country wdt:P31 wd:Q3624078 .
+#en excluant les États historiques n'existant plus
+FILTER NOT EXISTS {?country wdt:P31 wd:Q3024240}
+#ainsi que les anciennes civilisations
+FILTER NOT EXISTS {?country wdt:P31 wd:Q28171280}
+OPTIONAL{?country skos:altLabel ?altLabel . FILTER (lang(?altLabel) = "fr")} .
+		
+SERVICE wikibase:label { bd:serviceParam wikibase:language "fr" }
+}
+ORDER BY ?countryLabel
+\end{minted}
+\caption{Requête \ac{sparql} de récupération des pays}
+\label{sparql_pays}
+\end{figure}
+
+%personnes
+À la suite de ces deux précédents alignements, l'alignement de la personne elle-même devient possible: les quatre points de comparaison sont désormais potentiellement comparables. La rédaction d'une requête \ac{sparql} par personne, avec des filtres selon les données disponibles à la comparaison, demande beaucoup de temps de traitement et de recherche. Pour cette raison, l'\ac{api} Wikibase est utilisée en deux étapes\footnote{Il a été constaté qu'avec le même logiciel --- Talend --- et la même machine, l'exécution de deux requêtes avec l'\ac{api} prend quarante fois moins de temps qu'une unique requête dans le \ac{sparql}-EndPoint.}:
+\begin{itemize}
+	\item l'utilisation du module \textit{wbsearchentities} permet la recherche par le nom de la personne\footnote{Pour \nP{Howard}{Roberts}, cette recherche est la suivante: \url{https://www.wikidata.org/w/api.php?action=wbsearchentities\&language=fr\&search=howard\%20roberts\&format=json}.}; l'ensemble des identifiants d'entités retournés sont alors stockés pour l'étape suivante
+	\item il est ensuite possible, avec le module \textit{wbgetclaims}\footnote{Voir \url{https://www.wikidata.org/w/api.php?action=wbgetclaims\&entity=Q1631895\&format=json}.}, d'obtenir les déclarations de chaque entité, et par conséquent les valeurs des propriétés recherchées --- P21, P27, P569 et P570
+\end{itemize}
+La récupération des valeurs de ces propriétés permet l'obtention de la \reference{table_roberts_3} puis l'alignement de la personne physique de l'\ac{ina} avec la bonne entité de Wikidata, si cette dernière existe.
+Cependant, la seule utilisation de ces quatre points de comparaison permet qu'un petit nombre d'alignements. En effet, les données de l'\ac{ina} comportent peu ou pas de dates de naissance et de décès: la réalisation d'un alignement sur les seuls genre et pays de citoyenneté ne peut pas être satisfaisante et ne permet pas une bonne gestion des homonymes.
 
 %conclu
+\bigskip
+\bigskip
+La présence de données contrôlées dans une institution ne permet pas à elle seule de permettre un alignement avec des référentiels ou des jeux de données externes: bien que structurées et contrôlées, les données diffèrent d'une institution à une autre, d'un jeu de données à un autre, par leur graphie, leur norme de rédaction, \dots~Il sera par conséquent toujours nécessaire d'effectuer des traitements préalables de données que l'on souhaite mettre en relation avec d'autres.
