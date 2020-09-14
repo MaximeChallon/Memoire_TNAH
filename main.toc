@@ -141,48 +141,52 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {6.2.3}Effectuer l'alignement par de multiples requêtes}{74}{subsection.6.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.3}Aligner des personnes depuis du texte libre}{75}{section.6.3}
+\contentsline {section}{\numberline {6.3}Aligner des personnes depuis du texte libre}{76}{section.6.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.4}Comprendre les limites}{75}{section.6.4}
+\contentsline {subsection}{\numberline {6.3.1}Aligner les fonctions avec Wikidata}{76}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{77}{part.3}
+\contentsline {subsection}{\numberline {6.3.2}Utiliser la hiérarchie de Wikidata pour aligner les personnes}{77}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{79}{chapter.7}
+\contentsline {section}{\numberline {6.4}Comprendre les limites}{77}{section.6.4}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{81}{chapter.8}
+\contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{79}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{83}{chapter.9}
+\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{81}{chapter.7}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{85}{chapter*.37}
+\contentsline {chapter}{\numberline {8}Le Lac de données de l’INA : le référentiel au centre du modèle}{83}{chapter.8}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{89}{part*.38}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{85}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{89}{appendix.A}
+\contentsline {chapter}{Conclusion}{87}{chapter*.38}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{91}{appendix.B}
+\contentsline {part}{Annexes}{91}{part*.39}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{93}{appendix.C}
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{91}{appendix.A}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{95}{appendix.D}
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{93}{appendix.B}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{97}{appendix.E}
+\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{95}{appendix.C}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{99}{appendix.F}
+\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{97}{appendix.D}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{101}{appendix.G}
+\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{99}{appendix.E}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{103}{appendix.H}
+\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{101}{appendix.F}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{105}{appendix.I}
+\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{103}{appendix.G}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{107}{appendix.J}
+\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{105}{appendix.H}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {K}Ontologies de haut et de bas niveaux}{109}{appendix.K}
+\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{107}{appendix.I}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{111}{figure.caption.57}
+\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{109}{appendix.J}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{113}{appendix*.58}
+\contentsline {chapter}{\numberline {K}Ontologies de haut et de bas niveaux}{111}{appendix.K}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{115}{appendix*.59}
+\contentsline {chapter}{Index des noms de référentiels}{113}{figure.caption.58}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{117}{appendix*.60}
+\contentsline {chapter}{Table des figures}{115}{appendix*.59}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Liste des tableaux}{117}{appendix*.60}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{119}{appendix*.61}

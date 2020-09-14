@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{SELECT} \PYG{k}{DISTINCT} \PYG{n+nv}{?country} \PYG{n+nv}{?countryLabel} \PYG{n+nv}{?altLabel}
+\PYG{k}{WHERE}
+\PYG{p}{\PYGZob{}}
+\PYG{n+nv}{?country} \PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P31} \PYG{n+nn}{wd}\PYG{p}{:}\PYG{n+nt}{Q3624078} \PYG{p}{.}
+\PYG{c}{\PYGZsh{}en excluant les États historiques n\PYGZsq{}existant plus}
+\PYG{k}{FILTER} \PYG{n+nf}{NOT EXISTS} \PYG{p}{\PYGZob{}}\PYG{n+nv}{?country} \PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P31} \PYG{n+nn}{wd}\PYG{p}{:}\PYG{n+nt}{Q3024240}\PYG{p}{\PYGZcb{}}
+\PYG{c}{\PYGZsh{}ainsi que les anciennes civilisations}
+\PYG{k}{FILTER} \PYG{n+nf}{NOT EXISTS} \PYG{p}{\PYGZob{}}\PYG{n+nv}{?country} \PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P31} \PYG{n+nn}{wd}\PYG{p}{:}\PYG{n+nt}{Q28171280}\PYG{p}{\PYGZcb{}}
+\PYG{k}{OPTIONAL}\PYG{p}{\PYGZob{}}\PYG{n+nv}{?country} \PYG{n+nn}{skos}\PYG{p}{:}\PYG{n+nt}{altLabel} \PYG{n+nv}{?altLabel} \PYG{p}{.} \PYG{k}{FILTER} \PYG{p}{(}\PYG{n+nf}{lang}\PYG{p}{(}\PYG{n+nv}{?altLabel}\PYG{p}{)} \PYG{o}{=} \PYG{l+s}{\PYGZdq{}fr\PYGZdq{}}\PYG{p}{)\PYGZcb{}} \PYG{p}{.}
+
+\PYG{k}{SERVICE} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{label} \PYG{p}{\PYGZob{}} \PYG{n+nn}{bd}\PYG{p}{:}\PYG{n+nt}{serviceParam} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{language} \PYG{l+s}{\PYGZdq{}fr\PYGZdq{}} \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\PYG{k}{ORDER BY} \PYG{n+nv}{?countryLabel}
+\end{Verbatim}

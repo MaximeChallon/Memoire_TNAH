@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{select} \PYG{n+nv}{?f} \PYG{n+nv}{?fLabel} \PYG{n+nv}{?altLabel}
+\PYG{k}{where}
+\PYG{p}{\PYGZob{}}
+\PYG{n+nv}{?f} \PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P31}\PYG{o}{/}\PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P279}\PYG{o}{*} \PYG{n+nn}{wd}\PYG{p}{:}\PYG{n+nt}{Q28640}\PYG{p}{.}
+\PYG{k}{OPTIONAL}\PYG{p}{\PYGZob{}}\PYG{n+nv}{?f} \PYG{n+nn}{skos}\PYG{p}{:}\PYG{n+nt}{altLabel} \PYG{n+nv}{?altLabel} \PYG{k}{FILTER} \PYG{p}{(}\PYG{n+nf}{LANG}\PYG{p}{(}\PYG{n+nv}{?altLabel}\PYG{p}{)} \PYG{o}{=} \PYG{l+s}{\PYGZdq{}fr\PYGZdq{}}\PYG{p}{)\PYGZcb{}}
+\PYG{k}{SERVICE} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{label} \PYG{p}{\PYGZob{}} \PYG{n+nn}{bd}\PYG{p}{:}\PYG{n+nt}{serviceParam} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{language} \PYG{l+s}{\PYGZdq{}fr\PYGZdq{}}\PYG{p}{.\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
