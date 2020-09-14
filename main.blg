@@ -1,17 +1,17 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'main.blg'
-[166] biber:313> INFO - === jeu. sept. 10, 2020, 13:38:57
-[305] Biber.pm:371> INFO - Reading 'main.bcf'
-[415] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[439] Biber.pm:3981> INFO - Processing section 0
-[513] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliographie/bib.bib' for section 0
-[559] bibtex.pm:1468> INFO - LaTeX decoding ...
-[666] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliographie/bib.bib'
-[1005] Utils.pm:169> WARN - ISBN '978-90-5199-399-8 978-4-274-90223-9' in entry 'guarino_formal_1998' is invalid - run biber with '--validate_datamodel' for details.
-[1294] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1294] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1295] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[1295] Biber.pm:3815> INFO - No sort tailoring available for locale 'fr-FR'
-[1389] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1441] bbl.pm:720> INFO - Output to main.bbl
-[1442] Biber.pm:110> INFO - WARNINGS: 1
+[52] biber:313> INFO - === lun. sept. 14, 2020, 14:50:19
+[256] Biber.pm:371> INFO - Reading 'main.bcf'
+[374] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[398] Biber.pm:3981> INFO - Processing section 0
+[416] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliographie/bib.bib' for section 0
+[440] bibtex.pm:1468> INFO - LaTeX decoding ...
+[557] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliographie/bib.bib'
+[903] Utils.pm:169> WARN - ISBN '978-90-5199-399-8 978-4-274-90223-9' in entry 'guarino_formal_1998' is invalid - run biber with '--validate_datamodel' for details.
+[1261] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1261] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1261] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1261] Biber.pm:3815> INFO - No sort tailoring available for locale 'fr-FR'
+[1397] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1450] bbl.pm:720> INFO - Output to main.bbl
+[1450] Biber.pm:110> INFO - WARNINGS: 1

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  14 SEP 2020 10:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  14 SEP 2020 15:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -3474,7 +3474,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
 [40] (./main.mw)
 \openout6 = `main.mw'.
 
- (./parties/mainmatter/II/A/II-A.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+(./parties/mainmatter/II/A/II-A.tex
+\openout6 = `main.mw'.
+
+ [41] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [42
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
 Chapitre 4.
 \openout6 = `main.mw'.
 
@@ -3505,9 +3528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 \openout6 = `main.mw'.
 
-[41
-
-] (./main.mw)
+[43] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3530,7 +3551,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 \openout6 = `main.mw'.
 
-[42] (./main.mw)
+[44] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3567,7 +3588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 43 undefined on input line 16.
+LaTeX Warning: Citation 'bermes_2_2013' on page 45 undefined on input line 16.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
@@ -3584,7 +3605,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
- [43]
+ [45]
 (./main.mw)
 \openout6 = `main.mw'.
 
@@ -3598,7 +3619,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 44 undefined on input line 25.
+LaTeX Warning: Citation 'bermes_2_2013' on page 46 undefined on input line 25.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
@@ -3630,7 +3651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
 \openout6 = `main.mw'.
 
-[44] (./main.mw)
+[46] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -3643,7 +3664,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 45 undefined on input line 44.
+LaTeX Warning: Citation 'bermes_2_2013' on page 47 undefined on input line 44.
 
 ) (./parties/mainmatter/II/A/II-A-2.tex
 \openout6 = `main.mw'.
@@ -3655,7 +3676,7 @@ Underfull \vbox (badness 5878) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
- [45]
+ [47]
 (./main.mw)
 \openout6 = `main.mw'.
 
@@ -3688,7 +3709,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 \openout6 = `main.mw'.
 
-[46] (./main.mw)
+[48] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3726,7 +3747,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
 \openout6 = `main.mw'.
 
-[47] (./main.mw)
+[49] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3757,7 +3778,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
 \openout6 = `main.mw'.
 
-[48] (./main.mw)
+[50] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3774,7 +3795,7 @@ Underfull \vbox (badness 7030) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
- [49]
+ [51]
 (./main.mw)
 \openout6 = `main.mw'.
 
@@ -3815,7 +3836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
 \openout6 = `main.mw'.
 
-[50] (./main.mw)
+[52] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3843,7 +3864,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 \openout6 = `main.mw'.
 
-[51] (./main.mw)
+[53] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -3863,7 +3884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 )
 \openout6 = `main.mw'.
 
- [52] (./main.mw)
+ [54] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3878,12 +3899,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 ) (./parties/mainmatter/II/B/II-B.tex
 \openout6 = `main.mw'.
 
- [53] (./main.mw)
+ [55] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [54
+ [56
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -3908,7 +3929,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 (./parties/mainmatter/II/B/II-B-1.tex
 \openout6 = `main.mw'.
 
- [55] (./main.mw)
+ [57] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -3956,7 +3977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
 \openout6 = `main.mw'.
 
-[56] (./main.mw)
+[58] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4006,7 +4027,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 \openout6 = `main.mw'.
 
-[57] (./main.mw)
+[59] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4037,7 +4058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
 \openout6 = `main.mw'.
 
-[58] (./main.mw)
+[60] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4061,7 +4082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 ) (./parties/mainmatter/II/B/II-B-2.tex
 \openout6 = `main.mw'.
 
- [59] (./main.mw)
+ [61] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4089,7 +4110,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 \openout6 = `main.mw'.
 
-[60] (./main.mw)
+[62] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4118,7 +4139,7 @@ File: images/SKOS_simpleThesaurus.png Graphic file (type bmp)
 <images/SKOS_simpleThesaurus.png>
 \openout6 = `main.mw'.
 
-[61] (./main.mw)
+[63] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4141,7 +4162,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
 \openout6 = `main.mw'.
 
-[62] (./main.mw)
+[64] (./main.mw)
 \openout6 = `main.mw'.
 
 ) (./parties/mainmatter/II/B/II-B-3.tex
@@ -4166,7 +4187,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 \openout6 = `main.mw'.
 
-[63] (./main.mw)
+[65] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4214,7 +4235,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
 \openout6 = `main.mw'.
 
-[64] (./main.mw)
+[66] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4230,13 +4251,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[65] (./main.mw)
+[67] (./main.mw)
 \openout6 = `main.mw'.
 
 ) (./parties/mainmatter/II/C/II-C.tex
 \openout6 = `main.mw'.
 
- [66] (./main.mw)
+ [68] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4253,7 +4274,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 \openout6 = `main.mw'.
 
-[67
+[69
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4279,7 +4300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
 \openout6 = `main.mw'.
 
-[68] (./main.mw)
+[70] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4308,7 +4329,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 \openout6 = `main.mw'.
 
-[69] (./main.mw)
+[71] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4345,7 +4366,7 @@ Underfull \hbox (badness 6542) in paragraph at lines 75--75
 
 \openout6 = `main.mw'.
 
-[70] (./main.mw)
+[72] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4359,7 +4380,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
 \openout6 = `main.mw'.
 
-[71] (./main.mw)
+[73] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4373,7 +4394,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 \openout6 = `main.mw'.
 
-[72] (./main.mw)
+[74] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4392,7 +4413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
 \openout6 = `main.mw'.
 
-[73] (./main.mw)
+[75] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4406,7 +4427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
 \openout6 = `main.mw'.
 
-[74] (./main.mw)
+[76] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4484,7 +4505,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
 \openout6 = `main.mw'.
 
-[75] (./main.mw)
+[77] (./main.mw)
 \openout6 = `main.mw'.
 
 ) (./parties/mainmatter/II/C/II-C-3.tex
@@ -4494,7 +4515,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 \openout6 = `main.mw'.
 
-[76] (./main.mw)
+[78] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4539,73 +4560,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 
 (./_minted-main/514C53EB40498F96ECF6816724EA11AAFE7586FA94C75D42696D6B1D2149F2A
-1.pygtex) (./images/humoriste_wikidata.tex)
+1.pygtex) (./images/humoriste_wikidata.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+)
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-) (./parties/mainmatter/II/C/II-C-4.tex))
 \openout6 = `main.mw'.
 
- [77] (./main.mw)
-\openout6 = `main.mw'.
-
+[79] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
+
+Underfull \vbox (badness 7273) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
- [78] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-
-[79
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
- [80] (./main.mw)
+ [80]
+(./main.mw)
 \openout6 = `main.mw'.
 
 
-Chapitre 7.
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+) (./parties/mainmatter/II/C/II-C-4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
 \openout6 = `main.mw'.
 
-[81
-
-] (./main.mw)
+[81] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
 \openout6 = `main.mw'.
 
- [82
+[82] (./main.mw)
+\openout6 = `main.mw'.
 
-] (./main.mw)
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 
-Chapitre 8.
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
 \openout6 = `main.mw'.
 
 [83] (./main.mw)
@@ -4615,15 +4666,26 @@ Chapitre 8.
 
 \openout6 = `main.mw'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+))
 \openout6 = `main.mw'.
 
- [84
-
-] (./main.mw)
+ [84] (./main.mw)
 \openout6 = `main.mw'.
 
 
-Chapitre 9.
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+(./images/schema_general_relier1.tex) (./images/schema_general_relier2.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 \openout6 = `main.mw'.
 
 [85] (./main.mw)
@@ -4631,67 +4693,50 @@ Chapitre 9.
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
-
-\openout2 = `parties/mainmatter/conclusion_generale.aux'.
-
- (./parties/mainmatter/conclusion_generale.tex
-\openout6 = `main.mw'.
-
- [86
-
-
-] (./main.mw)
-\openout6 = `main.mw'.
-
-)
-\openout6 = `main.mw'.
-
- [87] (./main.mw)
+ [86] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
-
-\openout2 = `parties/backmatter/annexes.aux'.
-
- (./parties/backmatter/annexes.tex
-\openout6 = `main.mw'.
-
- [88
-
-
+ [87
 
 ] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [89]
-(./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [90] (./main.mw)
+ [88] (./main.mw)
 \openout6 = `main.mw'.
 
 
-Annexe A.
-File: images/index_auctorum_alsatia.jpg Graphic file (type bmp)
-<images/index_auctorum_alsatia.jpg>
-File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
-<images/index_rerum_alsatia.jpg>
+Chapitre 7.
 \openout6 = `main.mw'.
 
-[91
+[89
 
 ] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [90
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Chapitre 8.
+\openout6 = `main.mw'.
+
+[91] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4706,6 +4751,89 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
+Chapitre 9.
+\openout6 = `main.mw'.
+
+[93] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout2 = `parties/mainmatter/conclusion_generale.aux'.
+
+ (./parties/mainmatter/conclusion_generale.tex
+\openout6 = `main.mw'.
+
+ [94
+
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+)
+\openout6 = `main.mw'.
+
+ [95] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout2 = `parties/backmatter/annexes.aux'.
+
+ (./parties/backmatter/annexes.tex
+\openout6 = `main.mw'.
+
+ [96
+
+
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [97]
+(./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [98] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Annexe A.
+File: images/index_auctorum_alsatia.jpg Graphic file (type bmp)
+<images/index_auctorum_alsatia.jpg>
+File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
+<images/index_rerum_alsatia.jpg>
+\openout6 = `main.mw'.
+
+[99
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [100
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
 Annexe B.
 File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
 <images/interop_conversion_copie.jpeg>
@@ -4714,14 +4842,16 @@ File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 30.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 30.
+
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 30.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 30.
+
 
 File: images/interop_denom_commun.jpeg Graphic file (type bmp)
 <images/interop_denom_commun.jpeg>
@@ -4730,14 +4860,16 @@ File: images/interop_denom_commun.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 37.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 37.
+
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 37.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 37.
+
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -4749,14 +4881,16 @@ File: images/interop_hub_spoke.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 44.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 44.
+
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 44.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 44.
+
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -4768,21 +4902,23 @@ File: images/interop_follow_nose.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 52.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 52.
+
 
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 93 undefined on input line 52.
+LaTeX Warning: Citation 'bermes_2_2013' on page 101 undefined on input line 52.
+
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[93] (./main.mw)
+[101] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4791,7 +4927,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [94] (./main.mw)
+ [102] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4808,7 +4944,7 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
-[95
+[103
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4819,7 +4955,7 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [96
+ [104
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4838,7 +4974,7 @@ File: images/bases_ddcol.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
-[97] (./main.mw)
+[105] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4847,7 +4983,7 @@ File: images/bases_ddcol.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [98
+ [106
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4858,7 +4994,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 <images/cadreur_hierarchie.png>
 \openout6 = `main.mw'.
 
-[99] (./main.mw)
+[107] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4867,7 +5003,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [100
+ [108
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4876,7 +5012,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 Annexe F.
 \openout6 = `main.mw'.
 
-[101] (./main.mw)
+[109] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4885,7 +5021,7 @@ Annexe F.
 
 \openout6 = `main.mw'.
 
- [102
+ [110
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4901,7 +5037,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[103] (./main.mw)
+[111] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -4910,7 +5046,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [104] (./main.mw)
+ [112] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4924,7 +5060,7 @@ LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
 )
 \openout6 = `main.mw'.
 
- [105
+ [113
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4935,7 +5071,7 @@ LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
 
 \openout6 = `main.mw'.
 
- [106] (./main.mw)
+ [114] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4955,7 +5091,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[107
+[115
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4966,7 +5102,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [108] (./main.mw)
+ [116] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -4988,7 +5124,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[109
+[117
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -4999,7 +5135,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [110] (./main.mw)
+ [118] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5019,7 +5155,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 \openout6 = `main.mw'.
 
- [111
+ [119
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5030,7 +5166,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [112] (./main.mw)
+ [120] (./main.mw)
 \openout6 = `main.mw'.
 
 runsystem(makeindex referentiels.idx)...executed.
@@ -5038,7 +5174,7 @@ runsystem(makeindex referentiels.idx)...executed.
  (./referentiels.ind
 \openout6 = `main.mw'.
 
- [113
+ [121
 
 
 
@@ -5055,7 +5191,7 @@ runsystem(makeindex referentiels.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[114
+[122
 
 
 ] (./main.mw)
@@ -5066,7 +5202,7 @@ runsystem(makeindex ina.idx)...executed.
  (./ina.ind) (./main.lof
 \openout6 = `main.mw'.
 
- [115
+ [123
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5081,7 +5217,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [116] (./main.mw)
+ [124] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5091,7 +5227,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [117
+ [125
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5102,7 +5238,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [118
+ [126
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5110,7 +5246,7 @@ runsystem(makeindex ina.idx)...executed.
  (./main.toc
 \openout6 = `main.mw'.
 
- [119] (./main.mw)
+ [127] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5120,12 +5256,12 @@ runsystem(makeindex ina.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[120] (./main.mw)
+[128] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [121] (./main.mw)
+ [129] (./main.mw)
 \openout6 = `main.mw'.
 
 )
@@ -5134,11 +5270,11 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [122] (./main.mw)
+ [130] (./main.mw)
 \openout6 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
  (./main.aux
 (./parties/frontmatter/page_titre.aux)
 \openout6 = `main.mw'.
@@ -6210,6 +6346,38 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 
 (./parties/mainmatter/conclusion_generale.aux
 \openout6 = `main.mw'.
@@ -6688,8 +6856,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
 \openout6 = `main.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 199.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -6713,7 +6881,7 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
 \openout6 = `main.out'.
 
 \openout6 = `main.lof'.
@@ -6724,12 +6892,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
 
  ) 
 Here is how much of TeX's memory you used:
- 48605 strings out of 493007
- 988215 string characters out of 6136719
- 1727433 words of memory out of 5000000
- 51461 multiletter control sequences out of 15000+600000
+ 48648 strings out of 493007
+ 989092 string characters out of 6136719
+ 1729029 words of memory out of 5000000
+ 51482 multiletter control sequences out of 15000+600000
  533608 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,12n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (134 pages).
+Output written on main.pdf (142 pages).

@@ -2027,22 +2027,25 @@
     <bcf:citekey order="101">dalbin_approches_2011</bcf:citekey>
     <bcf:citekey order="102">noauthor_dublin_nodate</bcf:citekey>
     <bcf:citekey order="103">noauthor_foaf_nodate</bcf:citekey>
-    <bcf:citekey order="104">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="105">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="106">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="104">poupeau_au-a_2018</bcf:citekey>
+    <bcf:citekey order="105">poupeau_au-a_2018</bcf:citekey>
+    <bcf:citekey order="106">poupeau_au-a_2018</bcf:citekey>
     <bcf:citekey order="107">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="108">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="109">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="110">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="111">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="112">roche-diore_atelier_2020</bcf:citekey>
-    <bcf:citekey order="113">roche-diore_atelier_2020</bcf:citekey>
-    <bcf:citekey order="114">poupeau_rassembler_2019</bcf:citekey>
-    <bcf:citekey order="115">poupeau_rassembler_2019</bcf:citekey>
-    <bcf:citekey order="116">noauthor_linked_2020</bcf:citekey>
-    <bcf:citekey order="117">noauthor_linked_2020</bcf:citekey>
-    <bcf:citekey order="118">benezet_participer_2015</bcf:citekey>
-    <bcf:citekey order="119">benezet_participer_2015</bcf:citekey>
+    <bcf:citekey order="112">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="113">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="114">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="115">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="116">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="117">poupeau_rassembler_2019</bcf:citekey>
+    <bcf:citekey order="118">poupeau_rassembler_2019</bcf:citekey>
+    <bcf:citekey order="119">noauthor_linked_2020</bcf:citekey>
+    <bcf:citekey order="120">noauthor_linked_2020</bcf:citekey>
+    <bcf:citekey order="121">benezet_participer_2015</bcf:citekey>
+    <bcf:citekey order="122">benezet_participer_2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
