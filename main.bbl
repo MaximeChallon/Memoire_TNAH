@@ -19,6 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{agence_bibliographique_de_lenseignement_superieur_idref_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f5955213372e0fce752ac3c06593453b}{%
+           family={Agence\bibnamedelimb Bibliographique\bibnamedelimb de\bibnamedelimb l'enseignement\bibnamedelima Supérieur},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={{ABES}},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5955213372e0fce752ac3c06593453b}
+      \strng{fullhash}{f5955213372e0fce752ac3c06593453b}
+      \strng{bibnamehash}{f5955213372e0fce752ac3c06593453b}
+      \strng{authorbibnamehash}{f5955213372e0fce752ac3c06593453b}
+      \strng{authornamehash}{f5955213372e0fce752ac3c06593453b}
+      \strng{authorfullhash}{f5955213372e0fce752ac3c06593453b}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{IdRef}}
+      \field{title}{{IdRef} - Identifiants et référentiels pour l'Enseignement supérieur et la Recherche}
+      \field{urlday}{15}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb IdRef - Identifiants et référentiels pour l'Enseignement supérieur et la Recherche:/home/maxime/Zotero/storage/44452CMB/www.idref.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.idref.fr/
+      \endverb
+      \verb{url}
+      \verb https://www.idref.fr/
+      \endverb
+    \endentry
     \entry{alquier_production_2017}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=e988c66b33ab5a56d0bbc90954aa7c7b}{%
@@ -75,6 +111,93 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-document-numerique-2017-2-page-115.htm
       \endverb
       \keyw{important}
+    \endentry
+    \entry{alsted_encyclopaedia_1630}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c3fff5ca503c739e3ada4bea7a818c5}{%
+           family={Alsted},
+           familyi={A\bibinitperiod},
+           given={Johann\bibnamedelima Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Herbornae Nassoviorum}%
+      }
+      \list{publisher}{1}{%
+        {typis G. Corvini}%
+      }
+      \strng{namehash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \strng{fullhash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \strng{bibnamehash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \strng{authorbibnamehash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \strng{authornamehash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \strng{authorfullhash}{6c3fff5ca503c739e3ada4bea7a818c5}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopaedia septem tomis distincta...}
+      \field{volumes}{2}
+      \field{year}{1630}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bacon_instauratio_1620}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londini}%
+      }
+      \list{publisher}{1}{%
+        {apud J. Billium typographum}%
+      }
+      \strng{namehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{fullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{bibnamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authorbibnamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authornamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authorfullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Instauratio magna}
+      \field{year}{1620}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bacon_sylva_1626}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{fullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{bibnamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authorbibnamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authornamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authorfullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{note}{{OCLC}: 20885650}
+      \field{title}{Sylva sylvarum}
+      \field{year}{1626}
+      \field{dateera}{ce}
     \endentry
     \entry{baker_rapport_2012}{report}{}
       \name{author}{13}{}{%
@@ -731,6 +854,47 @@
       \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
       \endverb
     \endentry
+    \entry{blanke_developing_2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=676c659520e23a260a577797f772fad6}{%
+           family={Blanke},
+           familyi={B\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=886c73f2df7a3c5acfe96caa9666864f}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ed16adbddb41a086bb7acb10d85b28a4}{%
+           family={Speck},
+           familyi={S\bibinitperiod},
+           given={Reto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{122f108a1dc5c6b72953948b09a58890}
+      \strng{fullhash}{122f108a1dc5c6b72953948b09a58890}
+      \strng{bibnamehash}{122f108a1dc5c6b72953948b09a58890}
+      \strng{authorbibnamehash}{122f108a1dc5c6b72953948b09a58890}
+      \strng{authornamehash}{122f108a1dc5c6b72953948b09a58890}
+      \strng{authorfullhash}{122f108a1dc5c6b72953948b09a58890}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Library Hi Tech}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{title}{Developing the collection graph}
+      \field{volume}{33}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{610\bibrangedash 623}
+      \range{pages}{14}
+    \endentry
     \entry{aymonin_arabesques_2017}{book}{}
       \name{author}{5}{}{%
         {{uniquename=0,uniquepart=base,hash=2458e0e7ad166d18acb49bf333f629a6}{%
@@ -1114,6 +1278,83 @@
       \endverb
       \keyw{Thésaurus,Documentation,Indexation (documentation),Langages documentaires}
     \endentry
+    \entry{diderot_encyclope_1751}{collection}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=950bfe30d162b26e5f59890903f0f889}{%
+           family={Diderot},
+           familyi={D\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30e4b04aaf1f8156ae7081e6907dd1fe}{%
+           family={D'Alembert},
+           familyi={D\bibinitperiod},
+           given={Jean\bibnamedelimb Le\bibnamedelima Rond},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editora}{8}{}{%
+        {{hash=7ad80b87b88d4d38a9f9f4d299c5a43c}{%
+           family={Briasson},
+           familyi={B\bibinitperiod},
+           given={Antoine-Claude},
+           giveni={A\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=aaee2ffa16031aaf6bb053f8f58e6893}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Michel-Antoine},
+           giveni={M\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=051630f4984624abcec19ca84ef3e0b1}{%
+           family={Le\bibnamedelima Breton},
+           familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={André-François},
+           giveni={A\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=215d7dd1258f5990b540eff8d2d21e28}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9bda7af00322bbfb97cdb9baed794371}{%
+           family={Rey},
+           familyi={R\bibinitperiod},
+           given={Marc\bibnamedelima Michel},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9717947681f738f9a8d458bd9ca08605}{%
+           family={Panckoucke},
+           familyi={P\bibinitperiod},
+           given={Charles-Joseph},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=bce613126115219986bd30c0dc123680}{%
+           family={Stoupe},
+           familyi={S\bibinitperiod},
+           given={Jean-Georges-Antoine},
+           giveni={J\bibinithyphendelim G\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=203cfd2cd3b09068fc0c5813e6267869}{%
+           family={Brunet},
+           familyi={B\bibinitperiod},
+           given={Pierre-Prudence},
+           giveni={P\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{fullhash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{bibnamehash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{editorbibnamehash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{editornamehash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{editorfullhash}{6f8029dc55af5eaac10918390373ea66}
+      \strng{editorabibnamehash}{ac5e10ff6798ed44bf58b70ce67054aa}
+      \strng{editoranamehash}{ac5e10ff6798ed44bf58b70ce67054aa}
+      \strng{editorafullhash}{ebdca3de47a58051a3bfedf8bc0abe6b}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{editoratype}{collaborator}
+      \field{langid}{french}
+      \field{title}{Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers , par une société de gens de lettres. Mis en ordre \& publié par M. Diderot..., \& quant à la partie mathématique, par M. d'Alembert...}
+      \field{volumes}{35}
+      \field{year}{1751}
+      \field{dateera}{ce}
+    \endentry
     \entry{noauthor_dublin_nodate}{online}{}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
@@ -1227,6 +1468,28 @@
       \endverb
       \verb{url}
       \verb http://gallica.bnf.fr/ark:/12148/bpt6k8720517v
+      \endverb
+    \endentry
+    \entry{noauthor_european_nodate}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{{EHRI}}
+      \field{title}{European Holocaust Research Infrastructure}
+      \field{type}{Text}
+      \field{urlday}{16}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/9QLBY8VM/ehri-project.eu.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ehri-project.eu/
+      \endverb
+      \verb{url}
+      \verb https://ehri-project.eu/
       \endverb
     \endentry
     \entry{noauthor_foaf_nodate}{online}{}
@@ -1551,6 +1814,26 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
       \endverb
     \endentry
+    \entry{noauthor_imdb_nodate}{online}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{{IMDb}}
+      \field{title}{{IMDb}: Ratings, Reviews, and Where to Watch the Best Movies \& {TV} Shows}
+      \field{urlday}{16}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb IMDb\: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows:/home/maxime/Zotero/storage/CEZNZZK7/www.imdb.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.imdb.com/
+      \endverb
+      \verb{url}
+      \verb https://www.imdb.com/
+      \endverb
+    \endentry
     \entry{isaac_les_2012}{inproceedings}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
@@ -1658,6 +1941,42 @@
       \verb{url}
       \verb https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000333539&pageCourante=08355
       \endverb
+    \endentry
+    \entry{minsky_semantic_1968}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=eda9d77bef4410d9ef3c09e3d513468a}{%
+           family={Minsky},
+           familyi={M\bibinitperiod},
+           given={Marvin\bibnamedelima Lee},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Mass.}%
+      }
+      \list{publisher}{1}{%
+        {{MIT} Press}%
+      }
+      \strng{namehash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \strng{fullhash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \strng{bibnamehash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \strng{authorbibnamehash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \strng{authornamehash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \strng{authorfullhash}{eda9d77bef4410d9ef3c09e3d513468a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-262-13044-8}
+      \field{langid}{english}
+      \field{pagetotal}{452}
+      \field{title}{Semantic information processing}
+      \field{urlday}{15}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
     \endentry
     \entry{noauthor_modeles_nodate}{online}{}
       \field{sortinit}{M}
@@ -2116,6 +2435,39 @@
       \field{urldateera}{ce}
       \field{pages}{51\bibrangedash 74}
       \range{pages}{24}
+    \endentry
+    \entry{wilkins_essay_1668}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=46f3e4969e0fd517f56ace6e600bdca6}{%
+           family={Wilkins},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {S. Gellibrand}%
+        {J. Martin}%
+      }
+      \strng{namehash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \strng{fullhash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \strng{bibnamehash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \strng{authorbibnamehash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \strng{authornamehash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \strng{authorfullhash}{46f3e4969e0fd517f56ace6e600bdca6}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
+      \field{shorttitle}{An Essay towards a real character and a philosophical language}
+      \field{title}{An Essay towards a real character and a philosophical language, by John Wilkins,... [- An Alphabetical dictionary, wherein all English words, according to their various significations, are either referred to their places in the philosophical tables, or explained by such words as are in those tables.]}
+      \field{volumes}{1}
+      \field{year}{1668}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
 \endrefsection

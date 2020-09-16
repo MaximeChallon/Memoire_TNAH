@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{select} \PYG{n+nv}{?serie} \PYG{n+nv}{?serieLabel}
+\PYG{k}{where}\PYG{p}{\PYGZob{}}
+\PYG{n+nv}{?serie} \PYG{n+nn}{wdt}\PYG{p}{:}\PYG{n+nt}{P279}\PYG{o}{*} \PYG{n+nn}{wd}\PYG{p}{:}\PYG{n+nt}{Q5398426}\PYG{p}{.}
+\PYG{k}{service} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{label}\PYG{p}{\PYGZob{}}\PYG{n+nn}{bd}\PYG{p}{:}\PYG{n+nt}{serviceParam} \PYG{n+nn}{wikibase}\PYG{p}{:}\PYG{n+nt}{language} \PYG{l+s}{\PYGZdq{}fr,en\PYGZdq{}}\PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
