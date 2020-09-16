@@ -427,6 +427,64 @@
       \verb http://halshs.archives-ouvertes.fr/halshs-00975166
       \endverb
     \endentry
+    \entry{bermes_cas_2013}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
+           family={Bermès},
+           familyi={B\bibinitperiod},
+           given={Emmanuelle},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73a935f38c7dd51639f66d24fd0d9179}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
+           family={Poupeau},
+           familyi={P\bibinitperiod},
+           given={Gautier},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
+      \strng{namehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{fullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{bibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorbibnamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authornamehash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \strng{authorfullhash}{d4c2b24d50d36f4cb26e34efa567a5ce}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Bibliotheques}
+      \field{isbn}{978-2-7654-1417-9}
+      \field{langid}{french}
+      \field{note}{{ISSN}: 0184-0886}
+      \field{shorttitle}{Cas D}
+      \field{title}{Cas D : Lier les données internes avec le {LED}}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2020}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{153\bibrangedash 164}
+      \range{pages}{12}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/D43ZIM2E/le-web-semantique-en-bibliotheque--9782765414179-page-153.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-153.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-153.htm
+      \endverb
+    \endentry
     \entry{bermes_convergence_2013}{incollection}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=e030e2b20e092b3fabbe90ad5fc15c0d}{%
@@ -1814,12 +1872,12 @@
       \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
       \endverb
     \endentry
-    \entry{noauthor_imdb_nodate}{online}{}
+    \entry{noauthor_international_nodate}{online}{}
       \field{sortinit}{I}
       \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
       \field{labeltitlesource}{shorttitle}
       \field{shorttitle}{{IMDb}}
-      \field{title}{{IMDb}: Ratings, Reviews, and Where to Watch the Best Movies \& {TV} Shows}
+      \field{title}{International Movie Database}
       \field{urlday}{16}
       \field{urlmonth}{9}
       \field{urlyear}{2020}
