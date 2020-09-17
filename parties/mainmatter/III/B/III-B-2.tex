@@ -1,6 +1,77 @@
-\section{\label{III-B-2}Le \textit{Lac de données} de l'\ac{ina}: repositionnement du référentiel au centre du modèle de données}
-\titreEntete{Le Lac de données de l'INA}
+\section{\label{III-B-2}Le \ldd de l'\ac{ina}: un repositionnement du référentiel au centre du modèle de données}
+\titreEntete{Le \ldd de l'INA}
 
 %intro
+La fusion du \ac{dl} et du \ac{da} dans la \ac{ddcol} en 2012 n'ont pas permis de centraliser les deux silos de données existants. Ainsi, en 2015, le projet du \ldd~ est lancé afin de centraliser les données et les métadonnées de tout l'Institut, afin de les mettre en cohérence, de supprimer les redondances et les barrières techniques ou structurelles de ces données, de répondre enfin aux nouveaux enjeux de la fin des années 2010.\\
+
+Un nouveau modèle de données, construit sur le contenu intellectuel et non les usages, et accompagné d'une nouvelle infrastructure centralisée pour l'accueil des données et des métadonnées, voit le jour. Le référentiel, déconstruit, devient une donnée identique aux données résultant de la décomposition de la notice documentaire. Au-delà de ce modèle de données, c'est l'ensemble du système d'information qui subit cette refonte, avec un stockage des données, leur traitement et des accès repensés.
+
+\subsection{\label{III-B-2-a}Le \ldd, un modèle basé sur des classes d'entités}
+\titreEntete{Un modèle basé sur des classes d'entités}
+
+Le Web de données avait permis la déconstruction des informations en données, l'effacement du référentiel au profit de données déstructurées mais liées. La réflexion sur le nouveau modèle de données de l'\aca{ina} a conduit au même phénomène: les données bibliographiques --- de description des documents audiovisuels --- se retrouvent au même niveau que les données d'autorités issues des référentiels. Les données d'autorités ne se trouvent plus à la marge du système documentaire, mais bien intégrées dedans, au centre, puisqu'elles deviennent indispensables dans la description des documents.\\
+
+Le modèle de données du \ldd~ propose une structure globale, et adaptable à chaque besoins non pensés lors de la modélisation, pour accueillir les données. Pour cela, le modèle du \ldd~ est basé sur les relations entre cinq principales classes d'entités (\footnote{Voir \reference{annexe_nvx_modeles} (\reference{modele_ldd}).}). En cela, ce modèle peut ressembler aux \ac{frbr}\footnote{Présentés précédémment dans la \reference{II-A-1}.} avec ses quatre grandes classes item, manifestation, expression et œuvre; le modèle du \ac{cidoccrm} ou d'autres modèles à entités peuvent également être comparés. Le \ldd~ n'adopte aucun des modèles de données existant dans le domaine bibliothéconomique ou patrimonial en raison de la spécificité des fonds conservés et des données documentaires produites, ainsi que de la singularité de l'historique de la \ac{ddcol} qui conserve à la fois des données orientées événement ou archivistiques.
+
+
+\noindent L'\textbf{instance} est la première des cinq entités principales du \ldd. Elle correspond à l'entité intellectuelle du contenu --- un programme, qu'il soit par exemple une émission, ou bien un reportage; une photographie; une documentation d'accompagnement, un épisode de série ou une fiction, \dots): sans l'être exactement, l'instance peut être rapprochée de l'œuvre des \ac{frbr}.
+
+
+\noindent L'\textbf{événement} permet la description d'un événement attaché à une instance: cet événement peut être lié à la création du contenu (la captation, l'enregistrement, la prise de vue pour une photographie, \dots), à l'exploitation qui en a été faite (diffusion télévisuelle, projection des \textit{Actualités françaises} au cinéma, mise en ligne sur l'une des plateformes de l'\ac{ina}, \dots), ou bien à l'archivage et à l'usage de ce contenu (numérisation, restauration, description des droits et des informations juridiques pesant sur le contenu, \dots).
+
+\noindent L'\textbf{item} correspond au matériel --- physique ou numérique --- sur lequel se trouvent les contenus (bandes LTO du dépôt légal, photographie, \dots).
+
+\noindent Les \textbf{textes} permettent une description du contenu par le langage naturel: il peut s'agir de titres extraits de génériques ou saisis par le technicien de gestion des collections multimédia lors du catalogage; les identifiants sont également des textes; \dots ~ Ces textes ne sont pas soumis aux référentiels et ne les constitue pas.
+
+\noindent Le \textbf{concept} est le pivot du modèle de données puisqu'il représente les référentiels. Il permet la description de toutes les instances.\\
+
+L'identification de chacune de ces entités est nécessaire puisque le modèle de données du \ldd~ est conçu à partir de relations entre ces entités: le Web de données dispose d'URIs HTTP, ce modèle de données d'une entreprise utilise des identifiants non significatifs (il s'agit d'une suite de douze chiffres et lettres) pour créer du lien au sein de son système documentaire (\reference{schema_ldd_1}).
+
+\input{images/schema_ldd_1.tex}
+
+\subsection{\label{III-B-2-b}La place des concepts}
+\titreEntete{La place des concepts}
+
+Le modèle de données établi dans le \ldd permet de ne créer qu'un seul \og référentiel\fg{} grâce aux concepts. Ces derniers permettent la description de l'ensemble des instances: dans ce modèle, un grand nombre de données sont comprises comme des concepts. C'est pourquoi ils regroupent une grande variété de noms communs et de noms propres dont:
+\begin{itemize}
+	\item les personnes physiques et morales, tirées du référentiel des personnes physiques et morales de la \ac{ddcol}
+	\item les noms communs issus du thésaurus des noms communs de cette même \ac{ddcol}: ils offrent les autorités matière nécessaires à la description (l'instance concerne-t-elle le sport? la télévision? la cuisine? \dots)
+	\item  le genre de l'instance (émission, reportage, film, épisode de série, fiction, \dots)
+	\item la provenance de l'instance, ce qui concerne notamment les codes des chaînes de télévision et des stations de radio employés dans les bases sources et repris dans le \ldd, mais concerne également la base source de provenance des données du \ldd. En effet, la migration de données depuis une base vers une source nécessite de conserver la trace de son parcours afin de repérer d'éventuelles erreurs de mapping: ainsi, les codes des bases sources sont ainsi des concepts.
+	\item etc.\footnote{Plusieurs millions de données sont devenus des concepts dans le nouveau système documentaire de l'\ac{ina}.}
+\end{itemize}
+\medskip
+
+Les entités du \ldd sont similaires aux entités de Wikidata par la nécessité de la création de liens entre elles afin qu'elles puissent exister dans le modèle de données. Afin de relier ces cinq entités et de mettre en cohérence les données, des relations typées sont créés entre les entités, notamment entre les concepts, de manière à identifier le rôle, le type, ou la fonction du concept par rapport à l'instance ou au texte. Ainsi, des tables permettent, comme pour les annotations ou les crédits, de lier des concepts aux instances afin d'apporter du sens. De plus, il est possible avec ce modèle de données d'établir une relation entre deux concepts, afin d'exprimer par exemple la provenance d'un concept d'une personne (\reference{schema_concept_1}). 
+\input{images/schema_concept_1.tex}
+
+L'établissement de relations entre les entités n'est possible qu'avec les identifiants attribués à chacune des entités. Un concept n'est par conséquent pas défini dans un seul endroit, à une seule table: un graphe de relations se met en place tout autour de lui afin de le définir le plus précisément et de lui apporter du contexte et du sens. Ces relations internes sont essentielles au fonctionnement du système documentaire et de la cohérence(\reference{schema_concept_2}).
+\input{images/schema_concept_2.tex}
+
+Le modèle de données du \ldd lui permet également d'obtenir une ouverture à l'extérieur, vers le Web de données, afin d'obtenir des informations et des données supplémentaires. Ainsi, la simple conservation de quelques identifiants comme ceux de Wikidata ou de la BnF, et des identifiants internationaux comme l'\ac{isan} suffisent à créer des ponts avec le Web de données(\reference{schema_concept_3}).
+\input{images/schema_concept_3.tex}
+
+\subsection{\label{III-B-2-c}Le \ldd comme un LED: une infrastructure unique}
+\titreEntete{Une infrastructure unique}
+
+\begin{citationLongue}
+	À l’heure où nous cherchons à faire fructifier la donnée, comme actif de l’entreprise, il est essentiel pour réussir justement à faire émerger de nouveaux usages de décloisonner nos silos de données et de libérer la donnée de l’usage pour lequel elle a initialement été créée.\footcite{poupeau_reflexions_2018}
+\end{citationLongue}
+
+Le \ldd n'est pas seulement la refonte d'un modèle de données. Afin de disposer des capacités de stockage, de traitement, et d'accès nécessaires, le \ldd est également la création d'une infrastructure centralisée, depuis laquelle les applications futures pourront être créées: en cela, il est un LED, pensé depuis le bas, depuis les donneés, afin de permettre une multiplicité d'applications\footnote{Voir \reference{annexe_lac} (\reference{lac_infra}).}.\\
+
+La couche la plus basse de ce LED est la base de données. Le choix de celle-ci est essentiel afin de lier performance et modèle de données. Ainsi, chaque type de base de données ayant ses propres caractéristiques, ses propres avantages et ses limites, l'\ac{ina} utilise les quatre types de bases de données en y dupliquant le modèle de données. Alors, le modèle de données est respecté et les applications nécessitant de la part des bases de données de grandes performances pourront en utiliser une plutôt qu'une autre:
+\begin{itemize}
+	\item les bases de données relationnelles offrent une forte structuration de la donnée, et de bonnes performances d'écriture et de lecture --- ce qui avait conduit à leur adoption par le \ac{da}, le \ac{dl} ou la \ac{dj}. Cependant, la création de relations entre les entités nécessite la création de nombreuses tables et l'éparpillement de la donnée dans la base; les calculs nécessaires pour rassembler les données d'une entité deviennent complexes et longs, ce qui rend la base de données relationnelle peut performante pour le \ldd
+	\item la base de données document permet quant à elle une montée en charge rapide et importante avec la possibilité de conserver de grandes masses de documents, mais ne permet pas le respect de la structuration des données
+	\item le moteur de recherche permet également cette montée en charge, ainsi qu'une recherche plein texte efficace et rapide obtenue par l'indexation des données dans le moteur
+	\item enfin, la base de données graphe permet une structuration très fine des données obtenue par les liens établis entre ces données; cependant, de même que les bases de données relationnelles, la performance lors des requêtes est très vite limitée dès que les requêtes se complexifient et ont pour but de restituer l'intégralité des informations concernant un document, un concept, \dots
+\end{itemize}
+\medskip
+
+Pour tirer les avantages de chacun de ces types de bases de données, le choix a été fait de les utiliser tous les quatre en y dupliquant les données. Ce choix, dans un LED, ne pose pas de difficultés pour la couche supérieure qui est le traitement des données. En effet, les processus ETL --- et notamment le logiciel Talend qui permet de les développer --- sont créés pour effectuer des extractions de plusieurs bases de données différentes afin de retourner des données transformées, structurées et adaptées aux besoins de la couche supérieure, l'accès aux données pour l'utilisateur. La phase d'accès à ces données n'a alors pas directement accès aux bases sources, mais les obtient par la couche d'abstraction qui est la phase de traitement.
 
 %conclu
+Par le \ldd, l'\ac{ina} trouve une cohérence dans ses données, les différences existantes entre les diverses bases de données de la \ac{ddcol} et de la \ac{dj} notamment, ainsi qu'au sein même de la \ac{ddcol} avec le \ac{da} et la \ac{dl}, sont effacées au profit d'une individualité de la donnée obtenue par la déconstruction des documents et de l'information. L'effacement de ces différences permet également de normaliser les données autour de mêmes concepts, et ainsi de créer un graphe dans lequel il est possible de circuler entre instances partageant un même concept.\\
+
+Ces avancées ont été obtenues par le renversement de la pensée du système documentaire et de la place du référentiel. En effet, au lieu de penser la structure des données selon les besoins et les usages finaux --- ce qui créé nécessairement autant de structures que de besoins et d'usages ---, la réflexion a été retournée pour penser un modèle de données global et unique au sein de l'institution depuis les données elle-mêmes et le contenu intellectuel, depuis les documents conservés à l'\ac{ina}, eux qui sont l'essence de l'Institut.

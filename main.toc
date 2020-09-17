@@ -189,44 +189,52 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {8.1.3}Le positionnement du référentiel}{105}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.2}Le \textit {Lac de données} de l'\ac {ina}: repositionnement du référentiel au centre du modèle de données}{106}{section.8.2}
+\contentsline {section}{\numberline {8.2}Le \textit {Lac de données~}de l'\ac {ina}: un repositionnement du référentiel au centre du modèle de données}{106}{section.8.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.3}Perspectives d'utilisation}{106}{section.8.3}
+\contentsline {subsection}{\numberline {8.2.1}Le \textit {Lac de données~}, un modèle basé sur des classes d'entités}{107}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{107}{chapter.9}
+\contentsline {subsection}{\numberline {8.2.2}La place des concepts}{108}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{109}{chapter*.43}
+\contentsline {subsection}{\numberline {8.2.3}Le \textit {Lac de données~}comme un LED: une infrastructure unique}{110}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{113}{part*.44}
+\contentsline {section}{\numberline {8.3}Perspectives d'utilisation}{113}{section.8.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{113}{appendix.A}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{115}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{115}{appendix.B}
+\contentsline {chapter}{Conclusion}{117}{chapter*.47}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{117}{appendix.C}
+\contentsline {part}{Annexes}{121}{part*.48}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{119}{appendix.D}
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{121}{appendix.A}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{121}{appendix.E}
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{123}{appendix.B}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{123}{appendix.F}
+\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{125}{appendix.C}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{125}{appendix.G}
+\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{127}{appendix.D}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{127}{appendix.H}
+\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{129}{appendix.E}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{129}{appendix.I}
+\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{131}{appendix.F}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{131}{appendix.J}
+\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{133}{appendix.G}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {K}Ontologies de haut et de bas niveaux}{133}{appendix.K}
+\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{135}{appendix.H}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {L}Labyrinthes}{135}{appendix.L}
+\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{137}{appendix.I}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{137}{figure.caption.65}
+\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{139}{appendix.J}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{139}{appendix*.66}
+\contentsline {chapter}{\numberline {K}Repenser l'infrastructure}{141}{appendix.K}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{141}{appendix*.67}
+\contentsline {chapter}{\numberline {L}Ontologies de haut et de bas niveaux}{143}{appendix.L}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{143}{appendix*.68}
+\contentsline {chapter}{\numberline {M}Labyrinthes}{145}{appendix.M}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index des noms de référentiels}{147}{figure.caption.71}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des figures}{149}{appendix*.72}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Liste des tableaux}{153}{appendix*.73}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{155}{appendix*.74}

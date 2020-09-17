@@ -2052,7 +2052,7 @@
     <bcf:citekey order="126">noauthor_european_nodate</bcf:citekey>
     <bcf:citekey order="127">blanke_developing_2015</bcf:citekey>
     <bcf:citekey order="128">bermes_cas_2013</bcf:citekey>
-    <bcf:citekey order="129">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="129">poupeau_reflexions_2018</bcf:citekey>
     <bcf:citekey order="130">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="131">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="132">bermes_2_2013</bcf:citekey>
@@ -2060,20 +2060,25 @@
     <bcf:citekey order="134">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="135">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="136">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="137">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="137">bermes_2_2013</bcf:citekey>
     <bcf:citekey order="138">roche-diore_atelier_2020</bcf:citekey>
-    <bcf:citekey order="139">poupeau_rassembler_2019</bcf:citekey>
+    <bcf:citekey order="139">roche-diore_atelier_2020</bcf:citekey>
     <bcf:citekey order="140">poupeau_rassembler_2019</bcf:citekey>
-    <bcf:citekey order="141">noauthor_linked_2020</bcf:citekey>
+    <bcf:citekey order="141">poupeau_rassembler_2019</bcf:citekey>
     <bcf:citekey order="142">noauthor_linked_2020</bcf:citekey>
-    <bcf:citekey order="143">benezet_participer_2015</bcf:citekey>
+    <bcf:citekey order="143">noauthor_linked_2020</bcf:citekey>
     <bcf:citekey order="144">benezet_participer_2015</bcf:citekey>
-    <bcf:citekey order="145">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="146">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="147">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="148">eco_arbre_2010</bcf:citekey>
-    <bcf:citekey order="149">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="145">benezet_participer_2015</bcf:citekey>
+    <bcf:citekey order="146">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="147">roche-diore_atelier_2020</bcf:citekey>
+    <bcf:citekey order="148">poupeau_rassembler_2019</bcf:citekey>
+    <bcf:citekey order="149">poupeau_rassembler_2019</bcf:citekey>
     <bcf:citekey order="150">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="151">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="152">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="153">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="154">eco_arbre_2010</bcf:citekey>
+    <bcf:citekey order="155">eco_arbre_2010</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
