@@ -199,6 +199,12 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {8.3}Perspectives d'utilisation}{113}{section.8.3}
 \defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {8.3.1}Permettre l’intégration des données issues de la description et de la segmentation de vidéos dans le \textit {Lac de données~} : réutilisation des concepts et enrichissement des métadonnées}{114}{subsection.8.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {8.3.2}Faciliter et améliorer le catalogage des documents de l’\ac {ina} par l’extraction automatique de données}{114}{subsection.8.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {8.3.3}Améliorer la valorisation des documents et offrir une meilleure expérience utilisateur}{114}{subsection.8.3.3}
+\defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le Lac de données: l'exemple de l'alignement de deux référentiels de personnes physiques}{115}{chapter.9}
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{Conclusion}{117}{chapter*.47}

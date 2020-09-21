@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  17 SEP 2020 16:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  21 SEP 2020 08:32
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -5288,22 +5288,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 [112] (./main.mw)
 \openout6 = `main.mw'.
 
-) (./parties/mainmatter/III/B/III-B-3.tex))
-(./parties/mainmatter/III/C/III-C.tex
-\openout6 = `main.mw'.
-
- [113] (./main.mw)
+) (./parties/mainmatter/III/B/III-B-3.tex
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Overfull \hbox (23.91579pt too wide) in paragraph at lines 26--26
+[][]\TU/lmr/bx/n/14.4 Améliorer la valorisation des documents et offrir une mei
+lleure
+ []
+
+)) (./parties/mainmatter/III/C/III-C.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout6 = `main.mw'.
+
+ [113]
+(./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [114
+\openout6 = `main.mw'.
 
-] (./main.mw)
+\openout6 = `main.mw'.
+
+ [114] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 
@@ -5311,7 +5339,9 @@ Chapitre 9.
 )
 \openout6 = `main.mw'.
 
- [115] (./main.mw)
+ [115
+
+] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -7260,6 +7290,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
 
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 
 (./parties/mainmatter/conclusion_generale.aux
 \openout6 = `main.mw'.
@@ -7862,10 +7916,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
 
  ) 
 Here is how much of TeX's memory you used:
- 49040 strings out of 493007
- 999592 string characters out of 6136719
- 1744861 words of memory out of 5000000
- 51761 multiletter control sequences out of 15000+600000
+ 49049 strings out of 493007
+ 999816 string characters out of 6136719
+ 1747751 words of memory out of 5000000
+ 51770 multiletter control sequences out of 15000+600000
  533616 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,12n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s

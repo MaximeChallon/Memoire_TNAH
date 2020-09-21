@@ -1820,7 +1820,7 @@
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{isbn}{978-90-5199-399-8 978-4-274-90223-9}
+      \field{isbn}{978-90-5199-399-8}
       \field{langid}{english}
       \field{shorttitle}{Formal ontology in information systems}
       \field{title}{Formal ontology in information systems: proceedings of the first international conference ({FOIS}'98), June 6-8, Trento, Italy}
@@ -1938,6 +1938,44 @@
       \verb https://hal.inria.fr/hal-00740282
       \endverb
       \keyw{Important}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_diginpix_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e3f87d9ac82cbc330e96d1d0afa20bd6}{%
+           family={l'Audiovisuel},
+           familyi={l\bibinitperiod},
+           given={Institut},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={national\bibnamedelima de},
+           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{fullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{bibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authorbibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authornamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \strng{authorfullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
+      \field{sortinit}{l}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{DigInPix}}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb DigInPix:/home/maxime/Zotero/storage/WCAM64WX/DigInPix.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://recherche.ina.fr/Details-projets/DigInPix
+      \endverb
+      \verb{url}
+      \verb http://recherche.ina.fr/Details-projets/DigInPix
+      \endverb
     \endentry
     \entry{institut_national_de_laudiovisuel_rapport_2019}{report}{}
       \name{author}{1}{}{%
