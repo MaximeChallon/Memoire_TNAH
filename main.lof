@@ -73,102 +73,104 @@
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {7.1}{\ignorespaces La fédération entreprise par \ac {idref}}}{95}{figure.caption.40}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces La fédération entreprise par \ac {idref}}}{97}{figure.caption.40}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Requête \ac {sparql} pour récupérer les sous-classes de l'entité \textit {Série Télévisée}\relax }}{98}{figure.caption.41}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Requête \ac {sparql} pour récupérer les sous-classes de l'entité \textit {Série Télévisée}\relax }}{100}{figure.caption.41}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Requête \ac {sparql} pour récupérer les identifiants des instances de la classe \textit {Saison}\relax }}{99}{figure.caption.42}
-\defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Modélisation des cinq entités du \textit {Lac de données~}\relax }}{109}{figure.caption.43}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Modélisation globale des relations entretenues par les concepts\relax }}{110}{figure.caption.44}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Modélisation du concept Mylène \textsc {Farmer} dans le \textit {Lac de données~}}}{111}{figure.caption.45}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.4}{\ignorespaces Modélisation du concept Mylène \textsc {Farmer} dans le \textit {Lac de données~}et le LOD}}{112}{figure.caption.46}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.5}{\ignorespaces Extraction des entités nommées d'un programme de France 2 avec DigInPix}}{115}{figure.caption.47}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {8.6}{\ignorespaces Métadonnées associées à un document sur ina.fr}}{118}{figure.caption.48}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Requête \ac {sparql} pour récupérer les identifiants des instances de la classe \textit {Saison}\relax }}{101}{figure.caption.42}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {9.1}{\ignorespaces L'alignement des personnes de la \ac {dj} et de la \ac {ddcol} pour une jointure dans un tMap de Talend.\relax }}{127}{figure.caption.51}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Modélisation des cinq entités du \textit {Lac de données~}\relax }}{110}{figure.caption.43}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {9.2}{\ignorespaces L'orchestration de la première étape dans l'ETL Talend.\relax }}{128}{figure.caption.52}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Modélisation globale des relations entretenues par les concepts\relax }}{112}{figure.caption.44}
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Modélisation du concept Mylène \textsc {Farmer} dans le \textit {Lac de données~}}}{113}{figure.caption.45}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{135}{figure.caption.55}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Modélisation du concept Mylène \textsc {Farmer} dans le \textit {Lac de données~}et le LOD}}{114}{figure.caption.46}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{135}{figure.caption.55}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Extraction des entités nommées d'un programme de France 2 avec DigInPix}}{117}{figure.caption.47}
 \defcounter {refsection}{0}\relax
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{137}{figure.caption.56}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{138}{figure.caption.57}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.3}{\ignorespaces L'interopérabilité de le roue et de l'essieu}}{138}{figure.caption.58}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {B.4}{\ignorespaces L'interopérabilité par parcours de liens}}{138}{figure.caption.59}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Métadonnées associées à un document sur ina.fr}}{120}{figure.caption.48}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Les types de données présents dans les bases de données de l'\ac {ina}}}{139}{figure.caption.60}
+\contentsline {figure}{\numberline {9.1}{\ignorespaces L'alignement des personnes de la \ac {dj} et de la \ac {ddcol} pour une jointure dans un tMap de Talend.\relax }}{129}{figure.caption.51}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {9.2}{\ignorespaces L'orchestration de la première étape dans l'ETL Talend.\relax }}{130}{figure.caption.52}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Répartition des indices de confiance après les alignements entre les rééfrentiels de personnes de la \ac {dj} et de la \ac {ddcol}\relax }}{132}{figure.caption.53}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Les bases de données de la \ac {ddcol} de l'\ac {ina}}}{141}{figure.caption.61}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Index auctorum\relax }}{141}{figure.caption.56}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Index rerum\relax }}{141}{figure.caption.56}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {E.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{143}{figure.caption.62}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces L'interopérabilité par conversion et copie}}{143}{figure.caption.57}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {B.2}{\ignorespaces L'interopérabilité par le plus petit dénominateur commun}}{144}{figure.caption.58}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {B.3}{\ignorespaces L'interopérabilité de le roue et de l'essieu}}{144}{figure.caption.59}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {B.4}{\ignorespaces L'interopérabilité par parcours de liens}}{144}{figure.caption.60}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Résultat de l'alignement des journalistes avec le thésaurus des noms communs\relax }}{145}{figure.caption.63}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Les types de données présents dans les bases de données de l'\ac {ina}}}{145}{figure.caption.61}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {G.1}{\ignorespaces Stations de radio captées au titre du dépôt légal}}{147}{figure.caption.64}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {G.2}{\ignorespaces Chaînes de télévision captées au titre du dépôt légal}}{148}{figure.caption.65}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Les bases de données de la \ac {ddcol} de l'\ac {ina}}}{147}{figure.caption.62}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {H.1}{\ignorespaces Les fournisseurs extérieurs de données de l'\ac {ina}}}{149}{figure.caption.66}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Extrait du thésaurus de noms communs de l'\ac {ina}}}{149}{figure.caption.63}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {I.1}{\ignorespaces La constellation du Linked Open Data en juillet 2020}}{152}{figure.caption.68}
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Résultat de l'alignement des journalistes avec le thésaurus des noms communs\relax }}{151}{figure.caption.64}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {J.1}{\ignorespaces Le modèle \ac {frbr}}}{153}{figure.caption.69}
+\contentsline {figure}{\numberline {G.1}{\ignorespaces Stations de radio captées au titre du dépôt légal}}{153}{figure.caption.65}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {J.2}{\ignorespaces Le modèle de données de Wikidata}}{154}{figure.caption.70}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {J.3}{\ignorespaces Le modèle de données du \textit {Lac de données~}à l'\ac {ina}}}{154}{figure.caption.71}
+\contentsline {figure}{\numberline {G.2}{\ignorespaces Chaînes de télévision captées au titre du dépôt légal}}{154}{figure.caption.66}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {K.1}{\ignorespaces Schéma du \textit {Lac de données~}depuis le stockage jusqu'à l'accès aux données}}{155}{figure.caption.72}
+\contentsline {figure}{\numberline {H.1}{\ignorespaces Les fournisseurs extérieurs de données de l'\ac {ina}}}{155}{figure.caption.67}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {L.1}{\ignorespaces Une ontologie de haut niveau: CIDOC-CRM}}{157}{figure.caption.73}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {L.2}{\ignorespaces Une ontologie de domaine: FRBR}}{158}{figure.caption.74}
-\defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {L.3}{\ignorespaces Une ontologie applicative: C4O}}{158}{figure.caption.75}
+\contentsline {figure}{\numberline {I.1}{\ignorespaces La constellation du Linked Open Data en juillet 2020}}{158}{figure.caption.69}
 \defcounter {refsection}{0}\relax
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {M.1}{\ignorespaces Le labyrinthe de Knossos}}{159}{figure.caption.76}
+\contentsline {figure}{\numberline {J.1}{\ignorespaces Le modèle \ac {frbr}}}{159}{figure.caption.70}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {M.2}{\ignorespaces Le labyrinthe d'Irrweg}}{159}{figure.caption.76}
+\contentsline {figure}{\numberline {J.2}{\ignorespaces Le modèle de données de Wikidata}}{160}{figure.caption.71}
 \defcounter {refsection}{0}\relax
-\contentsline {figure}{\numberline {M.3}{\ignorespaces Le labyrinthe réseau}}{160}{figure.caption.77}
+\contentsline {figure}{\numberline {J.3}{\ignorespaces Le modèle de données du \textit {Lac de données~}à l'\ac {ina}}}{160}{figure.caption.72}
+\defcounter {refsection}{0}\relax
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {K.1}{\ignorespaces Schéma du \textit {Lac de données~}depuis le stockage jusqu'à l'accès aux données}}{161}{figure.caption.73}
+\defcounter {refsection}{0}\relax
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {L.1}{\ignorespaces Une ontologie de haut niveau: CIDOC-CRM}}{163}{figure.caption.74}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {L.2}{\ignorespaces Une ontologie de domaine: FRBR}}{164}{figure.caption.75}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {L.3}{\ignorespaces Une ontologie applicative: C4O}}{164}{figure.caption.76}
+\defcounter {refsection}{0}\relax
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {M.1}{\ignorespaces Le labyrinthe de Knossos}}{165}{figure.caption.77}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {M.2}{\ignorespaces Le labyrinthe d'Irrweg}}{165}{figure.caption.77}
+\defcounter {refsection}{0}\relax
+\contentsline {figure}{\numberline {M.3}{\ignorespaces Le labyrinthe réseau}}{166}{figure.caption.78}

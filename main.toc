@@ -155,108 +155,112 @@
 \defcounter {refsection}{0}\relax
 \contentsline {part}{III\hspace {1em}CENTRALISER. Le référentiel, clé de voûte et pivot (depuis le milieu des années 2010)}{87}{part.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{89}{chapter.7}
+\contentsline {chapter}{\numberline {7}Les labyrinthes comme réseaux de données et de liens}{91}{chapter.7}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.1}Du modèle encyclopédique aux graphes de données}{89}{section.7.1}
+\contentsline {section}{\numberline {7.1}Du modèle encyclopédique aux graphes de données}{91}{section.7.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.1}Vers les labyrinthes (Renaissance)}{90}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.1}Vers les labyrinthes (Renaissance)}{92}{subsection.7.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.2}Des labyrinthes aux graphes}{91}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.2}Des labyrinthes aux graphes}{93}{subsection.7.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.2}Des labyrinthes de relations et d'identifiants: les hubs de liens}{93}{section.7.2}
+\contentsline {section}{\numberline {7.2}Des labyrinthes de relations et d'identifiants: les hubs de liens}{95}{section.7.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.1}De la décentralisation des référentiels à leur recentralisation dans le Web de données}{93}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.1}De la décentralisation des référentiels à leur recentralisation dans le Web de données}{95}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.2}Apparition des hubs de liens et d'identifiants}{94}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.2}Apparition des hubs de liens et d'identifiants}{96}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.3}Les hubs de liens et d'identifiants réceptacles de données}{96}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.3}Les hubs de liens et d'identifiants réceptacles de données}{98}{subsection.7.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.3}Wikidata comme hub de liens: aligner les fictions et les séries de l'INA avec Wikidata}{97}{section.7.3}
+\contentsline {section}{\numberline {7.3}Wikidata comme hub de liens: aligner les fictions et les séries de l'INA avec Wikidata}{99}{section.7.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.3.1}Enrichir ses données avec des identifiants plutôt qu'avec des textes}{97}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}Enrichir ses données avec des identifiants plutôt qu'avec des textes}{99}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.3.2}Aligner des fictions et des séries avec Wikidata}{98}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.2}Aligner des fictions et des séries avec Wikidata}{100}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.3.3}Les difficultés posées par les langages naturels}{100}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.3}Les difficultés posées par les langages naturels}{102}{subsection.7.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Le \textit {Lac de données~}de l’\ac {ina} : le référentiel au centre du modèle}{103}{chapter.8}
+\contentsline {chapter}{\numberline {8}Le \textit {Lac de données~}de l’\ac {ina} : le référentiel au centre du modèle}{105}{chapter.8}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.1}Application des principes du Web de données aux systèmes documentaires: le Linked Enterprise Data}{103}{section.8.1}
+\contentsline {section}{\numberline {8.1}Application des principes du Web de données aux systèmes documentaires: le Linked Enterprise Data}{105}{section.8.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.1}Permettre l'interopérabilité au sein des institutions}{104}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Permettre l'interopérabilité au sein des institutions}{106}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.2}Repenser le système documentaire}{105}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Repenser le système documentaire}{107}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.3}Le positionnement du référentiel}{106}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.3}Le positionnement du référentiel}{107}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.2}Le \textit {Lac de données~}de l'INA: un repositionnement du référentiel au centre du modèle de données}{107}{section.8.2}
+\contentsline {section}{\numberline {8.2}Le \textit {Lac de données~}de l'INA: un repositionnement du référentiel au centre du modèle de données}{109}{section.8.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.1}Le \textit {Lac de données~}, un modèle basé sur des classes d'entités}{107}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.1}Le \textit {Lac de données~}, un modèle basé sur des classes d'entités}{109}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.2}La place des concepts}{108}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}La place des concepts}{111}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.3}Le \textit {Lac de données~}comme un LED: une infrastructure unique}{110}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Le \textit {Lac de données~}comme un LED: une infrastructure unique}{112}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.3}Perspectives d'utilisation}{113}{section.8.3}
+\contentsline {section}{\numberline {8.3}Perspectives d'utilisation}{115}{section.8.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.1}Permettre l’intégration des données issues de la description et de la segmentation de vidéos dans le \textit {Lac de données~} : réutilisation des concepts et enrichissement des métadonnées}{114}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.1}Permettre l’intégration des données issues de la description et de la segmentation de vidéos dans le \textit {Lac de données~} : réutilisation des concepts et enrichissement des métadonnées}{116}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.2}Faciliter et améliorer le catalogage des documents de l’\ac {ina} par l’extraction automatique de données}{116}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.2}Faciliter et améliorer le catalogage des documents de l’\ac {ina} par l’extraction automatique de données}{118}{subsection.8.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.3}Améliorer la valorisation des documents et offrir une meilleure expérience utilisateur}{117}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.3}Améliorer la valorisation des documents et offrir une meilleure expérience utilisateur}{119}{subsection.8.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le \textit {Lac de données~}: l'exemple de l'alignement de deux référentiels de personnes physiques}{121}{chapter.9}
+\contentsline {chapter}{\numberline {9}Centraliser les référentiels de l’INA dans le \textit {Lac de données~}: l'exemple de l'alignement de deux référentiels de personnes physiques}{123}{chapter.9}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.1}Des jeux de données différents en de multiples points}{122}{section.9.1}
+\contentsline {section}{\numberline {9.1}Des jeux de données différents en de multiples points}{124}{section.9.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.1}Enjeux}{122}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.1}Enjeux}{124}{subsection.9.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.2}Points de contact}{123}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.2}Points de contact}{125}{subsection.9.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.3}Divergences}{123}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.3}Divergences}{125}{subsection.9.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.2}Établir une méthodologie particulière d'alignement}{125}{section.9.2}
+\contentsline {section}{\numberline {9.2}Établir une méthodologie particulière d'alignement}{127}{section.9.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.1}Créer un indice de confiance pour chaque alignement}{126}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.1}Créer un indice de confiance pour chaque alignement}{128}{subsection.9.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.2}Des étapes exclusives}{127}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.2}Des étapes exclusives}{129}{subsection.9.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.3}Des résultats à la hauteur des données initiales}{129}{section.9.3}
+\contentsline {section}{\numberline {9.3}Des résultats à la hauteur des données initiales}{131}{section.9.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Conclusion}{131}{chapter*.53}
+\contentsline {subsection}{\numberline {9.3.1}Des résultats hétérogènes reflétant les multiples difficultés}{131}{subsection.9.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Annexes}{135}{part*.54}
+\contentsline {subsection}{\numberline {9.3.2}Une supervision humaine nécessaire}{132}{subsection.9.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{135}{appendix.A}
+\contentsline {chapter}{Conclusion}{135}{chapter*.54}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{137}{appendix.B}
+\contentsline {part}{Annexes}{141}{part*.55}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{139}{appendix.C}
+\contentsline {chapter}{\numberline {A}Les index de la Renaissance, termes contrôlés et classification alphabétique (les index de l'\textit {Alsatia Illustrata} de Jean-Daniel \textsc {Schoepflin})}{141}{appendix.A}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{141}{appendix.D}
+\contentsline {chapter}{\numberline {B}Les différents types d'interopérabilité}{143}{appendix.B}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{143}{appendix.E}
+\contentsline {chapter}{\numberline {C}Les types de données présents dans les bases de données de l'\ac {ina} et leur rôle}{145}{appendix.C}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{145}{appendix.F}
+\contentsline {chapter}{\numberline {D}Les bases de données de la \ac {ddcol} de l'\ac {ina}}{147}{appendix.D}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{147}{appendix.G}
+\contentsline {chapter}{\numberline {E}Le thésaurus de noms communs de l'\ac {ina}}{149}{appendix.E}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{149}{appendix.H}
+\contentsline {chapter}{\numberline {F}Aligner les fonctions de \FB@og Journaliste\FB@fg \relax {} des notes qualité avec le thésaurus des noms communs de l'\ac {ina}}{151}{appendix.F}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{151}{appendix.I}
+\contentsline {chapter}{\numberline {G}Les captations directes réalisées par l'\ac {ina} au titre du dépôt légal}{153}{appendix.G}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{153}{appendix.J}
+\contentsline {chapter}{\numberline {H}Les fournisseurs externes de données de l'\ac {ina}}{155}{appendix.H}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {K}Repenser l'infrastructure}{155}{appendix.K}
+\contentsline {chapter}{\numberline {I}La constellation du Linked Open Data}{157}{appendix.I}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {L}Ontologies de haut et de bas niveaux}{157}{appendix.L}
+\contentsline {chapter}{\numberline {J}Repenser la place du référentiel}{159}{appendix.J}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {M}Labyrinthes}{159}{appendix.M}
+\contentsline {chapter}{\numberline {K}Repenser l'infrastructure}{161}{appendix.K}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{161}{figure.caption.77}
+\contentsline {chapter}{\numberline {L}Ontologies de haut et de bas niveaux}{163}{appendix.L}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{163}{appendix*.78}
+\contentsline {chapter}{\numberline {M}Labyrinthes}{165}{appendix.M}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{167}{appendix*.79}
+\contentsline {chapter}{Index des noms de référentiels}{167}{figure.caption.78}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{169}{appendix*.80}
+\contentsline {chapter}{Table des figures}{169}{appendix*.79}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Liste des tableaux}{173}{appendix*.80}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{175}{appendix*.81}
