@@ -1,0 +1,72 @@
+\section{\label{III-C-1}Des jeux de données différents en de multiples points}
+\titreEntete{Des jeux de données différents}
+
+%intro
+L'alignement des personnes physiques de la \ac{ddcol} avec Wikidata avait déjà démontré l'importance de la donnée structurée afin de créer des points de contacts entre les deux jeux de données et procéder à leur alignement. Les problématiques liées à la graphie et aux différences de structure ont aussi compliqué cet alignement. Dans le cadre de la mise en relation entre le référentiel des personnes physiques de la \ac{dj} avec celui de la \ac{ddcol}, ces points de contact sont réduits au minimum et peuvent interroger quant à la possibilité de réaliser des alignements sûrs, ou les plus sûrs possibles.
+
+\subsection{\label{III-C-1-a}Enjeux}
+\titreEntete{Enjeux}
+
+Le \ldd n'étant pas conçu à partir des besoins métier mais des données, le référentiel des personnes physiques de la \ac{dj}, se présentant sous la forme d'une table \textit{PERSONNE} de la base de données, ne peut pas être conservé dans sa structure actuelle. En effet, il est uniquement adapté aux besoins de la \ac{dj} et ne correspond pas aux usages que pourrait en faire la \ac{ddcol} ou l'utilisateur final des applications de l\ac{ina}. Dans le but d'intégrer ce référentiel dans le \textit{Lac}, il est nécessaire de l'aligner avec les concepts existants, issus du référentiel des personnes physiques de la \ac{ddcol}. Ainsi, un double enrichissement a lieu, celui des concepts par les données de la \ac{dj}, et celui de la \ac{dj} par les données des concepts. Cependant, cet enrichissement devient invisible dans le \ldd puisqu'il n'y a plus de notion de référentiel, et que les distinctions entre \ac{dj} et \ac{ddcol} sont volontairement effacées au profit d'une structure de données plus souple.\\
+
+Cet alignement a pour finalité l'ajout d'un lien \textit{provenance -- \ac{dj}} à un concept quand le matricule de la \ac{dj} et le concept sont identiques, ou bien la détection des nombreuses personnes de la \ac{dj} qui ne sont pas des concepts. En effet, la \ac{dj} ayant pour fonction de repérer les ayants-droits et ouvrants-droits de personnes liées à un extrait audiovisuel, ces ayants-droits et ouvrants-droits ne sont par conséquent pas spécifiquement dans la description des documents audiovisuels réalisée par la \ac{ddcol} car ils n'interviennent à aucun moment dans ces documents. Ainsi, nombreuses sont les personnes de la \ac{dj} qui n'ont pas d'équivalent dans la \ac{ddcol} et qu'il est nécessaire de repérer afin de leur créer \textit{in fine} un concept dans le \ldd.\\
+
+Cette différence entre les jeux de données montre une nouvelle fois comment se sont formées les bases de données --- selon les usages et les besoins --- qui sont à migrer dans le \ldd: à cause de cette différence, il devient difficile d'estimer l'efficacité et le rendement du processus d'alignement qui va être réalisé. En effet, connaître la raison de l'absence d'alignement de certains matricules des personnes de la \ac{dj} sera uniquement possible par une action humaine. Face à ces enjeux et aux problématiques soulevées par le seul historique des bases de données, l'alignement des deux référentiels comporte plusieurs difficultés supplémentaires déjà évoquées dans les chapitres précédents.
+
+\subsection{\label{III-C-1-b}Points de contact}
+\titreEntete{Points de contact}
+
+Trouver des points de contact entre deux jeux de données, plus encore entre deux référentiels, est essentiel lors d'un alignement: plus ces points de contact sont nombreux, plus les comparaisons sont nombreuses et les alignements sûrs. Cependant, les référentiels de la \ac{ddcol} et la \ac{dj} n'en partagent que peu --- sept. De plus, ces points de contact nécessitent la présence de l'information de chaque côté, ce qui est peu la cas entre la \ac{dj} et la \ac{ddcol}.\\
+
+Dans le \ldd, les concepts disposent notamment d'attributs indiquant le nom, le sexe, les dates de naissance et de décès, ainsi que la note qualité. Cette note qualité n'étant pas scindée dans le \ldd, il est nécessaire dans cet alignement d'en extraire la fonction, ou les fonctions, de la personne, en supprimant la mention des pays d'exercice.\\
+
+Si la \ac{dj} dispose de beaucoup de données personnelles pour mener à bien ses missions, les données permettant un alignement documentaire sont plus restreintes: hormis le nom et le sexe, seule une date de décès est disponible, ainsi qu'une contribution. En effet, seule la date de décès intéresse le service juridique pour ses applications dans le droit et le reversement des droits aux ayants-droits ou ouvrants-droits: conserver une date de naissance n'a par conséquent aucun usage dans la \ac{dj}.
+
+\noindent Le référentiel des personnes de la \ac{dj} présente une petite normalisation avec les contributions: celles-ci ne sont pas du texte libre, mais du texte contrôlé et choisi parmi une liste d'une vingtaine d'entrées. Ce contrôle du vocabulaire permet dans l'alignement des rendements meilleurs après, nous le verrons, un traitement préalable des données des notes qualité de la \ac{ddcol}.\\
+
+Cependant, les points de contact identifiés pour la \ac{dj} et la \ac{ddcol} sont peu nombreux, ce qui complique la détection des homonymes et diminue la fiabilité des alignements qui seront réalisés.
+
+\subsection{\label{III-C-1-c}Divergences}
+\titreEntete{Divergences}
+
+En plus de ces difficultés sur la quantité des points de contact, les deux référentiels diffèrent par leurs structures et leurs graphies. D'abord, les niveaux de description des mêmes attributs sont différents. En effet, alors que le nom du concept du \ldd se compose de la forme \textit{Nom, Prénom}, l'état-civil stocké à la \ac{dj} est divisé en deux attributs: un nom, et un prénom. Ainsi, avant d'effectuer l'alignement, il est nécessaire de scinder le nom du concept afin de récupérer le nom et le prénom séparément.
+
+\noindent Le jeu de données de la \ac{dj} offre également deux autres attributs, les pseudos de nom et de prénom de chaque personne. Afin d'utiliser ces deux attributs supplémentaires, il est nécessaire de leur trouver un point de contact dans les concepts issus de la \ac{ddcol}: ainsi, il a été considéré qu'un nom de concept ne possédant pas de virgule est un pseudo. Par conséquent, ce pseudo issu des concepts peut être comparé avec le pseudo du nom de la \ac{dj}\footnote{Dans les données de la \ac{dj}, c'est le pseudo-nom qui comporte le pseudonyme courant d'une personne; l'attribut pseudo prénom n'est utilisé que pour indiquer une variante du prénom de cette personne.}.\\
+
+En plus de ces différences de niveaux de description, les graphies ne sont pas les mêmes. D'abord, les données de la \ac{dj} sont en majuscules, alors que celles de la \ac{ddcol} sont en minuscules. Si cette difficulté n'est pas majeure, elle nécessite tout de même un traitement dans l'ETL avant de pouvoir procéder à un alignement. De même, afin d'éviter toute variation dans des chaînes de caractères renvoyant à une même personne mais aux graphies différentes, les accents et la ponctuation sont retirés. Les dates, de même que lors des alignements décrits dans les chapitres précédents, sont réduites à la seule année.
+
+\noindent La difficulté majeure posée dans l'alignement de deux référentiels de personnes est la graphie et l'utilisation des particules des noms. En effet, l'utilisation des particules n'est pas normalisée dans l'Institut, ce qui conduit à la présence de \nP{Louis de }{Funès} dans la \ac{ddcol}, alors que la \ac{dj} conserve la forme \nP{Louis}{de Funès}. Les pratiques d'écriture des noms à particules étant constantes à la \ac{ddcol}, il est possible de transférer cette particule\footnote{Cette particule n'est pas exclusivement \textit{de}, elle peut être de l'une des formes suivantes: \textit{de, des, du, de la}} dans le nom afin d'obtenir  \nP{Louis}{de Funès} dans chaque jeu de données.\\
+
+Enfin, afin de donner aux alignement une fiabilité plus importante, il est essentiel de prendre en compte le texte des notes qualité pour le comparer avec les contributions de la \ac{dj}. Les notes qualité de la \ac{ddcol} comportant plus de vingt mille fonctions différentes, il n'est pas possible de les faire correspondre chacune avec l'une des contributions de la \ac{dj}. Pour cela, seules les contributions et les fonctions des notes qualité les plus courantes ont fait l'objet d'un alignement manuel pour faciliter l'alignement automatique qui va suivre; cinq de ces contributions ont ainsi été pu être traité:
+\begin{itemize}
+	\item le terme \textit{Journalisme} de la \ac{dj} est remplacé par \og journaliste\fg{};
+	\item \textit{Artiste interprètre} est remplacé par \og chanteu\fg{}\footnote{Les terminaisons sont enlevées dans ces termes de remplacement afin de prendre en compte les variantes de graphie liées au pluriel et au féminin que l'on peut trouver dans les fonctions de la \ac{ddcol}.}
+	\item \og realisat\fg remplace \textit{Réalisation}
+	\item \og composit\fg remplace \textit{Composition musicale}
+	\item enfin, \textit{Réalisation associée} est remplacé par \og realisat\fg{}
+\end{itemize}
+\medskip
+Les chanteurs, les compositeurs, les réalisateurs et les journalistes étant les fonctions les plus courantes dans les deux jeux de données, elles ont été repéré puis traité. Cependant, une majorité de fonctions ne pourra pas être aligné avec les contributions de la \ac{dj}, et par conséquent limitera la confiance accordée aux alignements.
+
+
+%conlu
+\bigskip
+\bigskip
+La centralisation de référentiels et de données est nécessaire pour les systèmes documentaires, mais la reprise de ces référentiels et de ces données peut être compliquée par les structures et les normes divergentes selon les jeux de données. Cette absence d'uniformisation annonce déjà des résultats faibles et limités dans la confiance que l'on peut leur accorder. Dans le cas de l'alignement des référentiels de personnes physiques de la \ac{dj} et de la \ac{ddcol} à l'\ac{ina}, les points de contacts sont peu nombreux et peu spécifiques\footnote{Voir \reference{table_contact_dj_ddcol}.}.
+
+\begin{table}[!h]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		\textbf{\ac{dj}} & \textbf{\ac{ddcol}}\\ \hline
+		Nom&Nom\\ \hline
+		Prénom&Prénom\\ \hline
+		Pseudo nom&Pseudo\\ \hline
+		Pseudo prénom&\\ \hline
+		Sexe&Sexe\\ \hline
+		Date de naissance&Date de naissance\\ \hline
+		Contribution&Fonction\\ \hline
+	\end{tabular}
+	\caption[Points de contact entre les référentiels de la \ac{dj} et de la \ac{ddcol}]{Points de contact entre les référentiels de la \ac{dj} et de la \ac{ddcol}}
+	\label{table_contact_dj_ddcol}
+\end{table}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  21 SEP 2020 08:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  22 SEP 2020 14:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2126,32 +2126,32 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./parties/backmatter/annexes.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 113.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    ... okay on input line 113.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -2159,60 +2159,60 @@ LaTeX Font Info:    ... okay on input line 111.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 111.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 111.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 111.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 111.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 111.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 111.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 111.
-LaTeX Font Info:    Redeclaring math accent \check on input line 111.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 111.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 111.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 111.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 111.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 111.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 113.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 113.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 113.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 113.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 113.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 113.
+LaTeX Font Info:    Redeclaring math accent \check on input line 113.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 113.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 113.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 113.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 111.
+(Font)              `operators' in the math version `normal' on input line 113.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 111.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 113.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 111.
+(Font)              `operators' in the math version `bold' on input line 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 111.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 111.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 111.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 111.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 111.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 111.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 111.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 111.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 111.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 111.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 113.
 \AtBeginShipoutBox=\box123
-Package hyperref Info: Link coloring OFF on input line 111.
+Package hyperref Info: Link coloring OFF on input line 113.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2222,16 +2222,16 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count512
 )
-LaTeX Info: Redefining \ref on input line 111.
-LaTeX Info: Redefining \pageref on input line 111.
-LaTeX Info: Redefining \nameref on input line 111.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
 
 (./main.out) (./main.out)
 \@outlinefile=\write25
 \openout6 = `main.out'.
 
-LaTeX Info: Redefining \dots on input line 111.
-LaTeX Info: Redefining \up on input line 111.
+LaTeX Info: Redefining \dots on input line 113.
+LaTeX Info: Redefining \up on input line 113.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2288,8 +2288,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 111.
-Package biblatex Info: Reference segment=0 on input line 111.
+Package biblatex Info: Reference section=0 on input line 113.
+Package biblatex Info: Reference segment=0 on input line 113.
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -2301,7 +2301,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 111.
+or `french'. on input line 113.
 \openout2 = `parties/frontmatter/page_titre.aux'.
 
  (./parties/frontmatter/page_titre.tex
@@ -2508,7 +2508,7 @@ Underfull \vbox (badness 1635) has occurred while \output is active []
 \openout6 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
@@ -3445,7 +3445,7 @@ ses auprès d’agences
 \openout6 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
@@ -3475,12 +3475,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
 \openout6 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
@@ -4678,7 +4678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 \openout6 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
@@ -5115,13 +5115,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 Chapitre 8.
-(./parties/mainmatter/III/B/III-B-1.tex
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+(./parties/mainmatter/III/B/III-B-1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
@@ -5140,9 +5140,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
 
 \openout6 = `main.mw'.
 
@@ -5173,33 +5174,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
  []
 
 
+Underfull \vbox (badness 5260) has occurred while \output is active []
+
+\openout6 = `main.mw'.
+
+ [105]
+(./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-\openout6 = `main.mw'.
-
-[105] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
 ) (./parties/mainmatter/III/B/III-B-2.tex
+\openout6 = `main.mw'.
+
+ [106] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
-
-\openout6 = `main.mw'.
-
-[106] (./main.mw)
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
-\openout6 = `main.mw'.
-
 
 *************************************************
 * acro warning: "no-alternative"
@@ -5213,9 +5218,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
+
+Underfull \vbox (badness 3417) has occurred while \output is active []
+
+
+Overfull \hbox (256.9149pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/12 8.2.  LE \TU/lmr/m/it/12 LAC DE DONNÉES \TU/lmr/m/sl/12 DE L’IN
+A : UN REPOSITIONNEMENT DU RÉFÉRENTIEL AU CENTRE DU MODÈLE DE DONNÉES \TU/lmr/m
+/n/12 107
+ []
+
 \openout6 = `main.mw'.
 
 [107] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5227,7 +5246,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-(./images/schema_ldd_1.tex)
+(./images/schema_ldd_1.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 \openout6 = `main.mw'.
 
  [108] (./main.mw)
@@ -5238,18 +5261,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 \openout6 = `main.mw'.
 
  (./images/schema_concept_1.tex)
-(./images/schema_concept_2.tex
-Overfull \hbox (28.45253pt too wide) in paragraph at lines 54--55
- [][] 
- []
-
-)
 \openout6 = `main.mw'.
 
  [109] (./main.mw)
 \openout6 = `main.mw'.
 
- (./images/schema_concept_3.tex
+
+(./images/schema_concept_2.tex
+Overfull \hbox (28.45253pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+) (./images/schema_concept_3.tex
 Overfull \hbox (34.14299pt too wide) in paragraph at lines 77--78
  [][] 
  []
@@ -5278,15 +5301,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
  [111] (./main.mw)
 \openout6 = `main.mw'.
 
+\openout6 = `main.mw'.
+
+ [112] (./main.mw)
+\openout6 = `main.mw'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
-
-\openout6 = `main.mw'.
-
-[112] (./main.mw)
-\openout6 = `main.mw'.
 
 ) (./parties/mainmatter/III/B/III-B-3.tex
 \openout6 = `main.mw'.
@@ -5298,18 +5321,178 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
+\openout6 = `main.mw'.
 
-Overfull \hbox (23.91579pt too wide) in paragraph at lines 26--26
+[113] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+File: images/diginpix_resultat.jpg Graphic file (type bmp)
+<images/diginpix_resultat.jpg>
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+[114] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+ [115] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+\openout6 = `main.mw'.
+
+[116] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Overfull \hbox (23.91579pt too wide) in paragraph at lines 51--51
 [][]\TU/lmr/bx/n/14.4 Améliorer la valorisation des documents et offrir une mei
 lleure
  []
 
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+\openout6 = `main.mw'.
+
+[117] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+File: images/inafr_ecole_fans.png Graphic file (type bmp)
+<images/inafr_ecole_fans.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\TU/lmr/m/sc/12 Figure \TU/lmr/m/n/12 8.6 – |Métadonnées associées à un docum
+ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\TU/lmr/m/n/12 sur ina.fr [Source : []$[][][][][] [] [] [] [][][] [] [][][] [] 
+[][] [] [][][][][] [] [][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--66
+
+ []
+
+\openout6 = `main.mw'.
+
+[118] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 )) (./parties/mainmatter/III/C/III-C.tex
+\openout6 = `main.mw'.
+
+ [119] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+[120
+
+] (./main.mw)
+\openout6 = `main.mw'.
+
+
+Chapitre 9.
+
+LaTeX Warning: Reference `II-C--3' on page 121 undefined on input line 5.
+
+
+LaTeX Warning: Reference `II-C--3' on page 121 undefined on input line 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+(./parties/mainmatter/III/C/III-C-1.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
- [113]
+ [121]
 (./main.mw)
 \openout6 = `main.mw'.
 
@@ -5317,31 +5500,139 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
 
- [114] (./main.mw)
-\openout6 = `main.mw'.
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
-\openout6 = `main.mw'.
+ []
 
-\openout6 = `main.mw'.
 
-\openout6 = `main.mw'.
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
-\openout6 = `main.mw'.
+ []
 
 \openout6 = `main.mw'.
 
+[122] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 
-Chapitre 9.
-)
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
 \openout6 = `main.mw'.
 
- [115
+[123] (./main.mw)
+\openout6 = `main.mw'.
 
-] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+\openout6 = `main.mw'.
+
+[124] (./main.mw)
+\openout6 = `main.mw'.
+
+) (./parties/mainmatter/III/C/III-C-2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+\openout6 = `main.mw'.
+
+[125] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+\openout6 = `main.mw'.
+
+[126] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+File: images/tmpa_jointure1_dj.png Graphic file (type bmp)
+<images/tmpa_jointure1_dj.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+\openout6 = `main.mw'.
+
+[127] (./main.mw)
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+File: images/orchestration_partie1_dj.png Graphic file (type bmp)
+<images/orchestration_partie1_dj.png>
+) (./parties/mainmatter/III/C/III-C-3.tex
+\openout6 = `main.mw'.
+
+ [128] (./main.mw)
+\openout6 = `main.mw'.
+
+))
+\openout6 = `main.mw'.
+
+
+[129] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5353,7 +5644,7 @@ Chapitre 9.
  (./parties/mainmatter/conclusion_generale.tex
 \openout6 = `main.mw'.
 
- [116
+ [130
 
 
 ]
@@ -5363,7 +5654,7 @@ Chapitre 9.
 )
 \openout6 = `main.mw'.
 
- [117] (./main.mw)
+ [131] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5375,7 +5666,7 @@ Chapitre 9.
  (./parties/backmatter/annexes.tex
 \openout6 = `main.mw'.
 
- [118
+ [132
 
 
 
@@ -5385,12 +5676,12 @@ Chapitre 9.
 
 \openout6 = `main.mw'.
 
- [119] (./main.mw)
+ [133] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [120] (./main.mw)
+ [134] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5401,7 +5692,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 <images/index_rerum_alsatia.jpg>
 \openout6 = `main.mw'.
 
-[121
+[135
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5416,7 +5707,7 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [122
+ [136
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5430,7 +5721,7 @@ File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 30.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 30.
 
 
 \openout6 = `main.mw'.
@@ -5438,7 +5729,7 @@ LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 30.
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 30.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 30.
 
 
 File: images/interop_denom_commun.jpeg Graphic file (type bmp)
@@ -5448,7 +5739,7 @@ File: images/interop_denom_commun.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 37.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 37.
 
 
 \openout6 = `main.mw'.
@@ -5456,7 +5747,7 @@ LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 37.
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 37.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 37.
 
 
 
@@ -5469,7 +5760,7 @@ File: images/interop_hub_spoke.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 44.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 44.
 
 
 \openout6 = `main.mw'.
@@ -5477,7 +5768,7 @@ LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 44.
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 44.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 44.
 
 
 
@@ -5490,7 +5781,7 @@ File: images/interop_follow_nose.jpeg Graphic file (type bmp)
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 52.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 52.
 
 
 \openout6 = `main.mw'.
@@ -5498,7 +5789,7 @@ LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 52.
 \openout6 = `main.mw'.
 
 
-LaTeX Warning: Citation 'bermes_2_2013' on page 123 undefined on input line 52.
+LaTeX Warning: Citation 'bermes_2_2013' on page 137 undefined on input line 52.
 
 
 
@@ -5506,7 +5797,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[123] (./main.mw)
+[137] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5515,7 +5806,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [124] (./main.mw)
+ [138] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5532,7 +5823,7 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
-[125
+[139
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5543,7 +5834,7 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [126
+ [140
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5562,7 +5853,7 @@ File: images/bases_ddcol.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
-[127] (./main.mw)
+[141] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5571,7 +5862,7 @@ File: images/bases_ddcol.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [128
+ [142
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5582,7 +5873,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 <images/cadreur_hierarchie.png>
 \openout6 = `main.mw'.
 
-[129] (./main.mw)
+[143] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5591,7 +5882,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [130
+ [144
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5600,7 +5891,7 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 Annexe F.
 \openout6 = `main.mw'.
 
-[131] (./main.mw)
+[145] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5609,7 +5900,7 @@ Annexe F.
 
 \openout6 = `main.mw'.
 
- [132
+ [146
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5625,7 +5916,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[133] (./main.mw)
+[147] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5634,7 +5925,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [134] (./main.mw)
+ [148] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5648,7 +5939,7 @@ LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
 )
 \openout6 = `main.mw'.
 
- [135
+ [149
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5659,7 +5950,7 @@ LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
 
 \openout6 = `main.mw'.
 
- [136] (./main.mw)
+ [150] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5679,7 +5970,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[137
+[151
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5690,7 +5981,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [138] (./main.mw)
+ [152] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5725,7 +6016,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[139
+[153
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5736,7 +6027,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [140] (./main.mw)
+ [154] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5753,7 +6044,7 @@ File: images/infrastructure_unique.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
-[141
+[155
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5764,7 +6055,7 @@ File: images/infrastructure_unique.png Graphic file (type bmp)
 
 \openout6 = `main.mw'.
 
- [142
+ [156
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5785,7 +6076,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
-[143] (./main.mw)
+[157] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5794,7 +6085,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [144] (./main.mw)
+ [158] (./main.mw)
 \openout6 = `main.mw'.
 
 
@@ -5835,7 +6126,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 \openout6 = `main.mw'.
 
- [145
+ [159
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5846,7 +6137,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout6 = `main.mw'.
 
- [146] (./main.mw)
+ [160] (./main.mw)
 \openout6 = `main.mw'.
 
 runsystem(makeindex referentiels.idx)...executed.
@@ -5854,7 +6145,7 @@ runsystem(makeindex referentiels.idx)...executed.
  (./referentiels.ind
 \openout6 = `main.mw'.
 
- [147
+ [161
 
 
 
@@ -5871,7 +6162,7 @@ runsystem(makeindex referentiels.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[148
+[162
 
 
 ] (./main.mw)
@@ -5882,7 +6173,7 @@ runsystem(makeindex ina.idx)...executed.
  (./ina.ind) (./main.lof
 \openout6 = `main.mw'.
 
- [149
+ [163
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5893,7 +6184,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [150] (./main.mw)
+ [164] (./main.mw)
 \openout6 = `main.mw'.
 
 )
@@ -5903,12 +6194,12 @@ runsystem(makeindex ina.idx)...executed.
 \openout6 = `main.mw'.
 
 
-[151] (./main.mw)
+[165] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [152
+ [166
 
 ] (./main.mw)
 \openout6 = `main.mw'.
@@ -5919,7 +6210,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [153] (./main.mw)
+ [167] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5928,7 +6219,7 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [154
+ [168
 
 ]
 (./main.mw)
@@ -5937,7 +6228,7 @@ runsystem(makeindex ina.idx)...executed.
  (./main.toc
 \openout6 = `main.mw'.
 
- [155] (./main.mw)
+ [169] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -5946,18 +6237,18 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [156] (./main.mw)
+ [170] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
- [157] (./main.mw)
+ [171] (./main.mw)
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
 
 
-[158] (./main.mw)
+[172] (./main.mw)
 \openout6 = `main.mw'.
 
 )
@@ -5966,11 +6257,11 @@ runsystem(makeindex ina.idx)...executed.
 
 \openout6 = `main.mw'.
 
- [159] (./main.mw)
+ [173] (./main.mw)
 \openout6 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (./main.aux
 (./parties/frontmatter/page_titre.aux)
 \openout6 = `main.mw'.
@@ -6506,6 +6797,118 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
 \openout6 = `main.mw'.
 
 )
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
+\openout6 = `main.mw'.
+
 \openout6 = `main.mw'.
 
 \openout6 = `main.mw'.
@@ -7880,8 +8283,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
 \openout6 = `main.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 204.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 206.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -7905,7 +8308,7 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
 \openout6 = `main.out'.
 
 \openout6 = `main.lof'.
@@ -7916,12 +8319,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
 
  ) 
 Here is how much of TeX's memory you used:
- 49049 strings out of 493007
- 999816 string characters out of 6136719
- 1747751 words of memory out of 5000000
- 51770 multiletter control sequences out of 15000+600000
+ 49244 strings out of 493007
+ 1004890 string characters out of 6136719
+ 1758366 words of memory out of 5000000
+ 51924 multiletter control sequences out of 15000+600000
  533616 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,12n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (171 pages).
+Output written on main.pdf (185 pages).
