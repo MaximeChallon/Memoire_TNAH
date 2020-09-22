@@ -41,7 +41,7 @@ Ainsi, après une première priorisation des points de comparaison, il est néce
 \noindent D'abord, les alignements réalisés avec le nom, le prénom, les pseudos et la correspondance des fonctions sont considérés comme ceux étant les plus sûrs pour effectuer les rapprochements entre les concepts de la \ac{ddcol} et les matricules de la \ac{dj}. Ces alignements, comme ceux des étapes suivantes, sont des jointures\footnote{Afin de ne récupérer que les alignements qui ont été réalisés, ces jointures sont de type \textit{inner join}.} entre les deux jeux de données réalisées dans l'ETL Talend avec le composant associé, un tMap (\reference{tmap_jointures}).
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=14cm]{images/tmpa_jointure1_dj.png}
+	\includegraphics[width=16cm]{images/tmpa_jointure1_dj.png}
 	\caption{L'alignement des personnes de la \ac{dj} et de la \ac{ddcol} pour une jointure dans un tMap de Talend.}
 	\label{tmap_jointures}
 \end{figure}
@@ -55,7 +55,7 @@ Ainsi, après une première priorisation des points de comparaison, il est néce
 Distinguer ces quatre étapes permet, à l'issue de chacune d'elles, de récupérer ce qui n'a pas été aligné, tant du côté de la \ac{dj} et de la \ac{ddcol}, afin d'effectuer l'étape suivante avec uniquement ces données non alignées (\reference{orchestration}). Cette récupération évite de créer des alignements doubles avec des concepts différents entre les étapes. C'est également à l'issue de cette récupération que les résultats des jointures précédentes sont comparés afin de supprimer les matricules alignés plusieurs fois, et d'attribuer les scores pour le sexe et la date.\\
 \begin{figure}[!h]
 	\centering
-	\includegraphics[width=14cm]{images/orchestration_partie1_dj.png}
+	\includegraphics[width=16cm]{images/orchestration_partie1_dj.png}
 	\caption{L'orchestration de la première étape dans l'ETL Talend.}
 	\label{orchestration}
 \end{figure}
