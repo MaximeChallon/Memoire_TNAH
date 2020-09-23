@@ -23,7 +23,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {1.2.3}Contrôle de la synonymie}{9}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {1.3}Une clé entre les jeux de données: l'interopérabilité par les fichiers d'autorité et les portails}{9}{section.1.3}
+\contentsline {section}{\numberline {1.3}Une clé entre les jeux de données: l'interopérabilité par les fichiers d'autorité et les portails}{10}{section.1.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {1.3.1}La naissance des autorités par rétroconversion}{11}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax
@@ -47,7 +47,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.2.3}Utiliser la précoordination pour les relations complexes}{24}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{25}{section.2.3}
+\contentsline {section}{\numberline {2.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{24}{section.2.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.3.1}Contrôler du texte libre}{25}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax
@@ -75,11 +75,11 @@
 \defcounter {refsection}{0}\relax
 \contentsline {part}{II\hspace {1em}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}{39}{part.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {4}Le web de données: une exposition commune des référentiels}{43}{chapter.4}
+\contentsline {chapter}{\numberline {4}Le Web de données: une exposition commune des référentiels}{43}{chapter.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.1}Le web de données: naissance et principes}{44}{section.4.1}
+\contentsline {section}{\numberline {4.1}Le Web de données: naissance et principes}{44}{section.4.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.1.1}Créer un modèle de données nativement compatible avec le web: le web de données}{44}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Créer un modèle de données nativement compatible avec le Web: le Web de données}{44}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{Naissance du Web de données}{44}{section*.24}
 \defcounter {refsection}{0}\relax
@@ -257,10 +257,12 @@
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {M}Labyrinthes}{165}{appendix.M}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms de référentiels}{167}{figure.caption.78}
+\contentsline {part}{Bibliographies sélectives}{169}{part*.79}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{169}{appendix*.79}
+\contentsline {chapter}{Index des noms et des types de référentiels}{175}{section*.84}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{173}{appendix*.80}
+\contentsline {chapter}{Table des figures}{177}{appendix*.85}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{175}{appendix*.81}
+\contentsline {chapter}{Liste des tableaux}{181}{appendix*.86}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Table des matières}{183}{appendix*.87}

@@ -1,0 +1,93 @@
+\begin{theindex}
+
+  \item Autorités
+    \subitem Dewey, \hyperpage{19}, \hyperpage{64}
+    \subitem Fichiers d'autorité, \hyperpage{11--13}, \hyperpage{20}, 
+		\hyperpage{50}
+    \subitem GEMET, \hyperpage{19}
+    \subitem LCSH, \hyperpage{7--9}, \hyperpage{11}, \hyperpage{49, 50}, 
+		\hyperpage{54}, \hyperpage{64}
+    \subitem RAMEAU, \hyperpage{7--9}, \hyperpage{11}, 
+		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}
+    \subitem VIAF, \hyperpage{50, 51}
+
+  \indexspace
+
+  \item Échanges
+    \subitem Formats
+      \subsubitem Bibframe, \hyperpage{54}
+      \subsubitem Dublin Core, \hyperpage{13}
+      \subsubitem EAD, \hyperpage{13}
+      \subsubitem MARC, \hyperpage{12, 13}, \hyperpage{51}, 
+		\hyperpage{54}
+      \subsubitem RDA, \hyperpage{54}, \hyperpage{68}
+      \subsubitem RDF, \hyperpage{46, 47}, \hyperpage{49}, 
+		\hyperpage{52--54}, \hyperpage{63--65}, 
+		\hyperpage{67, 68}
+    \subitem Protocoles
+      \subsubitem HTTP, \hyperpage{46, 47}
+      \subsubitem OAI-PMH, \hyperpage{13}
+      \subsubitem SPARQL, \hyperpage{46, 47}
+      \subsubitem Z39-50, \hyperpage{12}
+
+  \indexspace
+
+  \item Linked Enterprise Data (LED)
+    \subitem Lac de données (INA), \hyperpage{x, xi}, \hyperpage{36}, 
+		\hyperpage{53}
+  \item Linked Open Data (LOD), \hyperpage{49}
+    \subitem data.bnf.fr, \hyperpage{49}
+    \subitem DBpédia, \hyperpage{49}
+    \subitem LCSH, \hyperpage{7--9}, \hyperpage{11}, \hyperpage{49, 50}, 
+		\hyperpage{54}, \hyperpage{64}
+    \subitem OCLC, \hyperpage{12}, \hyperpage{50}
+    \subitem RAMEAU, \hyperpage{7--9}, \hyperpage{11}, 
+		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}
+    \subitem USDA, \hyperpage{50}
+    \subitem VIAF, \hyperpage{50, 51}
+    \subitem YSO, \hyperpage{50}
+
+  \indexspace
+
+  \item Modélisation
+    \subitem bibo, \hyperpage{67}
+    \subitem CIDOC-CRM, \hyperpage{52, 53}, \hyperpage{59}, 
+		\hyperpage{67}
+    \subitem FRAD, \hyperpage{53}
+    \subitem FRBR, \hyperpage{53, 54}, \hyperpage{60}, \hyperpage{67}
+    \subitem FRSAD, \hyperpage{53}
+    \subitem Lac de données (INA), \hyperpage{x, xi}, \hyperpage{36}, 
+		\hyperpage{53}
+
+  \indexspace
+
+  \item Relier
+    \subitem C4O, \hyperpage{60}
+    \subitem DC Terms, \hyperpage{60}, \hyperpage{63}, 
+		\hyperpage{66--68}
+    \subitem Dewey, \hyperpage{64}
+    \subitem FOAF, \hyperpage{20}, \hyperpage{66, 67}
+    \subitem FRBR, \hyperpage{60}, \hyperpage{67}
+    \subitem OWL, \hyperpage{65, 66}, \hyperpage{68}
+    \subitem Portails, \hyperpage{12, 13}
+    \subitem RDA, \hyperpage{68}
+    \subitem RDFS, \hyperpage{59}, \hyperpage{63}, \hyperpage{65, 66}, 
+		\hyperpage{68}
+    \subitem SKOS, \hyperpage{63, 64}, \hyperpage{66}, \hyperpage{68}
+
+  \indexspace
+
+  \item Typologie
+    \subitem Graphe de nœuds et de liens, \hyperpage{44--46}, 
+		\hyperpage{48}, \hyperpage{50, 51}, \hyperpage{54}, 
+		\hyperpage{63}, \hyperpage{65}
+    \subitem Index, \hyperpage{6, 7}, \hyperpage{18}, \hyperpage{24}
+    \subitem Ontologie, \hyperpage{19, 20}, \hyperpage{58--63}, 
+		\hyperpage{66, 67}
+    \subitem Taxonomie, \hyperpage{19--21}, \hyperpage{58}
+    \subitem Thésaurus, \hyperpage{19--22}, \hyperpage{24--30}, 
+		\hyperpage{35}, \hyperpage{63}
+    \subitem Vocabulaires contrôlés, \hyperpage{6, 7}, \hyperpage{20}, 
+		\hyperpage{24}, \hyperpage{34}, \hyperpage{61--64}
+
+\end{theindex}

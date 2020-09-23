@@ -1,15 +1,15 @@
-\section{\label{I-C-3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}
+\section[Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs]{\label{I-C-3}Passer du texte libre à un vocabulaire contrôlé}
 \titreEntete{Passer du texte libre à un vocabulaire contrôlé}
 
 Dans la description de documents audiovisuels --- comme dans celle d'autres documents patrimoniaux ---, désigner des personnes est indispensable. Pour enrichir le seul état civil de la personne, plusieurs moyens peuvent être utilisés:
 \begin{itemize}
 	\item rédiger un texte libre décrivant les caractéristiques de la personne, ses fonctions, ses dates de naissance et de mort, \dots. Cette solution pose la problématique de la structuration des données: un texte libre n'est pas lisible par une machine; son accès est par conséquent restreint.
-	\item utiliser un vocabulaire contrôlé et sélectionner les termes correspondant à la personne. Cependant, en fonction du niveau de précision souhaité, ce vocabulaire doit être plus ou moins précis, rendant, dans le cas d'une grande précision, la description longue et fastidieuse.
+	\item utiliser un \index[ref]{typologie@Typologie!vocabulaires controles@Vocabulaires contrôlés}vocabulaire contrôlé et sélectionner les termes correspondant à la personne. Cependant, en fonction du niveau de précision souhaité, ce vocabulaire doit être plus ou moins précis, rendant, dans le cas d'une grande précision, la description longue et fastidieuse.
 	\item définir des champs essentiels à la description de cette personne, et rédiger un texte libre pour les informations supplémentaires. De même que dans le premier cas, le texte libre appauvrit l'effort de structuration de la description.
 \end{itemize}
-Face à ces difficultés, les documentalistes de la \ac{ddcol} à l'\ac{ina} créent des vedettes de personnes selon une succession de champs (sexe, date de naissance, date de mort, \dots) et de notes, dont une note qualité qui est régie par un guide de rédaction. Cette note qualité a pour but de décrire en quelques mots les fonctions de la personne et le lieu d'exercice. Contrairement au nom et au prénom de la personne, la note qualité n'est pas une clé dans les données: n'étant pas un point d'accès, elle peut être structurée et rédigée en texte libre.\\
+Face à ces difficultés, les documentalistes de la \ac{ddcol} à l'\ac{ina} ont créé des vedettes de personnes selon une succession de champs (sexe, date de naissance, date de mort, \dots) et de notes, dont une note qualité qui est régie par un guide de rédaction. Cette note qualité a pour but de décrire en quelques mots les fonctions de la personne et le lieu d'exercice. Contrairement au nom et au prénom de la personne, la note qualité n'est pas une clé dans les données: n'étant pas un point d'accès, elle peut être structurée et rédigée en texte libre.\\
 
-Dans le cadre de la migration des données de la \ac{ddcol} dans le \textit{Lac de données}, un alignement de ces notes qualité est nécessaire avec le thésaurus des noms communs qui existe parallèlement, notamment pour enrichir le thésaurus des fonctions des notes qualité qui n'y existent pas.
+Dans le cadre de la migration des données de la \ac{ddcol} dans le \ldd, un alignement de ces notes qualités est nécessaire avec le \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus des noms communs qui existe parallèlement, notamment pour enrichir le thésaurus des fonctions des notes qualité qui n'y existent pas.
 
 \subsection{\label{I-C-3-a}Contrôler du texte libre}
 \titreEntete{Contrôler du texte libre}
@@ -17,13 +17,13 @@ Dans le cadre de la migration des données de la \ac{ddcol} dans le \textit{Lac 
 La note qualité est rédigée selon des règles définies au préalable par les documentalistes. Cependant, la rédaction en texte libre conduit à l'apparition d'erreurs humaines, comme les erreurs de graphie, de grammaire ou de ponctuation. En effet, une note qualité peut avoir deux formes:
 \begin{itemize}
 	\item Fonction1, fonction2, \dots~. Pays
-	\item Homonymes: 1 - Fonction1, fonction2, \dots~. Pays ; 2 - Fonction1, fonction2, \dots~. Pays 
+	\item Homonymes: 1 - Fonction1, fonction2, \dots~. Pays1, Pays2, \dots; 2 - Fonction1, fonction2, \dots~. Pays 
 \end{itemize}
-Ainsi, l'oubli d'une ponctuation, ou son inversion, conduit à rendre la note qualité non conforme aux règles et, par conséquent, à rendre son traitement plus difficile voire impossible. De plus, les différences de graphie liées au masculin et au féminin, ainsi qu'au singulier et au pluriel, rendent ces notes qualité très différentes.\\
+Ainsi, l'oubli d'une ponctuation, ou son inversion, conduit à rendre la note qualité non conforme aux règles et, par conséquent, à rendre son traitement plus difficile voire impossible. De plus, les différences de graphie liées au masculin et au féminin, ainsi qu'au singulier et au pluriel, rendent ces notes qualités très différentes.\\
 
-De manière à pouvoir les aligner avec le thésaurus des noms communs, un premier traitement est nécessaire, pour extraire et normaliser les fonctions. Le logiciel ETL (\textit{Extract Transform Loaad})\footnote{Un ETL permet de migrer des données depuis une source vers une cible, en leur appliquant des traitements avant de les charger dans la cible.} \href{https://www.talend.com/fr/products/big-data/}{Talend Big Data Platform} permet ce premier traitement.\\
+De manière à pouvoir les aligner avec le \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus des noms communs, un premier traitement est nécessaire, pour extraire et normaliser les fonctions. Le logiciel ETL (\textit{Extract Transform Loaad})\footnote{Un ETL permet de migrer des données depuis une source vers une cible, en leur appliquant des traitements avant de les charger dans la cible.} \href{https://www.talend.com/fr/products/big-data/}{Talend Big Data Platform} permet ce premier traitement.\\
 
-La première étape consiste à scinder chaque note selon les fonctions et les pays: le point sépare ces deux éléments et permet cette scission. Ainsi, la fonction extraite de \og Historien, musicologue. France\fg{} est \og Historien, musicologue\fg{} alors que la note qualité \og Journaliste, France\fg{} ne peut pas être scindée. Une seconde scission intervient par la suite de manière à récupérer chaque fonction une à une, passant de \og Historien, musicologue\fg{} à \og Historien\fg{} et \og musicologue\fg{}.\\
+La première étape consiste à scinder chaque note selon les fonctions et les pays: le point sépare ces deux éléments et permet cette scission. Ainsi, la fonction extraite de \og Historien, musicologue. France\fg{} est \og Historien, musicologue\fg{} alors que la note qualité \og Journaliste, France\fg{} ne peut pas être scindée correctement. Une seconde scission intervient par la suite de manière à récupérer chaque fonction une à une, passant de \og Historien, musicologue\fg{} à \og Historien\fg{} et \og musicologue\fg{}.\\
 
 Quand les fonctions sont récupérées, le contrôle des termes peut avoir lieu selon plusieurs choix à effectuer en amont:
 \begin{itemize}
@@ -32,64 +32,64 @@ Quand les fonctions sont récupérées, le contrôle des termes peut avoir lieu 
 	\item la gestion de la ponctuation propre aux fonctions comme les traits d'union
 	\item la gestion de l'accentuation
 \end{itemize}
-Pour normaliser le plus possible, le choix du masculin singulier, de la suppression de toute la ponctuation et de l'accentuation a été effectué. Pour le choix du genre, le nombre des exceptions comme \og musée\fg{}, portant une terminaison du féminin, étant plus rares que le nombre de tous les féminins, le choix du masculin s'est imposé pour normaliser le maximum de fonctions. La \autoref{exemple_realisateur_NQ} montre une dernière normalisation à effectuer: la suppression des \textit{stopwords}, effectuée en \autoref{exemple_realisateur_NQ2}.
-\begin{figure}[!h]
+Pour normaliser le plus possible, le choix du masculin singulier, de la suppression de toute la ponctuation et de l'accentuation ont été effectué. Pour les choix du genre, le nombre des exceptions comme \og musée\fg{}, portant une terminaison du féminin, étant plus faible que le nombre de tous les féminins, le choix du masculin s'est imposé pour normaliser le maximum de fonctions. La \autoref{exemple_realisateur_NQ} montre une dernière normalisation à effectuer: la suppression des \textit{stopwords}, effectuée en \autoref{exemple_realisateur_NQ2}.
+\begin{table}[!h]
 	\centering
 	\csvautotabular[separator=semicolon]{images/dessinateur_fonctions.csv}
 	\caption{Données d'exemple de notes qualité avec la fonction de Réalisateur}
 	\label{exemple_realisateur_NQ}
-\end{figure}
-\begin{figure}[!h]
+\end{table}
+\begin{table}[!h]
 	\centering
 	\csvautotabular[separator=semicolon]{images/dessinateur_fonctions2.csv}
 	\caption{Données d'exemple de notes qualité avec la fonction de Réalisateur, après normalisation des fonctions}
 	\label{exemple_realisateur_NQ2}
-\end{figure}
+\end{table}
 \bigskip
 
-Après la normalisation, les fonctions sont suffisamment contrôlées et proches des règles d'un thésaurus pour être alignées. Cependant, nous pouvons observer que les erreurs humaines de graphie, comme l'oubli d'un \og s\fg{} dans \og dessinateur\fg{}, restent et ne pourront par conséquent pas être alignées. Le traitement correct de l'ensemble des notes en texte libre reste impossible à cause des erreurs introduites par l'homme.\\
+Après la normalisation, les fonctions sont suffisamment contrôlées et proches des règles d'un \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus pour être alignées. Cependant, nous pouvons observer que les erreurs humaines de graphie, comme l'oubli d'un \og s\fg{} dans \og dessinateur\fg{}, restent et ne permettront pas, par conséquent, d'être alignées. Le traitement correct de l'ensemble des notes en texte libre reste impossible suite aux erreurs introduites par l'homme.\\
 
-Enfin, les notes qualité de l'\ac{ina} comprennent également des qualités ne décrivant pas directement la personne, mais définissant cette personne par un lien avec un fait. C'est le cas des faits divers, des attentats, des affaires judiciaires dans lesquels une personne peut être impliquées comme victime, accusé, témoin, \dots; c'est le cas également des indications de filiation et de généalogie avec lesquelles une personne est seulement désignée, sans apporter de précisions sur ses véritables fonctions\footnote{Voir \reference{exemple_NQ_sans_fonctions}.}. Ces parties de notes qualité --- ou bien la totalité de ces notes --- ne décrivant pas la fonction de la personne et n'allant pas trouver d'équivalent dans le thésaurus, elles sont écartées du traitement.
-\begin{figure}[!h]
+Enfin, les notes qualité de l'\ac{ina} comprennent également des qualités ne décrivant pas directement la personne, mais définissant cette personne par un lien avec un fait. C'est le cas des faits divers, des attentats, des affaires judiciaires dans lesquels une personne peut être impliquée comme victime, accusée, témoin, \dots; c'est le cas également des indications de filiation et de généalogie avec lesquelles une personne est seulement désignée, sans apporter de précisions sur ses véritables fonctions\footnote{Voir \reference{exemple_NQ_sans_fonctions}.}. Ces parties de notes qualité --- ou bien la totalité de ces notes --- ne décrivant pas la fonction de la personne et n'allant pas trouver d'équivalent dans le \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus, elles sont écartées du traitement.
+\begin{table}[!h]
 	\centering
 	\csvautotabular[separator=semicolon]{images/affaires_attentat.csv}
 	\caption{Données d'exemple de notes qualité sans fonctions}
 	\label{exemple_NQ_sans_fonctions}
-\end{figure}
+\end{table}
 
 \subsection{\label{I-C-3-b}Aligner les extractions en langage naturel avec un thésaurus de noms communs}
 \titreEntete{Aligner avec un thésaurus de noms communs}
 
-Avec le premier traitement de normalisation des fonctions, les notes qualité sont sorties du langage naturel de manière à pouvoir être contrôlées dans un vocabulaire plus strict. L'alignement avec le thésaurus de noms communs peut alors être réalisé\footnote{De manière à avoir la même normalisation de chaque côté de l'alignement, le thésaurus a subi le même traitement que les notes qualité, avec l'application des mêmes règles.}. Ce thésaurus est classé dans un ordre hiérarchique, mais l'accès par des termes ascendants est difficile pour l'alignement: les termes génériques sont souvent des noms qui ne sont pas des fonctions, ce qui rend leur alignement impossible. Ainsi, le terme \og Dessinateur\fg{} a pour ascendance \og \$art et culture/arts plastiques/dessin\fg{}: \og Dessin\fg{} ou \og Arts plastiques\fg{} ne sont pas des fonctions. L'ensemble des alignements est par conséquent réalisé avec les termes préférentiels les plus bas dans l'arborescence. Le thésaurus contenant également des synonymes\footnote{Voir les termes Employés pour dans l'\reference{annexe_thesaurus}.}, ces derniers sont utilisés dans l'alignement de manière à réduire encore l'impact du langage naturel des notes qualité sur la qualité de l'alignement.\\
+Avec le premier traitement de normalisation des fonctions, les notes qualité sont sorties du langage naturel de manière à pouvoir être contrôlées dans un vocabulaire plus strict. L'alignement avec le \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus de noms communs peut alors être réalisé\footnote{De manière à avoir la même normalisation de chaque côté de l'alignement, le thésaurus a subi le même traitement que les notes qualité, avec l'application des mêmes règles.}. Ce thésaurus est classé dans un ordre hiérarchique, mais l'accès par des termes ascendants est difficile pour l'alignement: les termes génériques sont souvent des noms qui ne sont pas des fonctions, ce qui rend leur alignement impossible. Ainsi, le terme \og Dessinateur\fg{} a pour ascendance \og \$art et culture/arts plastiques/dessin\fg{}: \og Dessin\fg{} ou \og Arts plastiques\fg{} ne sont pas des fonctions. L'ensemble des alignements est par conséquent réalisé avec les termes préférentiels les plus bas dans l'arborescence. Le thésaurus contenant également des synonymes\footnote{Voir les termes \textit{Employés pour} dans l'\reference{annexe_thesaurus} (\reference{thesaurus_cadreur}).}, ces derniers sont utilisés dans l'alignement de manière à réduire encore l'impact du langage naturel des notes qualité sur la qualité de l'alignement.\\
 
-Cette phase d'alignement est également réalisée avec Talend grâce à une successions de jointures\footnote{Ici, les jointures sont des \textit{inner join} pour aligner sur la similarité entre les deux côtés --- fonctions issues de la note qualité, et termes du thésaurus --- , ou bien des comparaison effectuées à partir du début de la fonction issue des notes qualité --- \og Illustrateur de presse\fg{} pourra ainsi correspondre au terme \og Illustrateur\fg{} du thésaurus.}. Les fonctions strictement égales au terme préférentiel du thésaurus sont ainsi alignées, ainsi que celles qui commencent par un terme du thésaurus. Cette étape de l'alignement montre les difficultés posées par l'utilisation du texte libre dans la description et la gestion impossible des coquilles, bien que parfois très proche du terme exact\footnote{Voir l'exemple de l'alignement du terme \og Journaliste\fg{} \reference{annexe_alignement_journaliste}.}.\\
+Cette phase d'alignement est également réalisée avec Talend grâce à une succession de jointures\footnote{Ici, les jointures sont des \textit{inner join} pour aligner sur la similarité entre les deux côtés --- fonctions issues de la note qualité, et termes du thésaurus --- , ou bien des comparaison effectuées à partir du début de la fonction issue des notes qualité --- \og Illustrateur de presse\fg{} pourra ainsi correspondre au terme \og Illustrateur\fg{} du thésaurus.}. Les fonctions strictement égales au terme préférentiel du thésaurus sont ainsi alignées, ainsi que celles qui commencent par un terme du thésaurus. Cette étape de l'alignement montre les difficultés posées par l'utilisation du texte libre dans la description ainsi que la gestion impossible des coquilles, bien que parfois très proche du terme exact\footnote{Voir l'exemple de l'alignement du terme \og Journaliste\fg{} \reference{annexe_alignement_journaliste}.}.\\
 
-Face à ces difficultés et au nombre peu élevé des alignements qui résultent de cette étape, l'utilisation des synonymes peut apporter des résultats supplémentaires: l'entrée \og Cuisinier\fg{} du thésaurus de noms communs comprend un synonyme, \og Chef de cuisine\fg{}. Cependant, le nombre des synonymes est réduit, et des alignements sont ici aussi non réalisés\footnote{Voir \reference{alignement_cuisinier}}.
-\begin{figure}[!h]
+Face à ces difficultés et au nombre peu élevé des alignements qui résultent de cette étape, l'utilisation des synonymes peut apporter des résultats supplémentaires: l'entrée \og Cuisinier\fg{} du \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus de noms communs comprend un synonyme, \og Chef de cuisine\fg{}. Cependant, le nombre des synonymes est réduit, et des alignements sont ici aussi non réalisés\footnote{Voir \reference{alignement_cuisinier}}.
+\begin{table}[!h]
 	\centering
 	\csvautotabular[separator=semicolon]{images/alignement_cuisinier.csv}
 	\caption{Utilisation des synonymes pour l'alignement du terme \og Cuisinier\fg{}}
 	\label{alignement_cuisinier}
-\end{figure}
+\end{table}
 
 Enfin, le cas de \og Chef cuisinier\fg{} montre la nécessité d'utiliser le second terme de l'expression de la fonction\footnote{Voir \reference{alignement_cuisinier_polysemie}}: cette dernière étape de l'alignement permet l'alignement des fonctions commençant par des termes polysémiques comme \og Chef\fg{}, \og Directeur\fg{}, \og Maître\fg{},\dots
-\begin{figure}[!h]
+\begin{table}[!h]
 	\centering
 	\csvautotabular[separator=semicolon]{images/alignement_cuisinier_polysemie.csv}
 	\caption{Gestion de la polysémie dans l'alignement du terme \og Cuisinier\fg{}}
 	\label{alignement_cuisinier_polysemie}
-\end{figure}
+\end{table}
 
 \subsection{\label{I-C-3-c}Classer selon le thésaurus}
 \titreEntete{Classer selon le thésaurus}
 
-L'utilisation des relations d'association a permis d'aligner les fonctions avec les termes du thésaurus. Les relations de hiérarchie avec les termes génériques permettent de classer ces fonctions. Ainsi, elles sont utilisées pour définir huit catégories de rattachement dans les fonctions extraites des notes qualité, de manière à les classer selon le thésaurus. Dans le thésaurus des noms communs, huit termes permettent de rattacher l'ensemble des termes spécifiques, souvent avec des niveaux de hiérarchie intermédiaires\footnote{Ces huit catégories sont: \og Art et culture\fg{}, \og communication diffusion traitement information\fg{}, \og sciences\fg{}, \og sciences humaines\fg{}, \og sport\fg{}, \og vie économique\fg{}, \og vie quotidienne habitat alimentation et loisirs\fg et \og vie sociale\fg{}.}. Ces termes de catégorisation sont des facettes: ils ne sont pas attribuables directement à un concept à indexer, ils permettent le seul classement.\\
+L'utilisation des relations d'association a permis d'aligner les fonctions avec les termes du \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus. Les relations de hiérarchie avec les termes génériques permettent de classer ces fonctions. Ainsi, elles sont utilisées pour définir huit catégories de rattachement dans les fonctions extraites des notes qualité, de manière à les classer selon le thésaurus. Dans le thésaurus des noms communs, huit termes permettent de rattacher l'ensemble des termes spécifiques, souvent avec des niveaux intermédiaires de hiérarchie\footnote{Ces huit catégories sont: \og Art et culture\fg{}, \og communication diffusion traitement information\fg{}, \og sciences\fg{}, \og sciences humaines\fg{}, \og sport\fg{}, \og vie économique\fg{}, \og vie quotidienne habitat alimentation et loisirs\fg et \og vie sociale\fg{}.}. Ces termes de catégorisation sont des facettes: ils ne sont pas attribuables directement à un concept à indexer, ils permettent le seul classement.\\
 
 Cette opération de classement des fonctions des notes qualité selon l'arborescence du thésaurus permet, au-delà de l'ajout sémantique sur les termes alignés, de repérer les termes qui n'ont pas été alignés et d'en comprendre les raisons:
 \begin{itemize}
 	\item Des noms communs ne correspondant pas à des fonctions sont présents dans les notes qualité. Ainsi, des termes comme \og cirque pinder\fg{} ou \og clip
 	\fg{} ne trouveront pas d'équivalence dans le thésaurus.
-	\item des noms trop spécifiques ne sont également pas présents: \og chemisier\fg{} est une fonction spécifique que les documentalistes pourront créer si nécessaire grâce à ce repérage dans les notes qualité.
-	\item Des erreurs introduites par accident par l'homme empêche certains alignements: c'est le cas par exemple de \og chercher\fg{} qui a un équivalent \og chercheur\fg{} dans le thésaurus. Il est difficile de repérer et de corriger ces erreurs automatiquement.
-	\item La présence d'une documentation d'aide au catalogage et à l'indexation permet d'introduire de nouvelles règles dans la classification automatique: ainsi, \og designer interieur\fg{} peut être classifié dans la facette \og Art et culture\fg{} car la documentation l'indique; cependant, le terme \og designer\fg{} étant absent du thésaurus, il ne peut pas être aligné.
+	\item Des noms trop spécifiques ne sont également pas présents: \og chemisier\fg{} est une fonction spécifique que les documentalistes pourront créer si nécessaire grâce à ce repérage dans les notes qualité.
+	\item Des erreurs introduites par accident par l'homme empêchent certains alignements: c'est le cas par exemple de \og chercher\fg{} qui a un équivalent \og chercheur\fg{} dans le thésaurus. Il est difficile de repérer et de corriger ces erreurs automatiquement.
+	\item La présence d'une documentation d'aide au catalogage et à l'indexation permet d'introduire de nouvelles règles dans la classification automatique: ainsi, \og designer interieur\fg{} peut être classifié dans la facette \og Art et culture\fg{} car la documentation l'indique; cependant, le terme \og designer\fg{} étant absent du \index[ref]{typologie@Typologie!thesaurus@Thésaurus}thésaurus, il ne peut pas être aligné.
 \end{itemize}

@@ -8,8 +8,7 @@
 \usepackage{index}
 \usepackage{imakeidx}%pour les index, à charger avant hyperref
 \makeindex
-\makeindex[name=referentiels, title=Index des noms de référentiels]
-\makeindex[name=ina, title=Index des termes concernant l'Institut national de l'Audiovisuel]
+\makeindex[name=ref, title=Index des noms et des types de référentiels]
 
 \usepackage[pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={institut national de l'audiovisuel; référentiel; thésaurus; vocabulaire contrôlé; vocabulaire hiérarchique; ontologie; web de données; Wikidata; liens; alignement}]{hyperref}
 \usepackage[english, french]{babel}
@@ -114,6 +113,7 @@
 	\renewcommand*\appendixautorefname{Annexe}
 	\renewcommand*\chapterautorefname{Chapitre}
 	\renewcommand*\partautorefname{Partie}
+	\renewcommand*\subsectionautorefname{Sous-section}
 		
 	\frontmatter
 	\include{parties/frontmatter/page_titre}
@@ -131,15 +131,15 @@
 	
 	\part{\label{controler}CONTRÔLER. A la recherche de clés (années 1960 – fin des années 1990)}
 	
-	Simple liste de mots ou thésaurus, un référentiel peut être conçu sous différentes formes. Dans un premier temps, son utilisation répond à un unique besoin: contrôler les formes que peuvent prendre les termes de manière à pouvoir les associer à plusieurs reprises à des documents, pour éviter une redondance de la même information à différents endroits. Le référentiel n'a alors qu'une fonction de clé. Cette opération, simple au premier abord, peut se complexifier avec l'intégration de synonymes ou de termes similaires associés au terme principal. L'arbre de classification, modèle du thésaurus, permet de contrôler un ensemble de termes tout en leur apportant du sens.\\
+	Simple liste de mots ou thésaurus, un référentiel peut être conçu sous différentes formes. Dans un premier temps, son utilisation répond à un unique besoin: contrôler les formes que peuvent prendre les termes de manière à pouvoir les associer plusieurs fois à des documents, pour éviter une redondance de la même information à différents endroits. Le référentiel n'a alors qu'une fonction de clé. Cette opération, simple au premier abord, peut se complexifier avec l'intégration de synonymes ou de termes similaires associés au terme principal. L'arbre de classification, modèle du thésaurus, permet de contrôler un ensemble de termes tout en leur apportant du sens.\\
 	
-	Les référentiels de l'\ac{ina} reflètent cette évolution et les pratiques qui leur sont liées. L'\ac{ina} est pourvu de listes de noms associés à des synonymes ou des variantes pour les noms de personnes, mais les noms communs --- plus difficiles à exprimer de manière contrôlée --- se trouvent eux dans un thésaurus permettant d'établir plus de relations sémantiques entre les termes similaires.
+	Les référentiels de l'\ac{ina} reflètent cette évolution et les pratiques qui lui sont liées. L'\ac{ina} est pourvu de listes de noms associés à des synonymes ou des variantes pour les noms de personnes, mais les noms communs --- plus difficiles à exprimer de manière contrôlée --- se trouvent eux dans un thésaurus permettant d'établir plus de relations sémantiques entre les termes similaires.
 	
 	\include{parties/mainmatter/I/A/I-A}
 	\include{parties/mainmatter/I/C/I-C}
 	\include{parties/mainmatter/I/B/I-B}
 	
-	Le référentiel, tel que présenté dans les chapitres précédents, n'a pour destination que l'institution qui l'a créé, dans un unique but qui est de répondre à ses propres besoins selon ses activités. Cependant, nous l'avons évoqué, une même institution peut disposer de plusieurs référentiels, parfois similaires mais structurés différemment. Ces référentiels prennent la forme de liste de termes, ou de \textit{thesauri}, qui offrent des clés et des termes normalisés aux documents décrits. L'interopérabilité entre les bases de données n'est pas recherchée, comme celle avec des référentiels externes: le lien n'apparaît pas encore comme essentiel.\\
+	Le référentiel, tel que présenté dans les chapitres précédents, n'a pour destination que l'institution qui l'a créé, dans un unique but qui est de répondre à ses propres besoins selon ses activités. Cependant, nous l'avons évoqué, une même institution peut disposer de plusieurs référentiels, parfois similaires mais structurés différemment. Ces référentiels prennent la forme de listes de termes, ou de \textit{thesauri}, qui offrent des clés et des termes normalisés aux documents décrits. L'interopérabilité entre les bases de données n'est pas recherchée, comme celle avec des référentiels externes: le lien n'apparaît pas encore comme essentiel.\\
 	
 	Ainsi, le référentiel comme fournisseur de clés et de termes contrôlés n'a qu'un usage interne et spécifique; il n'est pas utilisable autre part comme le montre la \reference{schema_general_controler}.
 	\input{images/schema_general_controler.tex}
@@ -147,11 +147,11 @@
 	\part{\label{relier}RELIER. Vers le partage de référentiels communs (début des années 2000 – milieu des années 2010)}
 	
 	%intro
-	Avec la naissance du Web à la fin du \textsc{XX}\textsubscript{ème}siècle, le référentiel voit ses usages étendus et multipliés; sa place en est modifiée. Les différents types de référentiels ont du s'adapter aux nouvelles technologies qui ont alors été offertes. Cependant, ces nouvelles technologies, accompagnées de nouveaux formats, de nouveaux standards et de nouveaux protocoles, ont conduit à la progressive disparition de la notion de référentiel: le référentiel a été divisé en données. Le lien entre ces données devient alors essentiel afin de leur (re)donner du sens entre elles. Mais ces liens peuvent ne pas être seulement présents pour établir une liaison entre deux données: ils peuvent permettre de relier deux jeux de données, et notamment un jeu de données d'une institution avec celui d'une autre. Si le lien n'était présent que dans les \textit{thesauri} pour définir le type de relations, il est désormais l'enjeu principal de l'utilisation d'un autre référentiel ou jeu de données: il permet l'enrichissement de ses propres donnés avec des données externes.\\
+	Avec la naissance du Web à la fin du \textsc{XX}\textsuperscript{ème}siècle, le référentiel voit ses usages étendus et multipliés; sa place en est modifiée. Les différents types de référentiels ont dû s'adapter aux nouvelles technologies qui ont alors été offertes. Cependant, ces nouvelles technologies, accompagnées de nouveaux formats, de nouveaux standards et de nouveaux protocoles, ont conduit à la progressive disparition de la notion de référentiel: le référentiel a été divisé en données. Le lien entre ces données devient alors essentiel pour (re)donner du sens entre elles. Mais ces liens peuvent ne pas être seulement présents pour établir une liaison entre deux données: ils peuvent permettre de relier deux jeux de données, et notamment un jeu de données d'une institution avec celui d'une autre. Si le lien n'était présent que dans les \textit{thesauri} pour définir le type de relations, il est désormais l'enjeu principal de l'utilisation d'un autre référentiel ou d'un autre jeu de données: il permet l'enrichissement de ses propres données avec des données externes.\\
 	
-	Le Web de données a permis cet éclatement du référentiel et des jeux de données, et , par sa structure, a nécessité la création de ces liens. Cependant, un type de référentiel, l'ontologie, est toujours indispensable sur le Web car il offre un vocabulaire pour la description du monde réel. L'ontologie permet aussi l'établissement d'un grand nombre de liens entre les données, et permet à une institution de n'utiliser plus un, mais autant de référentiels qu'elle le souhaite.\\
+	Le Web de données a permis cet éclatement du référentiel et des jeux de données, et , par sa structure, a nécessité la création de ces liens. Cependant, un type de référentiel, l'ontologie, est toujours indispensable sur le Web car il offre un vocabulaire pour la description du monde réel. L'ontologie permet aussi l'établissement d'un grand nombre de liens entre les données, et permet à une institution de n'utiliser plus un seul mais autant de référentiels qu'elle le souhaite.\\
 	
-	C'est pourquoi le milieu bibliothéconomique s'est très tôt intéressé au Web de données et participe aux nombreuses réflexions qui l'animent. Les référentiels sont partagés sur ce Web de données et sont repris par d'autres institutions. Si le lien entre les institutions n'est pas l'enjeu principal de la réutilisation de ces référentiels, il est néanmoins créé, et permet la naissance de référentiels de rang supérieur, aggrégateurs de données.
+	C'est pourquoi le milieu bibliothéconomique s'est très tôt intéressé au Web de données et participe aux nombreuses réflexions qui l'animent. Les référentiels sont partagés sur ce Web de données et sont repris par d'autres institutions. Si le lien entre les institutions n'est pas l'enjeu principal de la réutilisation de ces référentiels, il est néanmoins créé, et permet la naissance de référentiels de rang supérieur, agrégateurs de données.
 	
 	\input{parties/mainmatter/II/A/II-A.tex}
 	\input{parties/mainmatter/II/B/II-B.tex}
@@ -200,10 +200,28 @@
 	
 %bibliographie ici dans les normes de l'école
 %\printbibliography[title= Bibliographie sélective, prenote=intro]%postnote est aussi possible
-%\printbibliography[heading=subbibliography, keyword={semantique}, title={Sémantique}]%biblio sélective pour un mot clé donné
+\part*{Bibliographies sélectives}	
+\addcontentsline{toc}{part}{Bibliographies sélectives}
+\thispagestyle{empty}
 
-\printindex[referentiels]
-\printindex[ina]
+\printbibliography[heading=subbibliography, keyword={ina}, title={L'INA: institution, utilité et applications des référentiels}]
+\newpage
+\thispagestyle{empty}
+\printbibliography[heading=subbibliography, keyword={blod}, title={Les référentiels avec le Linked Open Data}]
+\newpage
+\thispagestyle{empty}
+\printbibliography[heading=subbibliography, keyword={lod}, title={Le Web de données et les référentiels}]
+\titreEntete{Le Web de données et les référentiels}
+\newpage
+\thispagestyle{empty}
+\printbibliography[heading=subbibliography, keyword={graphe}, title={Utiliser les noeuds et les liens pour créer un référentiel global}]
+\newpage
+\thispagestyle{empty}
+\printbibliography[heading=subbibliography, keyword={aligner}, title={Aligner des référentiels dans d'autres domaines}]
+\thispagestyle{empty}
+
+
+\printindex[ref]
 
 	\listoffigures
 	

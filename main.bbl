@@ -54,14 +54,15 @@
       \verb{url}
       \verb https://www.idref.fr/
       \endverb
+      \keyw{lod}
     \endentry
     \entry{alquier_production_2017}{article}{}
       \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=e988c66b33ab5a56d0bbc90954aa7c7b}{%
+        {{uniquename=0,uniquepart=base,hash=d7d887f8e75f5956a3e756edc0e3067d}{%
            family={Alquier},
            familyi={A\bibinitperiod},
-           given={Eléonore},
-           giveni={E\bibinitperiod},
+           given={Éléonore},
+           giveni={É\bibinitperiod},
            givenun=0}}%
         {{uniquename=0,uniquepart=base,hash=12f742b4208879084d5f82e621ae9aad}{%
            family={Carrive},
@@ -76,12 +77,12 @@
            giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{dd28babf5e2bebf66b8401f31ef50eab}
-      \strng{fullhash}{dd28babf5e2bebf66b8401f31ef50eab}
-      \strng{bibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
-      \strng{authorbibnamehash}{dd28babf5e2bebf66b8401f31ef50eab}
-      \strng{authornamehash}{dd28babf5e2bebf66b8401f31ef50eab}
-      \strng{authorfullhash}{dd28babf5e2bebf66b8401f31ef50eab}
+      \strng{namehash}{4be43b45a66de6204e58acb711e97ef2}
+      \strng{fullhash}{4be43b45a66de6204e58acb711e97ef2}
+      \strng{bibnamehash}{4be43b45a66de6204e58acb711e97ef2}
+      \strng{authorbibnamehash}{4be43b45a66de6204e58acb711e97ef2}
+      \strng{authornamehash}{4be43b45a66de6204e58acb711e97ef2}
+      \strng{authorfullhash}{4be43b45a66de6204e58acb711e97ef2}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{labelnamesource}{author}
@@ -110,7 +111,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-document-numerique-2017-2-page-115.htm
       \endverb
-      \keyw{important}
+      \keyw{important,ina}
     \endentry
     \entry{alsted_encyclopaedia_1630}{mvbook}{}
       \name{author}{1}{}{%
@@ -141,6 +142,47 @@
       \field{volumes}{2}
       \field{year}{1630}
       \field{dateera}{ce}
+    \endentry
+    \entry{association_des_professionnels_de_linformation_et_de_la_documentation_du_2013}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=facf8530f331d421d8fd7f01e1bc4b1c}{%
+           family={Association\bibnamedelimb des\bibnamedelimb Professionnels\bibnamedelimb de\bibnamedelimb l'Information\bibnamedelimb et\bibnamedelimb de\bibnamedelimb la\bibnamedelima Documentation},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={{ADBS}},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \strng{fullhash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \strng{bibnamehash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \strng{authorbibnamehash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \strng{authornamehash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \strng{authorfullhash}{facf8530f331d421d8fd7f01e1bc4b1c}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{langid}{french}
+      \field{month}{11}
+      \field{title}{Du thésaurus aux référentiels terminologiques}
+      \field{titleaddon}{{ABDS}}
+      \field{urlday}{12}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Du thésaurus aux référentiels terminologiques | ADBS:/home/maxime/Zotero/storage/I9VFDYLQ/du-thesaurus-aux-referentiels-265784.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.adbs.fr/groupes/secteur-taxonomies-et/du-thesaurus-aux-referentiels-265784
+      \endverb
+      \verb{url}
+      \verb https://www.adbs.fr/groupes/secteur-taxonomies-et/du-thesaurus-aux-referentiels-265784
+      \endverb
+      \keyw{blod}
     \endentry
     \entry{bacon_instauratio_1620}{book}{}
       \name{author}{1}{}{%
@@ -342,6 +384,7 @@
       \verb{url}
       \verb http://mediatheque.cite-musique.fr/MediaComposite/ARTICLES/W3C/XGR-lld-fr.html#xd_co_f=ZWZhZWJmOGEtZjhkMS00ODI1LWI4M2YtNTQyZmYxMzg3MzZl~
       \endverb
+      \keyw{lod}
     \endentry
     \entry{benezet_participer_2015}{unpublished}{}
       \name{author}{1}{}{%
@@ -484,6 +527,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-153.htm
       \endverb
+      \keyw{graphe}
     \endentry
     \entry{bermes_convergence_2013}{incollection}{}
       \name{author}{3}{}{%
@@ -541,6 +585,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-29.htm
       \endverb
+      \keyw{lod}
     \endentry
     \entry{bermes_du_2013}{incollection}{}
       \name{author}{3}{}{%
@@ -598,6 +643,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-17.htm
       \endverb
+      \keyw{blod}
     \endentry
     \entry{bermes_les_2013}{incollection}{}
       \name{author}{3}{}{%
@@ -655,6 +701,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/le-web-semantique-en-bibliotheque--9782765414179-page-47.htm
       \endverb
+      \keyw{lod}
     \endentry
     \entry{berners-lee_information_1989}{online}{}
       \name{author}{1}{}{%
@@ -693,6 +740,7 @@
       \verb{url}
       \verb https://www.w3.org/History/1989/proposal.html
       \endverb
+      \keyw{lod}
     \endentry
     \entry{berners-lee_plenary_1994}{online}{}
       \name{author}{1}{}{%
@@ -809,108 +857,107 @@
       \verb{url}
       \verb https://www.w3.org/DesignIssues/LinkedData.html
       \endverb
+      \keyw{lod}
     \endentry
-    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010-1}{report}{}
+    \entry{bibliotheque_nationale_de_france_protocole_nodate}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
-           family={bibliothèques},
-           familyi={b\bibinitperiod},
-           given={Fédération},
-           giveni={F\bibinitperiod},
-           givenun=0,
-           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
-           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c6a07e51a40067e5367cb275c0507456}{%
+           family={{Bibliothèque nationale de France}},
+           familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \field{sortinit}{b}
+      \strng{namehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{fullhash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{bibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorbibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authornamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorfullhash}{c6a07e51a40067e5367cb275c0507456}
+      \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{langid}{french}
-      \field{shorttitle}{{FRSAD}}
-      \field{title}{Fonctionnalités requises des données d'autorité matières -- Rapport final}
-      \field{year}{2010}
-      \field{dateera}{ce}
+      \field{title}{Le protocole Z39.50}
+      \field{titleaddon}{{BnF} - Site institutionnel}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/L36X67B9/le-protocole-z3950.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \verb https://www.bnf.fr/fr/le-protocole-z3950
       \endverb
       \verb{url}
-      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \verb https://www.bnf.fr/fr/le-protocole-z3950
       \endverb
     \endentry
-    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010}{report}{}
+    \entry{bibliotheque_nationale_de_france_protocole_nodate-1}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
-           family={bibliothèques},
-           familyi={b\bibinitperiod},
-           given={Fédération},
-           giveni={F\bibinitperiod},
-           givenun=0,
-           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
-           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c6a07e51a40067e5367cb275c0507456}{%
+           family={{Bibliothèque nationale de France}},
+           familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \field{sortinit}{b}
+      \strng{namehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{fullhash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{bibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorbibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authornamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorfullhash}{c6a07e51a40067e5367cb275c0507456}
+      \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{langid}{french}
-      \field{shorttitle}{{FRAD}}
-      \field{title}{Fonctionnalités requises desdonnées d'autorité -- Rapport final}
-      \field{year}{2010}
-      \field{dateera}{ce}
+      \field{title}{Protocole {OAI}-{PMH}}
+      \field{titleaddon}{{BnF} - Site institutionnel}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/6L8CI7D3/protocole-oai-pmh.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \verb https://www.bnf.fr/fr/protocole-oai-pmh
       \endverb
       \verb{url}
-      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \verb https://www.bnf.fr/fr/protocole-oai-pmh
       \endverb
     \endentry
-    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2012}{report}{}
+    \entry{bibliotheque_nationale_de_france_rameau_nodate}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=cbaf1886094ea9c8ab16be463594bd70}{%
-           family={bibliothèques},
-           familyi={b\bibinitperiod},
-           given={Fédération},
-           giveni={F\bibinitperiod},
-           givenun=0,
-           prefix={internationale\bibnamedelimb des\bibnamedelimb associations\bibnamedelimb de\bibnamedelimb bibliothécaires\bibnamedelimb et\bibnamedelima de},
-           prefixi={i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c6a07e51a40067e5367cb275c0507456}{%
+           family={{Bibliothèque nationale de France}},
+           familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{fullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{bibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorbibnamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authornamehash}{cbaf1886094ea9c8ab16be463594bd70}
-      \strng{authorfullhash}{cbaf1886094ea9c8ab16be463594bd70}
-      \field{sortinit}{b}
+      \strng{namehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{fullhash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{bibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorbibnamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authornamehash}{c6a07e51a40067e5367cb275c0507456}
+      \strng{authorfullhash}{c6a07e51a40067e5367cb275c0507456}
+      \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{langid}{french}
-      \field{shorttitle}{{FRBR}}
-      \field{title}{Fonctionnalités requises des notices bibliographiques -- Rapport final}
-      \field{year}{2012}
-      \field{dateera}{ce}
+      \field{title}{{RAMEAU}}
+      \field{titleaddon}{{RAMEAU}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Accueil | rameau:/home/maxime/Zotero/storage/MAGHJ7KB/rameau.bnf.fr.html:text/html
+      \endverb
       \verb{urlraw}
-      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \verb https://rameau.bnf.fr/
       \endverb
       \verb{url}
-      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \verb https://rameau.bnf.fr/
       \endverb
+      \keyw{lod}
     \endentry
     \entry{blanke_developing_2015}{article}{}
       \name{author}{3}{}{%
@@ -952,6 +999,7 @@
       \field{dateera}{ce}
       \field{pages}{610\bibrangedash 623}
       \range{pages}{14}
+      \keyw{graphe}
     \endentry
     \entry{aymonin_arabesques_2017}{book}{}
       \name{author}{5}{}{%
@@ -1036,40 +1084,50 @@
       \verb http://www.abes.fr/Publications-Evenements/Arabesques/Arabesques-n-85
       \endverb
     \endentry
-    \entry{online_computer_library_center_viaf_nodate}{online}{}
+    \entry{carlin_classification_2018}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=02ec03576003683aea3873332dcbcea5}{%
-           family={Center},
+        {{uniquename=0,uniquepart=base,hash=e0a78fed4944c4106b449841d0e6729e}{%
+           family={Carlin},
            familyi={C\bibinitperiod},
-           given={Online\bibnamedelimb Computer\bibnamedelima Library},
-           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{02ec03576003683aea3873332dcbcea5}
-      \strng{fullhash}{02ec03576003683aea3873332dcbcea5}
-      \strng{bibnamehash}{02ec03576003683aea3873332dcbcea5}
-      \strng{authorbibnamehash}{02ec03576003683aea3873332dcbcea5}
-      \strng{authornamehash}{02ec03576003683aea3873332dcbcea5}
-      \strng{authorfullhash}{02ec03576003683aea3873332dcbcea5}
+      \strng{namehash}{e0a78fed4944c4106b449841d0e6729e}
+      \strng{fullhash}{e0a78fed4944c4106b449841d0e6729e}
+      \strng{bibnamehash}{e0a78fed4944c4106b449841d0e6729e}
+      \strng{authorbibnamehash}{e0a78fed4944c4106b449841d0e6729e}
+      \strng{authornamehash}{e0a78fed4944c4106b449841d0e6729e}
+      \strng{authorfullhash}{e0a78fed4944c4106b449841d0e6729e}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Marie Carlin est élève conservatrice à l’{ENSSIB} (dcb27). Titulaire d’un master en histoire moderne et du master technologies numériques appliquées à l’histoire de l’École des chartes, elle a travaillé huit ans au Centre de recherche du château de Versailles en tant que chargée de recherche en iconographie. Nombreux sont les projets qui, depuis une petite … Continuer la lecture de La classification des connaissances et le web de données : une opportunité pour la recherche →}
+      \field{day}{1}
       \field{langid}{french}
-      \field{title}{{VIAF}}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
+      \field{month}{10}
+      \field{note}{Library Catalog: dlis.hypotheses.org}
+      \field{shorttitle}{La classification des connaissances et le web de données}
+      \field{title}{La classification des connaissances et le web de données : une opportunité pour la recherche}
+      \field{titleaddon}{{DLIS}}
+      \field{type}{Billet}
+      \field{urlday}{12}
+      \field{urlmonth}{7}
       \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb VIAF:/home/maxime/Zotero/storage/YHE53SX7/viaf.org.html:text/html
+      \verb Snapshot:/home/maxime/Zotero/storage/EKSLCAE9/2157.html:text/html
       \endverb
       \verb{urlraw}
-      \verb http://viaf.org/
+      \verb https://dlis.hypotheses.org/2157
       \endverb
       \verb{url}
-      \verb http://viaf.org/
+      \verb https://dlis.hypotheses.org/2157
       \endverb
+      \keyw{lod}
     \endentry
     \entry{noauthor_cidoc-crm_nodate}{online}{}
       \field{sortinit}{C}
@@ -1093,12 +1151,12 @@
     \endentry
     \entry{library_of_congress_overview_2016}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=1,uniquepart=given,hash=00e8f04415b0b593c92877024b6ef817}{%
+        {{uniquename=0,uniquepart=base,hash=00e8f04415b0b593c92877024b6ef817}{%
            family={Congress},
            familyi={C\bibinitperiod},
            given={Library},
            giveni={L\bibinitperiod},
-           givenun=1,
+           givenun=0,
            prefix={of},
            prefixi={o\bibinitperiod},
            prefixun=0}}%
@@ -1131,46 +1189,68 @@
       \verb{url}
       \verb https://www.loc.gov/bibframe/docs/bibframe2-model.html
       \endverb
+      \keyw{graphe}
     \endentry
-    \entry{the_library_of_congress_library_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=1,uniquepart=given,hash=fab5f99a9e436a50a4cecfcfaa8e91a9}{%
-           family={Congress},
+    \entry{cuxac_bases_2019}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=cb8dd29efac87a6d887e9ff634f7b2bc}{%
+           family={Cuxac},
            familyi={C\bibinitperiod},
-           given={The\bibnamedelima Library},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=1,
-           prefix={of},
-           prefixi={o\bibinitperiod},
-           prefixun=0}}%
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=428af6e26641a443f6e6c670c415a3e9}{%
+           family={Collignon},
+           familyi={C\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aeab0082df50cea8d0a95d985d839159}{%
+           family={Gregorio},
+           familyi={G\bibinitperiod},
+           given={Stéphanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=42b70fcc7aafca742fb7adaa5fc29eab}{%
+           family={Parmentier},
+           familyi={P\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
-      \strng{fullhash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
-      \strng{bibnamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
-      \strng{authorbibnamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
-      \strng{authornamehash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
-      \strng{authorfullhash}{fab5f99a9e436a50a4cecfcfaa8e91a9}
+      \strng{namehash}{5f10736296f013e4edaa97af27a29644}
+      \strng{fullhash}{134f2170f5343f7703659805ddecbd09}
+      \strng{bibnamehash}{5f10736296f013e4edaa97af27a29644}
+      \strng{authorbibnamehash}{5f10736296f013e4edaa97af27a29644}
+      \strng{authornamehash}{5f10736296f013e4edaa97af27a29644}
+      \strng{authorfullhash}{134f2170f5343f7703659805ddecbd09}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include {LCSH}, {BIBFRAME}, {LC} Name Authorities, {LC} Classification, {MARC} codes, {PREMIS} vocabularies, {ISO} language codes, and more., The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. Library of Congress Subject Headings ({LCSH}) has been actively maintained since 1898 to catalog materials held at the Library of Congress. By virtue of cooperative cataloging other libraries around the United States also use {LCSH} to provide subject access to their collections. In addition {LCSH} is used internationally, often in translation. {LCSH} in this service includes all Library of Congress Subject Headings, free-floating subdivisions (topical and form), Genre/Form headings, Children's ({AC}) headings, and validation strings* for which authority records have been created. This content is expanded beyond the print issue of {LCSH} (the 'red books') with inclusion of validation strings.}
-      \field{shorttitle}{{LC} Linked Data Service}
-      \field{title}{Library of Congress Subject Headings}
-      \field{type}{webpage}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
+      \field{abstract}{Dans cet article nous présentons une approche automatique visant à désambiguïser et aligner des entités géographiques de type {placeName}. Une méthode basée sur des plongements lexicaux permet, à partir d'un apprentissage non supervisé de lever l'ambiguïté face à un terme polysémique. Cela permet alors un alignement automatique avec différents réservoirs ({BNF}, wikidata…) possédant un triplestore. Nous utilisons alors les technologies du web sémantique, pour à la fois exposer les données de façon différente (data.istex) mais également autoriser des requêtes complexes impossibles à résoudre à partir de moteurs de recherche classiques. Nous aborderons un cas concret basé sur le réservoir {ISTEX}, et une évaluation qualitative de la méthode sera proposée.}
+      \field{day}{9}
+      \field{eventtitle}{12ème Colloque international d’{ISKO}-France : Données et mégadonnées ouvertes en {SHS} : de nouveaux enjeux pour l’état et l’organisation des connaissances ?}
+      \field{langid}{french}
+      \field{month}{10}
+      \field{shorttitle}{Des bases de données massives au Web de données}
+      \field{title}{Des bases de données massives au Web de données : désambiguïsation et alignement d'entités géographiques dans les textes scientifiques}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
       \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:/home/maxime/Zotero/storage/MZPAXBA4/subjects.html:text/html
+      \verb Full Text PDF:/home/maxime/Zotero/storage/Y2L6NX5C/Cuxac et al. - 2019 - Des bases de données massives au Web de données .pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/6A5PUHYJ/hal-02307577.html:text/html
       \endverb
       \verb{urlraw}
-      \verb https://id.loc.gov/authorities/subjects.html
+      \verb https://hal.archives-ouvertes.fr/hal-02307577
       \endverb
       \verb{url}
-      \verb https://id.loc.gov/authorities/subjects.html
+      \verb https://hal.archives-ouvertes.fr/hal-02307577
       \endverb
+      \keyw{aligner,lod}
     \endentry
     \entry{dalbin_approches_2011}{article}{}
       \name{author}{13}{}{%
@@ -1289,6 +1369,7 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/revue-documentaliste-sciences-de-l-information-2011-4-page-42.htm
       \endverb
+      \keyw{lod}
     \endentry
     \entry{degez_thesauroglossaire_2001}{book}{}
       \name{author}{2}{}{%
@@ -1483,7 +1564,7 @@
       \verb{file}
       \verb Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:/home/maxime/Zotero/storage/INE5DGZL/Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:application/pdf
       \endverb
-      \keyw{Interprétation (philosophie),Sémantique (philosophie),Sémiotique}
+      \keyw{blod,graphe,Interprétation (philosophie),Sémantique (philosophie),Sémiotique}
     \endentry
     \entry{estienne_thesaurus_1573}{mvbook}{}
       \name{author}{1}{}{%
@@ -1549,6 +1630,94 @@
       \verb{url}
       \verb https://ehri-project.eu/
       \endverb
+      \keyw{graphe}
+    \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010-1}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=76419f666bdee92e84e8b2f47b10ce1c}{%
+           family={{Fédération internationale des associations de bibliothécaires et de bibliothèques}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{fullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{bibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorbibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authornamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorfullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRSAD}}
+      \field{title}{Fonctionnalités requises des données d'autorité matières -- Rapport final}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frsad_rapport_final.pdf
+      \endverb
+      \keyw{graphe}
+    \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2010}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=76419f666bdee92e84e8b2f47b10ce1c}{%
+           family={{Fédération internationale des associations de bibliothécaires et de bibliothèques}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{fullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{bibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorbibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authornamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorfullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRAD}}
+      \field{title}{Fonctionnalités requises desdonnées d'autorité -- Rapport final}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frad_rapport_final.pdf
+      \endverb
+      \keyw{graphe}
+    \endentry
+    \entry{federation_internationale_des_associations_de_bibliothecaires_et_de_bibliotheques_fonctionnalites_2012}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=76419f666bdee92e84e8b2f47b10ce1c}{%
+           family={{Fédération internationale des associations de bibliothécaires et de bibliothèques}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{fullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{bibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorbibnamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authornamehash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \strng{authorfullhash}{76419f666bdee92e84e8b2f47b10ce1c}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{{FRBR}}
+      \field{title}{Fonctionnalités requises des notices bibliographiques -- Rapport final}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \endverb
+      \verb{url}
+      \verb https://multimedia-ext.bnf.fr/pdf/frbr_rapport_final.pdf
+      \endverb
+      \keyw{graphe}
     \endentry
     \entry{noauthor_foaf_nodate}{online}{}
       \field{sortinit}{F}
@@ -1568,123 +1737,6 @@
       \endverb
       \verb{url}
       \verb http://xmlns.com/foaf/spec/
-      \endverb
-    \endentry
-    \entry{bibliotheque_nationale_de_france_protocole_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
-           family={France},
-           familyi={F\bibinitperiod},
-           given={Bibliothèque},
-           giveni={B\bibinitperiod},
-           givenun=0,
-           prefix={nationale\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{french}
-      \field{title}{Le protocole Z39.50}
-      \field{titleaddon}{{BnF} - Site institutionnel}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/maxime/Zotero/storage/L36X67B9/le-protocole-z3950.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bnf.fr/fr/le-protocole-z3950
-      \endverb
-      \verb{url}
-      \verb https://www.bnf.fr/fr/le-protocole-z3950
-      \endverb
-    \endentry
-    \entry{bibliotheque_nationale_de_france_protocole_nodate-1}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
-           family={France},
-           familyi={F\bibinitperiod},
-           given={Bibliothèque},
-           giveni={B\bibinitperiod},
-           givenun=0,
-           prefix={nationale\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{french}
-      \field{title}{Protocole {OAI}-{PMH}}
-      \field{titleaddon}{{BnF} - Site institutionnel}
-      \field{urlday}{2}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/maxime/Zotero/storage/6L8CI7D3/protocole-oai-pmh.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bnf.fr/fr/protocole-oai-pmh
-      \endverb
-      \verb{url}
-      \verb https://www.bnf.fr/fr/protocole-oai-pmh
-      \endverb
-    \endentry
-    \entry{bibliotheque_nationale_de_france_rameau_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=6d92aa316bda89883374331bbf1b7d5e}{%
-           family={France},
-           familyi={F\bibinitperiod},
-           given={Bibliothèque},
-           giveni={B\bibinitperiod},
-           givenun=0,
-           prefix={nationale\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{fullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{bibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorbibnamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authornamehash}{6d92aa316bda89883374331bbf1b7d5e}
-      \strng{authorfullhash}{6d92aa316bda89883374331bbf1b7d5e}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{french}
-      \field{title}{{RAMEAU}}
-      \field{titleaddon}{{RAMEAU}}
-      \field{urlday}{1}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Accueil | rameau:/home/maxime/Zotero/storage/MAGHJ7KB/rameau.bnf.fr.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://rameau.bnf.fr/
-      \endverb
-      \verb{url}
-      \verb https://rameau.bnf.fr/
       \endverb
     \endentry
     \entry{noauthor_general_nodate}{online}{}
@@ -1871,6 +1923,369 @@
       \verb{url}
       \verb https://www-cairn-info.proxy.chartes.psl.eu/l-ina--9782130545453.htm
       \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_diginpix_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{DigInPix} - Détails du projet}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb DigInPix:/home/maxime/Zotero/storage/WCAM64WX/DigInPix.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://recherche.ina.fr/Details-projets/DigInPix
+      \endverb
+      \verb{url}
+      \verb http://recherche.ina.fr/Details-projets/DigInPix
+      \endverb
+    \endentry
+    \entry{institut_national_de_laudiovisuel_diginpix_nodate-1}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Système d'identification d'entités visuelles dans les images et les vidéos}
+      \field{langid}{french}
+      \field{title}{{DigInPix} - Recherche d'entités visuelles}
+      \field{titleaddon}{{DigInPix}}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/EGU7PIPS/diginpix.ina.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://diginpix.ina.fr/
+      \endverb
+      \verb{url}
+      \verb http://diginpix.ina.fr/
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_ina_nodate-1}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{INA} Espace Recherche}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Espace Recherche de l'Ina:/home/maxime/Zotero/storage/VDJGXNVZ/recherche.ina.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://recherche.ina.fr/
+      \endverb
+      \verb{url}
+      \verb http://recherche.ina.fr/
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_ina_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{Ina {MEDIAPRO}}
+      \field{title}{{INA} {MediaPro} [offre pour les professionnels]}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/2PTQNE4J/www.inamediapro.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.inamediapro.com
+      \endverb
+      \verb{url}
+      \verb http://www.inamediapro.com
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_inafr_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Regardez, écoutez les images, les sons et les vidéos de l’Institut national de l’audiovisuel sur Ina.fr. Actualités, programmes, fictions, sports, politique ou chansons en vidéo ou audio à partager et à playlister}
+      \field{langid}{french}
+      \field{shorttitle}{Ina.fr}
+      \field{title}{Ina.fr [offre grand public]}
+      \field{titleaddon}{Ina.fr}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/YT6F7K35/www.ina.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ina.fr
+      \endverb
+      \verb{url}
+      \verb http://www.ina.fr
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_inatheque_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{Inathèque}
+      \field{title}{{INAthèque} [offre patrimoniale]}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Ina THEQUE - Le service de consultation des fonds Ina le plus proche de chez vous:/home/maxime/Zotero/storage/YLM5AYJ2/www.inatheque.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.inatheque.fr/
+      \endverb
+      \verb{url}
+      \verb http://www.inatheque.fr/
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_revue_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{shorttitle}{La Revue des médias}
+      \field{title}{La Revue des médias : le magazine d'analyse des médias de l'{INA}}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb La Revue des médias \: le magazine d'analyse des médias de l'INA:/home/maxime/Zotero/storage/TH3LQQ2Y/larevuedesmedias.ina.fr.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://larevuedesmedias.ina.fr/
+      \endverb
+      \verb{url}
+      \verb https://larevuedesmedias.ina.fr/
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_madelen_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Découvrez madelen, la nouvelle offre de streaming illimité de l'{INA}.}
+      \field{langid}{french}
+      \field{shorttitle}{Madelen}
+      \field{title}{Madelen [offre de vidéos à la demande]}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://madelen.ina.fr/
+      \endverb
+      \verb{url}
+      \verb https://madelen.ina.fr/
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_rapport_2019}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Institut National de l'Audiovisuel}%
+      }
+      \list{location}{1}{%
+        {Bry-sur-Marne}%
+      }
+      \strng{namehash}{d5967658e999685e6ced3b9995802644}
+      \strng{fullhash}{d5967658e999685e6ced3b9995802644}
+      \strng{bibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorbibnamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authornamehash}{d5967658e999685e6ced3b9995802644}
+      \strng{authorfullhash}{d5967658e999685e6ced3b9995802644}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Rapport d'activités 2019}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb INA - 2019 - Rapport d'activités 2019.pdf:/home/maxime/Zotero/storage/KREZQ8VJ/INA - 2019 - Rapport d'activités 2019.pdf:application/pdf
+      \endverb
+      \keyw{ina}
+    \endentry
+    \entry{institut_national_de_laudiovisuel_qualinca_nodate}{online}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=d5967658e999685e6ced3b9995802644}{%
+           family={{Institut national de l'Audiovisuel}},
+           familyi={I\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=6c309016655702d79bec0a437e45abcc}{%
+           family={Université\bibnamedelimb Paris\bibnamedelima Sud},
+           familyi={U\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={LRI},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9ebb1b64bc16cb93bfb010e9ea7b0430}{%
+           family={Heterogeneous\bibnamedelimb {and}\bibnamedelimb Adaptive\bibnamedelimb Distributed\bibnamedelimb dAta\bibnamedelimb management\bibnamedelimb Systems\bibnamedelima Group},
+           familyi={H\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={HADAS},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f5955213372e0fce752ac3c06593453b}{%
+           family={Agence\bibnamedelimb Bibliographique\bibnamedelimb de\bibnamedelimb l'enseignement\bibnamedelima Supérieur},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={ABES},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=04cc212029498cfa01ad86207262ea90}{%
+           family={Graphs\bibnamedelimb for\bibnamedelimb Inferences\bibnamedelimb on\bibnamedelima Knowledge},
+           familyi={G\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={GraphIK},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e5cce8e49800a5422124c184f9e91f6}
+      \strng{fullhash}{3873ed67b20cd97539392dae6a0bd105}
+      \strng{bibnamehash}{1e5cce8e49800a5422124c184f9e91f6}
+      \strng{authorbibnamehash}{1e5cce8e49800a5422124c184f9e91f6}
+      \strng{authornamehash}{1e5cce8e49800a5422124c184f9e91f6}
+      \strng{authorfullhash}{3873ed67b20cd97539392dae6a0bd105}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{QUALINCA}}
+      \field{urlday}{15}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Accueil | QUALINCA:/home/maxime/Zotero/storage/6T7JM77C/indexe4bf.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.lirmm.fr/qualinca/indexe4bf.html?q=fr/fr/home
+      \endverb
+      \verb{url}
+      \verb http://www.lirmm.fr/qualinca/indexe4bf.html?q=fr/fr/home
+      \endverb
+      \keyw{ina}
     \endentry
     \entry{noauthor_international_nodate}{online}{}
       \field{sortinit}{I}
@@ -1938,124 +2353,6 @@
       \verb https://hal.inria.fr/hal-00740282
       \endverb
       \keyw{Important}
-    \endentry
-    \entry{institut_national_de_laudiovisuel_diginpix_nodate}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e3f87d9ac82cbc330e96d1d0afa20bd6}{%
-           family={l'Audiovisuel},
-           familyi={l\bibinitperiod},
-           given={Institut},
-           giveni={I\bibinitperiod},
-           givenun=0,
-           prefix={national\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{fullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{bibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorbibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authornamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorfullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \field{sortinit}{l}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{french}
-      \field{title}{{DigInPix} - Détails du projet}
-      \field{urlday}{21}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb DigInPix:/home/maxime/Zotero/storage/WCAM64WX/DigInPix.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://recherche.ina.fr/Details-projets/DigInPix
-      \endverb
-      \verb{url}
-      \verb http://recherche.ina.fr/Details-projets/DigInPix
-      \endverb
-    \endentry
-    \entry{institut_national_de_laudiovisuel_diginpix_nodate-1}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e3f87d9ac82cbc330e96d1d0afa20bd6}{%
-           family={l'Audiovisuel},
-           familyi={l\bibinitperiod},
-           given={Institut},
-           giveni={I\bibinitperiod},
-           givenun=0,
-           prefix={national\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{fullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{bibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorbibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authornamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorfullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \field{sortinit}{l}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Système d'identification d'entités visuelles dans les images et les vidéos}
-      \field{langid}{french}
-      \field{title}{{DigInPix} - Recherche d'entités visuelles}
-      \field{titleaddon}{{DigInPix}}
-      \field{urlday}{21}
-      \field{urlmonth}{9}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/maxime/Zotero/storage/EGU7PIPS/diginpix.ina.fr.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://diginpix.ina.fr/
-      \endverb
-      \verb{url}
-      \verb http://diginpix.ina.fr/
-      \endverb
-    \endentry
-    \entry{institut_national_de_laudiovisuel_rapport_2019}{report}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=e3f87d9ac82cbc330e96d1d0afa20bd6}{%
-           family={l'Audiovisuel},
-           familyi={l\bibinitperiod},
-           given={Institut},
-           giveni={I\bibinitperiod},
-           givenun=0,
-           prefix={national\bibnamedelima de},
-           prefixi={n\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \list{institution}{1}{%
-        {Institut National de l'Audiovisuel}%
-      }
-      \list{location}{1}{%
-        {Bry-sur-Marne}%
-      }
-      \strng{namehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{fullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{bibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorbibnamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authornamehash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \strng{authorfullhash}{e3f87d9ac82cbc330e96d1d0afa20bd6}
-      \field{sortinit}{l}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{french}
-      \field{title}{Rapport d'activités 2019}
-      \field{urlday}{26}
-      \field{urlmonth}{7}
-      \field{urlyear}{2020}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb INA - 2019 - Rapport d'activités 2019.pdf:/home/maxime/Zotero/storage/KREZQ8VJ/INA - 2019 - Rapport d'activités 2019.pdf:application/pdf
-      \endverb
     \endentry
     \entry{noauthor_loi_2016}{online}{}
       \field{sortinit}{L}
@@ -2137,6 +2434,7 @@
       \field{year}{1968}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \keyw{blod}
     \endentry
     \entry{noauthor_modeles_nodate}{online}{}
       \field{sortinit}{M}
@@ -2158,6 +2456,56 @@
       \verb{url}
       \verb https://www.bnf.fr/fr/modeles-frbr-frad-et-frsad
       \endverb
+      \keyw{graphe}
+    \endentry
+    \entry{morshed_creating_2009}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=5f16637780a7762d357af779d43f0878}{%
+           family={Morshed},
+           familyi={M\bibinitperiod},
+           given={Ahsan-ul},
+           giveni={A\bibinithyphendelim u\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea14a1a07ce899cfa04144cbc5843f71}{%
+           family={Sini},
+           familyi={S\bibinitperiod},
+           given={Margherita},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Trento}%
+      }
+      \strng{namehash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \strng{fullhash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \strng{bibnamehash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \strng{authorbibnamehash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \strng{authornamehash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \strng{authorfullhash}{a319bada57c8df7aa2d4f6728f71b3c6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A vocabulary stores words, synonyms, word sense definitions (i.e. glosses), relations between word senses and concepts; such a vocabulary is generally referred to as the Controlled Vocabulary if choice or selections of terms are done by domain specialists. In our case, we create and match two controlled vocabularies by using their concept facet. This methodology is based on semantic matching which is different from the orthodox view of matching.}
+      \field{month}{8}
+      \field{title}{Creating and Aligning Controlled Vocabularies}
+      \field{type}{Departmental Technical Report}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/JWWPXIJS/Morshed et Sini - 2009 - Creating and Aligning Controlled Vocabularies.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/NFFCGA29/1667.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://eprints.biblio.unitn.it/1667/
+      \endverb
+      \verb{url}
+      \verb http://eprints.biblio.unitn.it/1667/
+      \endverb
+      \keyw{aligner}
     \endentry
     \entry{naude_advis_1627}{book}{}
       \name{author}{1}{}{%
@@ -2203,6 +2551,39 @@
       \verb https://gallica.bnf.fr/ark:/12148/bpt6k1041429f
       \endverb
     \endentry
+    \entry{online_computer_library_center_viaf_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5f04794a0a389a30d72a61b66fee16fd}{%
+           family={{Online Computer Library Center}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f04794a0a389a30d72a61b66fee16fd}
+      \strng{fullhash}{5f04794a0a389a30d72a61b66fee16fd}
+      \strng{bibnamehash}{5f04794a0a389a30d72a61b66fee16fd}
+      \strng{authorbibnamehash}{5f04794a0a389a30d72a61b66fee16fd}
+      \strng{authornamehash}{5f04794a0a389a30d72a61b66fee16fd}
+      \strng{authorfullhash}{5f04794a0a389a30d72a61b66fee16fd}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{{VIAF}}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb VIAF:/home/maxime/Zotero/storage/YHE53SX7/viaf.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://viaf.org/
+      \endverb
+      \verb{url}
+      \verb http://viaf.org/
+      \endverb
+      \keyw{lod}
+    \endentry
     \entry{poupeau_au-a_2018}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=3589829689e3be332872995f39629943}{%
@@ -2242,6 +2623,7 @@
       \verb{url}
       \verb http://www.lespetitescases.net/au-dela-des-limites-que-reste-t-il-concretement-du-web-semantique
       \endverb
+      \keyw{lod}
     \endentry
     \entry{poupeau_reflexions_2018}{online}{}
       \name{author}{1}{}{%
@@ -2282,6 +2664,7 @@
       \verb{url}
       \verb http://www.lespetitescases.net/reflexions-et-questions-autour-du-web-semantique
       \endverb
+      \keyw{lod}
     \endentry
     \entry{poupeau_rassembler_2019}{unpublished}{}
       \name{author}{1}{}{%
@@ -2321,6 +2704,53 @@
       \verb{url}
       \verb https://www.youtube.com/watch?v=KYOzoRPks8Q
       \endverb
+      \keyw{ina}
+    \endentry
+    \entry{renaud_traduire_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=451d04a88dbe501d44b492022cb53d39}{%
+           family={Renaud},
+           familyi={R\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Université Paris Dauphine - Paris {IX}}%
+      }
+      \strng{namehash}{451d04a88dbe501d44b492022cb53d39}
+      \strng{fullhash}{451d04a88dbe501d44b492022cb53d39}
+      \strng{bibnamehash}{451d04a88dbe501d44b492022cb53d39}
+      \strng{authorbibnamehash}{451d04a88dbe501d44b492022cb53d39}
+      \strng{authornamehash}{451d04a88dbe501d44b492022cb53d39}
+      \strng{authorfullhash}{451d04a88dbe501d44b492022cb53d39}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Un consensus général existe dans la recherche en Systèmes d’Information ({SI}) autour du concept et du modèle d’alignement stratégique ({SAM}) développé par Henderson et Venkatraman (1993). Celui-ci offre une norme technique et managériale pour un choix et une gestion optimale, puisque rationnelle, des {SI}. Paradoxalement, de nombreux projets de reconfigurations {SI} sont des échecs et entrainent les entreprises dans des trajectoires d’escalade d’engagement. A partir d’une lecture critique de la littérature construite sur les principes de la stratégie par les pratiques ({SasP}), nous cherchons à décrire les dynamiques organisationnelles à l’origine de la réussite ou de l’échec de ce type de projets. Une étude qualitative a été menée à travers quatre cas et une étude Delphi dans une approche de théorie enracinée. Ce corpus de données a fait l’objet d’un codage assisté par le logiciel {NVivo}. A travers la mobilisation de la théorie de la traduction, l’analyse des données a fait émerger une perspective alternative de celle défendue par la littérature traditionnelle. Une situation d’alignement est le résultat de la constitution d’un réseau de trois pôles parties prenantes aux projets, à savoir le pôle utilisateurs, le pôle managérial et le pôle technique. Ce réseau n’existe pas en soi, il est une construction collective liée à l’adhésion de ses membres sur la base de la satisfaction de leurs besoins respectifs à travers un processus de traduction. Nous ne parlons plus d’alignement stratégique, ni d’alignement des {SI}, mais d’alignement d’intérêts des parties prenantes autour d’un projet {SI}.}
+      \field{day}{13}
+      \field{langid}{french}
+      \field{month}{12}
+      \field{shorttitle}{Traduire pour aligner}
+      \field{title}{Traduire pour aligner : une analyse par les pratiques de la conduite de projets de reconfigurations de systemes d’information}
+      \field{type}{phdthesis}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/P6LDMTWS/Renaud - 2012 - Traduire pour aligner une analyse par les pratiq.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/V2X9CQBF/tel-00956585.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tel.archives-ouvertes.fr/tel-00956585
+      \endverb
+      \verb{url}
+      \verb https://tel.archives-ouvertes.fr/tel-00956585
+      \endverb
+      \keyw{aligner}
     \endentry
     \entry{roche-diore_atelier_2020}{unpublished}{}
       \name{author}{1}{}{%
@@ -2398,6 +2828,53 @@
       \verb{file}
       \verb Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:/home/maxime/Zotero/storage/FVFCVTP5/Rosenfeld et al. - 2015 - Information architecture for the World Wide Web.pdf:application/pdf
       \endverb
+      \keyw{blod}
+    \endentry
+    \entry{sakka_alignement_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7ba2fafa5257f5bf697486429e520408}{%
+           family={Sakka},
+           familyi={S\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {{INSA} de Lyon}%
+      }
+      \strng{namehash}{7ba2fafa5257f5bf697486429e520408}
+      \strng{fullhash}{7ba2fafa5257f5bf697486429e520408}
+      \strng{bibnamehash}{7ba2fafa5257f5bf697486429e520408}
+      \strng{authorbibnamehash}{7ba2fafa5257f5bf697486429e520408}
+      \strng{authornamehash}{7ba2fafa5257f5bf697486429e520408}
+      \strng{authorfullhash}{7ba2fafa5257f5bf697486429e520408}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L’interopérabilité entre applications d’entreprise est une problématique à multiples facettes. Pour y répondre, nous avons investigué l’alignement sémantique des connaissances sur les processus et objets métier supportés par les différentes applications d’entreprise. Ces connaissances sont souvent hétérogènes selon les métiers et implémentées de manières diverses, engendrant ainsi des conflits sémantiques dues aux différentes interprétations des acteurs. Nous étudions l’identification de correspondances et/ou de conflits sémantiques entre ces connaissances, plus particulièrement dans le domaine des applications de gestion d’atelier ({MES} – Manufacturing Execution System). Nous proposons une démarche de formalisation de ces connaissances sous la forme d’un référentiel standardisé conforme à la norme {ISO} 62264 : "le référentiel {MES}", ainsi qu’une démarche d’enrichissement de ce référentiel par alignements successifs avec d’autres normes et/ou référentiels. Nous définissons ainsi formellement un méta-modèle qui décrit les relations sémantiques entre les éléments des référentiels à aligner, et des règles de contrôle sémantique pour garder la cohérence du référentiel {MES} et sa conformité au standard. Enfin, nous présentons une démarche d’alignement des besoins client sur le référentiel {MES} pour aider à la mise en œuvre des applications d’entreprise. Ce travail de recherche a été réalisé dans le cadre d’un projet de Recherche et Développement soutenu par le cluster économique {EDIT} de la région Rhône-Alpes, et sur ses résultats ont été utilisés dans une nouvelle offre de « {MES} à la carte ».}
+      \field{day}{21}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{shorttitle}{Alignement sémantique entre référentiels d’entreprise}
+      \field{title}{Alignement sémantique entre référentiels d’entreprise : Application aux systèmes d’exécution de la fabrication ({MES})}
+      \field{type}{phdthesis}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/maxime/Zotero/storage/MMUHYUZU/Sakka - 2012 - Alignement sémantique entre référentiels d’entrepr.pdf:application/pdf;Snapshot:/home/maxime/Zotero/storage/U95J7P98/tel-00743553.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tel.archives-ouvertes.fr/tel-00743553
+      \endverb
+      \verb{url}
+      \verb https://tel.archives-ouvertes.fr/tel-00743553
+      \endverb
+      \keyw{aligner}
     \endentry
     \entry{schoepflin_alsatia_1751}{mvbook}{}
       \name{author}{1}{}{%
@@ -2492,6 +2969,41 @@
       \field{pages}{161\bibrangedash 197}
       \range{pages}{37}
     \endentry
+    \entry{the_library_of_congress_library_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=047d7b4ed80ea2304938a7435fd431a7}{%
+           family={{The Library of Congress}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{047d7b4ed80ea2304938a7435fd431a7}
+      \strng{fullhash}{047d7b4ed80ea2304938a7435fd431a7}
+      \strng{bibnamehash}{047d7b4ed80ea2304938a7435fd431a7}
+      \strng{authorbibnamehash}{047d7b4ed80ea2304938a7435fd431a7}
+      \strng{authornamehash}{047d7b4ed80ea2304938a7435fd431a7}
+      \strng{authorfullhash}{047d7b4ed80ea2304938a7435fd431a7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include {LCSH}, {BIBFRAME}, {LC} Name Authorities, {LC} Classification, {MARC} codes, {PREMIS} vocabularies, {ISO} language codes, and more., The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. Library of Congress Subject Headings ({LCSH}) has been actively maintained since 1898 to catalog materials held at the Library of Congress. By virtue of cooperative cataloging other libraries around the United States also use {LCSH} to provide subject access to their collections. In addition {LCSH} is used internationally, often in translation. {LCSH} in this service includes all Library of Congress Subject Headings, free-floating subdivisions (topical and form), Genre/Form headings, Children's ({AC}) headings, and validation strings* for which authority records have been created. This content is expanded beyond the print issue of {LCSH} (the 'red books') with inclusion of validation strings.}
+      \field{shorttitle}{{LC} Linked Data Service}
+      \field{title}{Library of Congress Subject Headings}
+      \field{type}{webpage}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/MZPAXBA4/subjects.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://id.loc.gov/authorities/subjects.html
+      \endverb
+      \verb{url}
+      \verb https://id.loc.gov/authorities/subjects.html
+      \endverb
+      \keyw{lod}
+    \endentry
     \entry{noauthor_linked_2020}{online}{}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
@@ -2516,6 +3028,7 @@
       \verb{url}
       \verb https://www.lod-cloud.net/
       \endverb
+      \keyw{lod}
     \endentry
     \entry{valery_variete_1936}{book}{}
       \name{author}{1}{}{%
@@ -2590,6 +3103,7 @@
       \verb{url}
       \verb http://institut.ina.fr/institut/organisation/l-editorial-du-president
       \endverb
+      \keyw{ina}
     \endentry
     \entry{welty_supporting_2011}{article}{}
       \name{author}{2}{}{%
@@ -2631,6 +3145,52 @@
       \field{urldateera}{ce}
       \field{pages}{51\bibrangedash 74}
       \range{pages}{24}
+    \endentry
+    \entry{wenz_lopen_2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d2b4c08f84fb61f477df9eec45dd0b8}{%
+           family={Wenz},
+           familyi={W\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Cercle de la Librairie}%
+      }
+      \strng{namehash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \strng{fullhash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \strng{bibnamehash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \strng{authorbibnamehash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \strng{authornamehash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \strng{authorfullhash}{6d2b4c08f84fb61f477df9eec45dd0b8}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vers de nouveaux catalogues}
+      \field{isbn}{978-2-7654-1513-8}
+      \field{langid}{french}
+      \field{note}{{ISSN}: 0184-0886}
+      \field{title}{L’open data, un levier pour l’évolution des catalogues}
+      \field{urlday}{5}
+      \field{urlmonth}{7}
+      \field{urlyear}{2020}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 23}
+      \range{pages}{11}
+      \verb{file}
+      \verb Snapshot:/home/maxime/Zotero/storage/ESCTJALU/vers-de-nouveaux-catalogues--9782765415138-page-13.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/vers-de-nouveaux-catalogues--9782765415138-page-13.htm
+      \endverb
+      \verb{url}
+      \verb https://www-cairn-info.proxy.chartes.psl.eu/vers-de-nouveaux-catalogues--9782765415138-page-13.htm
+      \endverb
+      \keyw{lod}
     \endentry
     \entry{wilkins_essay_1668}{mvbook}{}
       \name{author}{1}{}{%

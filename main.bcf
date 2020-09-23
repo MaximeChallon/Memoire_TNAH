@@ -1937,16 +1937,16 @@
     <bcf:citekey order="11">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="12">rosenfeld_information_2015</bcf:citekey>
     <bcf:citekey order="13">aymonin_arabesques_2017</bcf:citekey>
-    <bcf:citekey order="14">bermes_1_2013</bcf:citekey>
-    <bcf:citekey order="15">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="14">bermes_du_2013</bcf:citekey>
+    <bcf:citekey order="15">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="16">bibliotheque_nationale_de_france_protocole_nodate</bcf:citekey>
-    <bcf:citekey order="17">bermes_2_2013</bcf:citekey>
-    <bcf:citekey order="18">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="17">bermes_convergence_2013</bcf:citekey>
+    <bcf:citekey order="18">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="19">bibliotheque_nationale_de_france_protocole_nodate</bcf:citekey>
     <bcf:citekey order="20">dalbin_approches_2011</bcf:citekey>
     <bcf:citekey order="21">bibliotheque_nationale_de_france_protocole_nodate-1</bcf:citekey>
     <bcf:citekey order="22">noauthor_dublin_nodate</bcf:citekey>
-    <bcf:citekey order="23">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="23">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="24">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="25">eco_arbre_2010</bcf:citekey>
     <bcf:citekey order="26">eco_arbre_2010</bcf:citekey>
@@ -1988,12 +1988,12 @@
     <bcf:citekey order="62">berners-lee_semantic_1998</bcf:citekey>
     <bcf:citekey order="63">berners-lee_semantic_1998</bcf:citekey>
     <bcf:citekey order="64">berners-lee_linked_2006</bcf:citekey>
-    <bcf:citekey order="65">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="65">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="66">berners-lee_linked_2006</bcf:citekey>
-    <bcf:citekey order="67">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="67">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="68">berners-lee_linked_2006</bcf:citekey>
     <bcf:citekey order="69">berners-lee_linked_2006</bcf:citekey>
-    <bcf:citekey order="70">bermes_2_2013</bcf:citekey>
+    <bcf:citekey order="70">bermes_convergence_2013</bcf:citekey>
     <bcf:citekey order="71">poupeau_reflexions_2018</bcf:citekey>
     <bcf:citekey order="72">berners-lee_linked_2006</bcf:citekey>
     <bcf:citekey order="73">bermes_convergence_2013</bcf:citekey>
@@ -2120,4 +2120,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nyt/global//global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
