@@ -4,93 +4,100 @@
 %intro
 Wikidata a son propre modèle de données, mais les données sont représentables et exportables en \ac{rdf}. Ainsi, Wikidata est totalement intégré dans le Web sémantique. Le langage de requête de \ac{rdf}, \ac{sparql}, doit permettre un accès rapide aux données par des requêtes parfois complexes. Cependant, d'autres méthodes existent pour accéder aux données, comme une \ac{api} fournie par \href{https://www.mediawiki.org/wiki/Wikibase/API}{Wikibase} via l'URL \url{https://wikidata.org/w/api.php}.\\
 
-L'alignement des personnes physiques de l'\ac{ina} a, pour des raisons expliquées plus bas dans le propos\footnote{Voir \reference{II-C-4}.}, nécessité l'utilisation de ces deux méthodes afin d'améliorer les délais de récupération des donnée, et par conséquent d'alignement.
+L'alignement des personnes physiques de l'\ac{ina} a nécessité, pour des raisons expliquées plus bas dans le propos\footnote{Voir \reference{II-C-4}.}, l'utilisation de ces deux méthodes afin d'améliorer les délais de récupération des données, et par conséquent d'alignement.
 
 \subsection{\label{II-C-1-a}La structure des données de Wikidata}
 \titreEntete{La structure des données de Wikidata}
 
-La compréhension de la structure des données de Wikidata, particulière, est nécessaire pour effectuer des requêtes précises et efficaces. Bien que proche de \ac{rdf}, cette structure comporte quelques particularités\footnote{Voir \reference{annexe_nvx_modeles} (\reference{wikidata}).}. L'affirmation, la structure de base de Wikidata, se compose d'un élément suivi d'une paire propriété--valeur nommée déclaration. Cette affirmation est très proche, sinon identique, au triplet \ac{rdf} sujet-prédicat-objet. Un élément peut contenir autant de déclarations que nécessaire et est identifié par une URI unique --- comme l'est une instance \ac{rdf} --- désignant une page Wikidata commençant par la lettre Q (la lettre P désigne les propriétés).\\
+La compréhension de la structure des données de \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata, particulière, est nécessaire pour effectuer des requêtes précises et efficaces. Bien que proche de \index[ref]{echanges@Échanges!formats@Formats!rdf@RDF}\ac{rdf}, cette structure comporte quelques particularités\footnote{Voir \reference{annexe_nvx_modeles} (\reference{wikidata}).}. L'affirmation, la structure de base de Wikidata, se compose d'un élément suivi d'une paire propriété--valeur nommée déclaration. Cette affirmation est très proche, sinon identique, au triplet \ac{rdf} sujet-prédicat-objet. Un élément peut contenir autant de déclarations que nécessaire et est identifié par une URI unique --- comme l'est une instance \ac{rdf} --- désignant une page Wikidata commençant par la lettre \textit{Q} (la lettre \textit{P} désigne les propriétés).\\
 
-Wikidata peut, en plus de ces données liées semblables à \ac{rdf}, contenir des informations plus complexes, complexifiant par conséquent la représentation des informations en \ac{rdf} et les requêtes associées. Ainsi, les déclarations ne sont pas seulement composées de la paire propriété--valeur. Des qualificatifs et des références peuvent y être ajoutés de manière à préciser la paire, eux-mêmes étant sous la forme d'une paire propriété-valeur et constituant un triplet \ac{rdf} valeur d'une propriété--propriété--valeur.\\
+Wikidata peut, en plus de ces données liées semblables à \ac{rdf}, contenir des informations plus complexes, compliquant par conséquent la représentation des informations en \ac{rdf} et les requêtes associées. Ainsi, les déclarations ne sont pas seulement composées de la paire propriété--valeur. Des qualificatifs et des références peuvent y être ajoutés de manière à préciser la paire, eux-mêmes étant sous la forme d'une paire propriété--valeur et constituant un triplet \ac{rdf} valeur d'une propriété.\\
 
-De plus, de même que les ontologies, des axiomes peuvent être introduits pour les propriétés: une propriété peut n'accepter qu'une seule valeur, ou bien une multiplicité de valeurs; une propriété peut accepter uniquement des éléments identifiés par une URI et non des littéraux, \dots~\\
+De plus, comme pour les ontologies, des axiomes peuvent être introduits pour les propriétés: une propriété peut n'accepter qu'une seule valeur, ou bien une multiplicité de valeurs; une propriété peut accepter que des éléments identifiés par une URI et non des littéraux, \dots~\\
 
-Enfin, Wikidata propose au début de chaque page le label préférentiel de l'élément, une description sommaire, ainsi que des labels alternatifs, pour chaque langue. De manière à mettre ces données dans son modèle de données, les ontologies telles que \ac{rdfs}, \ac{skos} ou \href{http://wikiba.se/ontology#}{wikibase}\footnote{Cette ontologie est construite à partir de \ac{owl} et \ac{rdfs}.} sont utilisées et permettent un accès facilité aux données avec \ac{rdf}.
+Enfin, \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata propose au début de chaque page le label préférentiel de l'élément, une description sommaire, ainsi que pour chaque langue des labels alternatifs. De manière à mettre ces données dans son modèle de données, des ontologies telles que \index[ref]{relier@Relier!rdfs@RDFS}\ac{rdfs}, \index[ref]{relier@Relier!skos@SKOS}\ac{skos} ou \index[ref]{relier@Relier!wikibase@Wikibase}\href{http://wikiba.se/ontology#}{wikibase}\footnote{Cette ontologie est construite à partir de \ac{owl} et \ac{rdfs}.} sont utilisées et permettent un accès facilité aux données avec \index[ref]{echanges@Échanges!formats@Formats!rdf@RDF}\ac{rdf}.
 
 \subsection{\label{II-C-1-b}Le \ac{sparql}-EndPoint}
 \titreEntete{Le SPARQL-EndPoint}
 
-Un premier accès aux données de Wikidata peut se faire par le \ac{sparql}-EndPoint. \ac{sparql} est le langage de requête de données \ac{rdf} et permet d'effectuer des requêtes complexes en parcourant les triplets. Deux entrées dans ce \ac{sparql}-EndPoint sont possibles:
+Un premier accès aux données de \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata peut se faire par le \index[ref]{echanges@Échanges!protocoles@Protocoles!sparql@SPARQL}\ac{sparql}-EndPoint. \ac{sparql} est le langage de requête de données \ac{rdf} et permet d'effectuer des requêtes complexes en parcourant les triplets. Deux entrées dans ce \ac{sparql}-EndPoint sont possibles:
 \begin{itemize}
-	\item Une interface\footnote{Disponible à l'URL \url{https://query.wikidata.org/}} est disponible pour y écrire les requêtes puis les exécuter. Une prévisualisation des résultats apparaît au bas de l'interface, et il est possible d'exporter les données en plusieurs formats (Comma Separated Values (CSV), \ac{json}, \ac{rdf}, \dots).
-	\item Un accès direct aux données est possible en construisant des URLs de requête avec des paramètres: la requête \ac{sparql} est à insérer après \textit{https://query.wikidata.org/sparql?query=}; ensuite, le paramètre \og format\fg{} permet la spécification du format de sortie (\textit{\&format=json} par exemple)
+	\item Une interface\footnote{Disponible à l'URL \url{https://query.wikidata.org/}} est disponible pour y écrire les requêtes puis les exécuter. Une prévisualisation des résultats apparaît au bas de l'interface, et il est possible d'exporter les données en plusieurs formats (\index[ref]{echanges@Échanges!formats@Formats!csv@CSV}Comma Separated Values (CSV), \index[ref]{echanges@Échanges!formats@Formats!json@JSON}\ac{json}, \index[ref]{echanges@Échanges!formats@Formats!rdf@RDF}\ac{rdf}, \dots).
+	\item Un accès direct aux données est possible en construisant des \index[ref]{echanges@Échanges!protocoles@Protocoles!http@HTTP}URLs de requête avec des paramètres: la requête \ac{sparql} est à insérer après \url{https://query.wikidata.org/sparql?query=}; ensuite, le paramètre \og format\fg{} permet la spécification du format de sortie (\textit{\&format=json} par exemple)
 \end{itemize}
 \medskip
 
-L'utilisation du \ac{sparql}-EndPoint est adaptée aux requêtes générées humainement. En effet, plus la requête est complexe, plus le temps de réponse est élevé. Il est très fréquent d'obtenir un \textit{timeout} --- il peut être du à la complexité de la requête, mais également à la charge des ressources du service de Wikidata ou du réseau Internet ---, ce qui empêche l'utilisation de \ac{sparql} dans un processus d'alignement automatique.\\
+L'utilisation du \ac{sparql}-EndPoint est adaptée aux requêtes générées humainement. En effet, plus la requête est complexe, plus le temps de réponse est élevé. Il est très fréquent d'obtenir un \textit{timeout} --- il peut être dû à la complexité de la requête, mais également à la charge des ressources du service de Wikidata ou du réseau Internet ---, ce qui empêche l'utilisation de \ac{sparql} dans un processus d'alignement automatique.\\
 
-S'ajoutent à ces limites d'autres limites imposées par Wikidata\footnote{Consultables dans la documentation: \url{https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual/fr\#Limites_des_requ\%C3\%AAtes}}:
+S'ajoutent à ces limites d'autres limites imposées par \index[ref]{echanges@Échanges!protocoles@Protocoles!sparql@SPARQL}\index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata\footnote{Consultables dans la documentation: \url{https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual/fr\#Limites_des_requ\%C3\%AAtes}}:
 \begin{itemize}
 	\item limitation à cinq requêtes simultanées par adresse IP;
 	\item soixante secondes de traitement toutes les soixante secondes;
-	\item cette limitation de temps induit des erreurs qui sont limitées à trente par minute; passée cette limitation à trente erreurs par minute --- qui est atteinte rapidement avec un traitement automatique ---, l'adresse IP est bloquée
+	\item cette limitation de temps induit des erreurs qui sont fixées à trente par minute; si ce plafond de trente erreurs par minute est atteint et dépassé --- ce qui est atteint rapidement avec un traitement automatique ---, l'adresse IP est bloquée
 \end{itemize}
 
 \subsection{\label{II-C-1-c}L'\ac{api} Wikibase}
 \titreEntete{L'API Wikibase}
 
-Face à ces nombreuses limites empêchant une utilisation du \ac{sparql}-EndPoint dans l'alignement de données avec Wikidata, l'\ac{api} permet de meilleurs temps de réponse et l'absence d'erreurs --- exceptées celles générées pour les requêtes ne renvoyant aucun résultat\footnote{L'outil Open Refine utilise cette \ac{api} et non le \ac{sparql}-EndPoint. Voir le code source du logiciel: \url{https://github.com/OpenRefine/OpenRefine}.}. Cette \ac{api} de Wikibase est uniquement disponible par la méthode GET d'URLs. Elle est représentée par un ensemble de modules qui permettent, sans avoir à écrire de requête \ac{sparql}, de filtrer les résultats de la recherche.\\
+Face à ces nombreuses limites empêchant une utilisation du \ac{sparql}-EndPoint dans l'alignement de données avec \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata, l'\ac{api} permet de meilleurs temps de réponse et l'absence d'erreurs --- exceptées celles générées pour les requêtes ne renvoyant aucun résultat\footnote{L'outil Open Refine utilise cette \ac{api} et non le \ac{sparql}-EndPoint. Voir le code source du logiciel: \url{https://github.com/OpenRefine/OpenRefine}.}. Cette \ac{api} de Wikibase est uniquement disponible par la méthode \index[ref]{echanges@Échanges!protocoles@Protocoles!http@HTTP}GET d'URLs. Elle est représentée par un ensemble de modules qui permettent, sans avoir à écrire de requête \index[ref]{echanges@Échanges!protocoles@Protocoles!sparql@SPARQL}\ac{sparql}, de filtrer les résultats de la recherche.\\
 
-L'accès se fait par l'URL \url{https://wikidata.org/w/api.php}. À cette URL peuvent être ajoutés des paramètres\footnote{Les paramètres et les modules présentés ci-dessous sont uniquement ceux utilisés dans le traitement avec Talend pour l'alignement des personnes physiques avec Wikidata.}:
+L'accès se fait par \index[ref]{echanges@Échanges!protocoles@Protocoles!http@HTTP}l'URL \url{https://wikidata.org/w/api.php}. À cette URL peuvent être ajoutés des paramètres\footnote{Les paramètres et les modules présentés ci-dessous sont uniquement ceux utilisés dans le traitement avec Talend pour l'alignement des personnes physiques avec Wikidata.}:
 \begin{itemize}
 	\item \textit{action}: permet d'indiquer le module de l'\ac{api} Wikibase utilisé;
-	\item \textit{format}: permet de choisir le format de sortie des résultats (JSON ou XML)
+	\item \textit{format}: permet de choisir le format de sortie des résultats (\index[ref]{echanges@Échanges!formats@Formats!json@JSON}\ac{json} ou \index[ref]{echanges@Échanges!formats@Formats!xml@XML}XML)
 \end{itemize}
 \medskip
 
 Trois modules ont été utilisés pour réaliser cet alignement:
 \begin{itemize}
-	\item \textit{wbsearchentities} permet de rechercher la présence d'une chaîne de caractères dans les libellés et les libellés alternatifs des entités de Wikidata; plusieurs paramètres sont alors disponibles:
-	\begin{table}
-		\centering
-		\begin{tabularx}{15cm}{|X|X|X|}
-			\hline
-			\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
-			\textit{search}&Contient la chaîne de caractères à rechercher&Obligatoire\tabularnewline \hline
-			\textit{language}&Spécifie la langue du texte à rechercher&Obligatoire\tabularnewline \hline
-			\textit{limit}&Nombre de résultats&\tabularnewline \hline
-		\end{tabularx}
+	\item \textit{wbsearchentities} permet de rechercher la présence d'une chaîne de caractères dans les libellés et les libellés alternatifs des entités de \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata; plusieurs paramètres sont alors disponibles(\reference{wbsearchentities}).
+	\item \textit{wbgetentities} permet d'obtenir tout ou partie des entités de Wikidata (\reference{wbgetentities}).
+	\item \textit{wbgetclaims} permet d'obtenir l'ensemble des déclarations de l'entité demandée (\reference{wbgetclaims}).
+\end{itemize}
+
+\begin{table}[h!]
+	\centering
+	\begin{tabularx}{15cm}{|X|X|X|}
+		\hline
+		\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
+		\textit{search}&Contient la chaîne de caractères à rechercher&Obligatoire\tabularnewline \hline
+		\textit{language}&Spécifie la langue du texte à rechercher&Obligatoire\tabularnewline \hline
+		\textit{limit}&Nombre de résultats&\tabularnewline \hline
+	\end{tabularx}
 	\caption[Paramètres principaux du module \textit{wbsearchentities} de l'\ac{api} Wikibase]{Paramètres principaux du module \textit{wbsearchentities} de l'\ac{api} Wikibase [Source: \url{https://www.wikidata.org/w/api.php?action=help\&modules=wbsearchentities]}}
 	\label{wbsearchentities}
-	\end{table}
-	\item \textit{wbgetentities} permet d'obtenir tout ou partie des entités de Wikidata
-	\begin{table}
-		\centering
-		\begin{tabularx}{15cm}{|X|X|X|}
-			\hline
-			\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
-			\textit{ids}&Liste des entités à récupérer&\tabularnewline \hline
-			\textit{props}&Type de données à récupérer&Sont utilisés les libellés, les déclarations et les libellés alternatifs\tabularnewline \hline
-			\textit{languages}&Spécifie la langue du texte à rechercher&Obligatoire\tabularnewline \hline
-		\end{tabularx}
-		\caption[Paramètres principaux du module \textit{wbgetentities} de l'\ac{api} Wikibase]{Paramètres principaux du module \textit{wbgetentities} de l'\ac{api} Wikibase [Source: \url{https://www.wikidata.org/w/api.php?action=help\&modules=wbgetentities]}}
-		\label{wbgetentities}
-	\end{table} 
-	\item \textit{wbgetclaims} permet d'obtenir l'ensemble des déclarations de l'entité demandée
-	\begin{table}
-		\centering
-		\begin{tabularx}{15cm}{|X|X|X|}
-			\hline
-			\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
-			\textit{entity}&Identifiant de l'entité&Obligatoire \tabularnewline \hline
-		\end{tabularx}
-		\caption[Paramètres principaux du module \textit{wbgetclaims} de l'\ac{api} Wikibase]{Paramètres principaux du module \textit{wbgetclaims} de l'\ac{api} Wikibase [Source: \url{https://www.wikidata.org/w/api.php?action=help\&modules=wbgetclaims]}}
-		\label{wbgetclaims}
-	\end{table} 
-\end{itemize}
+\end{table}
+
+
+\begin{table}[h!]
+	\centering
+	\begin{tabularx}{15cm}{|X|X|X|}
+		\hline
+		\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
+		\textit{ids}&Liste des entités à récupérer&\tabularnewline \hline
+		\textit{props}&Type de données à récupérer&Sont utilisés les libellés, les déclarations et les libellés alternatifs\tabularnewline \hline
+		\textit{languages}&Spécifie la langue du texte à rechercher&Obligatoire\tabularnewline \hline
+		\textit{titles}&Titre de la page correspondante&\tabularnewline \hline
+		\textit{sites}&Identifiant du site dans lequel rechercher&\tabularnewline \hline
+	\end{tabularx}
+	\caption[Paramètres principaux du module \textit{wbgetentities} de l'\ac{api} Wikibase]{Paramètres principaux du module \textit{wbgetentities} de l'\ac{api} Wikibase [Source: \url{https://www.wikidata.org/w/api.php?action=help\&modules=wbgetentities]}}
+	\label{wbgetentities}
+\end{table} 
+
+
+\begin{table}[h!]
+	\centering
+	\begin{tabularx}{15cm}{|X|X|X|}
+		\hline
+		\begin{center}Paramètre\end{center}&\begin{center}Fonction\end{center}&\begin{center}Particularités\end{center}  \tabularnewline \hline
+		\textit{entity}&Identifiant de l'entité&Obligatoire \tabularnewline \hline
+	\end{tabularx}
+	\caption[Paramètres principaux du module \textit{wbgetclaims} de l'\ac{api} Wikibase]{Paramètres principaux du module \textit{wbgetclaims} de l'\ac{api} Wikibase [Source: \url{https://www.wikidata.org/w/api.php?action=help\&modules=wbgetclaims]}}
+	\label{wbgetclaims}
+\end{table} 
 \medskip
 
-La possibilité de lancer plusieurs requêtes \ac{http} simultanément --- en raison de l'absence de vérification de l'adresse IP --- et d'y insérer plusieurs entités --- jusqu'à cinquante ---, quand le paramètre \textit{ids} est possible, rend l'\ac{api} Wikibase efficace et plus adaptée à un alignement automatique d'un jeu de données avec Wikidata.
+La possibilité de lancer plusieurs requêtes \index[ref]{echanges@Échanges!protocoles@Protocoles!http@HTTP}\ac{http} simultanément --- en raison de l'absence de vérification de l'adresse IP --- et d'y insérer plusieurs entités --- jusqu'à cinquante --- quand le paramètre \textit{ids} est disponible, rend l'\ac{api} Wikibase efficace et plus adaptée à un alignement automatique d'un jeu de données avec \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata.
 
 %conclu
 \bigskip

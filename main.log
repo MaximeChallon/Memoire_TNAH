@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  23 SEP 2020 15:49
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  24 SEP 2020 10:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -4279,12 +4279,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 
-Overfull \hbox (114.16736pt too wide) in paragraph at lines 26--27
-\TU/lmr/m/n/12 avec des paramètres : la requête []SPARQL est à insérer après \T
-U/lmr/m/it/12 https ://query.wikidata.org/sparql ?query= \TU/lmr/m/n/12 ;
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
@@ -4304,49 +4298,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 62--62
+Underfull \hbox (badness 6542) in paragraph at lines 66--66
 []|\TU/lmr/m/n/12 Spécifie la langue du
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 63--63
+Underfull \hbox (badness 1354) in paragraph at lines 67--67
 []\TU/lmr/m/sc/12 Table \TU/lmr/m/n/12 6.1 – |Paramètres principaux du module \
 TU/lmr/m/it/12 wbsearchentities \TU/lmr/m/n/12 de l’[]API Wiki-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \TU/lmr/m/n/12 base [Source : []$[][][][][] [] [] [] [][][] [] [][][][][][][][]
  [] [][][] [] [] [] [][][] [] [][][] [] [][][][][][] [] [][][][] [] [][][][][][
 ][] []
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 75--75
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 82--82
 []|\TU/lmr/m/n/12 Spécifie la langue du
  []
 
-\openout5 = `main.mw'.
 
-[72] (./main.mw)
-\openout5 = `main.mw'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) (./parties/mainmatter/II/C/II-C-2.tex
+\openout5 = `main.mw'.
+
+ [72] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-\openout5 = `main.mw'.
 
-[73] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [73]
+(./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -4363,13 +4367,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
@@ -4381,6 +4384,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
@@ -4531,22 +4539,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-\openout5 = `main.mw'.
 
-[79] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 3884) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-
-Underfull \vbox (badness 7273) has occurred while \output is active []
-
-\openout5 = `main.mw'.
-
- [80]
+ [79]
 (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [80] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 
@@ -4559,13 +4567,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-\openout5 = `main.mw'.
 
-[81] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [81]
+(./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -4591,6 +4599,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 \openout5 = `main.mw'.
 
 [82] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -4829,12 +4841,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-
-Overfull \hbox (27.79355pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/12 7.2.  DES LABYRINTHES DE RELATIONS ET D’IDENTIFIANTS : LES HUBS
- DE LIENS \TU/lmr/m/n/12 95
- []
-
 \openout5 = `main.mw'.
 
 [95] (./main.mw)
@@ -4896,11 +4902,11 @@ File: images/idref.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
  [97] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 
@@ -4918,16 +4924,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-\openout5 = `main.mw'.
-
-[98] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 ) (./parties/mainmatter/III/A/III-A-3.tex
+\openout5 = `main.mw'.
+
+ [98] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -4970,10 +4977,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 \openout5 = `main.mw'.
 
-
-LaTeX Warning: Citation 'noauthor_imdb_nodate' on page 100 undefined on input l
-ine 18.
-
 \openout5 = `main.pyg'.
 
 \openout5 = `main.mw'.
@@ -5001,7 +5004,7 @@ ine 18.
 
 (./_minted-main/C58EF71BC96CDEFF6C13F766F5AC46B3FE7586FA94C75D42696D6B1D2149F2A
 1.pygtex)
-Underfull \hbox (badness 10000) in paragraph at lines 23--37
+Underfull \hbox (badness 10000) in paragraph at lines 23--39
 
  []
 
@@ -5047,17 +5050,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--37
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
@@ -5069,6 +5067,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
 
 )
 \openout5 = `main.mw'.
@@ -8486,12 +8489,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
 
  ) 
 Here is how much of TeX's memory you used:
- 49404 strings out of 493007
- 1009952 string characters out of 6136719
- 1792296 words of memory out of 5000000
- 52057 multiletter control sequences out of 15000+600000
+ 49408 strings out of 493007
+ 1010090 string characters out of 6136719
+ 1792280 words of memory out of 5000000
+ 52061 multiletter control sequences out of 15000+600000
  533616 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,12n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,11n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (200 pages).

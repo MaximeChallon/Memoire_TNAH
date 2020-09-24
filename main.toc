@@ -133,7 +133,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {6.1.3}L'\ac {api} Wikibase}{72}{subsection.6.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.2}Aligner des personnes depuis des données contrôlées}{73}{section.6.2}
+\contentsline {section}{\numberline {6.2}Aligner des personnes depuis des données contrôlées}{74}{section.6.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {6.2.1}Choix des déclarations des entités de Wikidata}{74}{subsection.6.2.1}
 \defcounter {refsection}{0}\relax
@@ -145,9 +145,9 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {6.3.1}Aligner les fonctions avec Wikidata}{78}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.3.2}Utiliser la hiérarchie de Wikidata pour aligner les personnes}{79}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.2}Utiliser la hiérarchie de Wikidata pour aligner les personnes}{80}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.4}Comprendre les limites}{81}{section.6.4}
+\contentsline {section}{\numberline {6.4}Comprendre les limites}{82}{section.6.4}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {6.4.1}Les raisons de l'absence d'alignement}{82}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax
@@ -163,7 +163,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {7.1.2}Des labyrinthes aux graphes}{93}{subsection.7.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.2}Des labyrinthes de relations et d'identifiants: les hubs de liens}{95}{section.7.2}
+\contentsline {section}{\numberline {7.2}Des labyrinthes d'identifiants: les hubs de liens}{95}{section.7.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {7.2.1}De la décentralisation des référentiels à leur recentralisation dans le Web de données}{95}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax

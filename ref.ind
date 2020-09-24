@@ -5,29 +5,37 @@
     \subitem Fichiers d'autorité, \hyperpage{11--13}, \hyperpage{20}, 
 		\hyperpage{50}
     \subitem GEMET, \hyperpage{19}
+    \subitem IDREF, \hyperpage{97, 98}
     \subitem LCSH, \hyperpage{7--9}, \hyperpage{11}, \hyperpage{49, 50}, 
-		\hyperpage{54}, \hyperpage{64}
+		\hyperpage{54}, \hyperpage{64}, \hyperpage{97}
     \subitem RAMEAU, \hyperpage{7--9}, \hyperpage{11}, 
-		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}
-    \subitem VIAF, \hyperpage{50, 51}
+		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}, 
+		\hyperpage{97}
+    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}
 
   \indexspace
 
   \item Échanges
     \subitem Formats
       \subsubitem Bibframe, \hyperpage{54}
+      \subsubitem CSV, \hyperpage{71}
       \subsubitem Dublin Core, \hyperpage{13}
       \subsubitem EAD, \hyperpage{13}
+      \subsubitem JSON, \hyperpage{71, 72}, \hyperpage{83}
       \subsubitem MARC, \hyperpage{12, 13}, \hyperpage{51}, 
 		\hyperpage{54}
       \subsubitem RDA, \hyperpage{54}, \hyperpage{68}
       \subsubitem RDF, \hyperpage{46, 47}, \hyperpage{49}, 
 		\hyperpage{52--54}, \hyperpage{63--65}, 
-		\hyperpage{67, 68}
+		\hyperpage{67, 68}, \hyperpage{70, 71}, \hyperpage{83}, 
+		\hyperpage{96}, \hyperpage{98}
+      \subsubitem XML, \hyperpage{72}, \hyperpage{83}
     \subitem Protocoles
-      \subsubitem HTTP, \hyperpage{46, 47}
+      \subsubitem HTTP, \hyperpage{46, 47}, \hyperpage{71, 72}
       \subsubitem OAI-PMH, \hyperpage{13}
-      \subsubitem SPARQL, \hyperpage{46, 47}
+      \subsubitem SPARQL, \hyperpage{46, 47}, \hyperpage{71, 72}, 
+		\hyperpage{77}, \hyperpage{83}, \hyperpage{98}, 
+		\hyperpage{100, 101}
       \subsubitem Z39-50, \hyperpage{12}
 
   \indexspace
@@ -37,14 +45,19 @@
 		\hyperpage{53}
   \item Linked Open Data (LOD), \hyperpage{49}
     \subitem data.bnf.fr, \hyperpage{49}
-    \subitem DBpédia, \hyperpage{49}
+    \subitem DBpédia, \hyperpage{49}, \hyperpage{98}
+    \subitem IDREF, \hyperpage{97, 98}
     \subitem LCSH, \hyperpage{7--9}, \hyperpage{11}, \hyperpage{49, 50}, 
-		\hyperpage{54}, \hyperpage{64}
+		\hyperpage{54}, \hyperpage{64}, \hyperpage{97}
     \subitem OCLC, \hyperpage{12}, \hyperpage{50}
     \subitem RAMEAU, \hyperpage{7--9}, \hyperpage{11}, 
-		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}
+		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}, 
+		\hyperpage{97}
     \subitem USDA, \hyperpage{50}
-    \subitem VIAF, \hyperpage{50, 51}
+    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}
+    \subitem Wikidata, \hyperpage{70--72}, \hyperpage{74--84}, 
+		\hyperpage{93}, \hyperpage{95, 96}, \hyperpage{98, 99}, 
+		\hyperpage{102, 103}
     \subitem YSO, \hyperpage{50}
 
   \indexspace
@@ -72,16 +85,21 @@
     \subitem Portails, \hyperpage{12, 13}
     \subitem RDA, \hyperpage{68}
     \subitem RDFS, \hyperpage{59}, \hyperpage{63}, \hyperpage{65, 66}, 
-		\hyperpage{68}
-    \subitem SKOS, \hyperpage{63, 64}, \hyperpage{66}, \hyperpage{68}
+		\hyperpage{68}, \hyperpage{71}
+    \subitem schema.org, \hyperpage{96}
+    \subitem SKOS, \hyperpage{63, 64}, \hyperpage{66}, \hyperpage{68}, 
+		\hyperpage{71}
+    \subitem Wikibase, \hyperpage{71}, \hyperpage{83}, \hyperpage{100}
 
   \indexspace
 
   \item Typologie
     \subitem Graphe de nœuds et de liens, \hyperpage{44--46}, 
 		\hyperpage{48}, \hyperpage{50, 51}, \hyperpage{54}, 
-		\hyperpage{63}, \hyperpage{65}
-    \subitem Index, \hyperpage{6, 7}, \hyperpage{18}, \hyperpage{24}
+		\hyperpage{63}, \hyperpage{65}, \hyperpage{79}, 
+		\hyperpage{83}, \hyperpage{94}
+    \subitem Index, \hyperpage{6, 7}, \hyperpage{18}, \hyperpage{24}, 
+		\hyperpage{92}
     \subitem Ontologie, \hyperpage{19, 20}, \hyperpage{58--63}, 
 		\hyperpage{66, 67}
     \subitem Taxonomie, \hyperpage{19--21}, \hyperpage{58}

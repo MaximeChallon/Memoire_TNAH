@@ -2,20 +2,20 @@
 \titreEntete{Aligner des personnes depuis du texte libre}
 
 %intro
-L'utilisation de donnés contrôlées pour effectuer un alignement n'est pas suffisante; les notes en texte libre doivent alors être utilisées car elles comportent des informations permettant de réaliser cet alignement. Cependant, l'utilisation d'un texte libre nécessite plus de traitement et d'adaptations. Ainsi, le seul alignement de la fonction extraite des notes qualité avec son équivalent dans Wikidata est confronté aux classes et sous-classes de Wikidata, et une nouvelle fois aux différents contrôles et règles s'appliquant à chaque jeu de données. De cet alignement dépend l'alignement des personnes.
+L'utilisation de données contrôlées pour effectuer un alignement n'est pas suffisante; les notes en texte libre doivent alors être utilisées car elles comportent des informations permettant de réaliser cet alignement. Cependant, l'utilisation d'un texte libre nécessite plus de traitement et d'adaptations. Ainsi, le seul alignement de la fonction extraite des notes qualité avec son équivalent dans Wikidata est confronté aux classes et sous-classes de Wikidata, et, une nouvelle fois, aux différents contrôles et règles s'appliquant à chaque jeu de données. De cet alignement dépend l'alignement des personnes.
 
 \subsection{\label{II-C-3-a}Aligner les fonctions avec Wikidata}
 \titreEntete{Aligner les fonctions avec Wikidata}
 
 %activités humaines + nbe total: les récup avec leurs labels
-Les métiers et fonctions de personnes sont réunis, sur Wikidata, sous l'entité des \textit{Activités humaines} (Q61788060)\footnote{Activités humaines (Q61788060): https://www.wikidata.org/wiki/Q61788060}. L'utilisation de cette classe, très générique, est nécessaire afin d'obtenir l'ensemble des fonctions et des métiers qui existent dans Wikidata. Seulement, les entités dépendant directement ou indirectement de cette entité sont très nombreuses\footnote{La requête \ac{sparql} de comptage de ces entités indique plus de 1100000 entités dépendant des \textit{Activités humaines}.}: un tri de ces entités n'est pas possible car l'étendue des fonctions des notes qualité n'est pas connue précisément.\\
+Les métiers et fonctions de personnes sont réunis, sur \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata, sous l'entité des \textit{Activités humaines} (Q61788060)\footnote{Activités humaines (Q61788060): https://www.wikidata.org/wiki/Q61788060}. L'utilisation de cette classe, très générique, est nécessaire afin d'obtenir l'ensemble des fonctions et des métiers qui existent dans Wikidata. Seulement, les entités dépendant directement ou indirectement de cette entité sont très nombreuses\footnote{La requête \ac{sparql} de comptage de ces entités indique plus de 1100000 entités dépendant des \textit{Activités humaines}.}: un tri de ces entités n'est pas possible car l'étendue des fonctions des notes qualité n'est pas précisément connue.\\
 
-L'extraction de l'ensemble des entités de Q61788060 doit permettre d'obtenir l'identifiant de chaque entité, ainsi que le libellé préférentiel et les libellés alternatifs. Une telle requête dans le \ac{sparql}-EndPoint n'est pas possible car elle est trop lourde. Ainsi, la scission de la requête en plusieurs étapes est nécessaire:
+L'extraction de l'ensemble des entités de Q61788060 doit permettre d'obtenir l'identifiant de chaque entité, ainsi que le libellé préférentiel et les libellés alternatifs. Une telle requête dans le \ac{sparql}-EndPoint est impossible car elle est trop lourde. Ainsi, une scission de la requête en plusieurs étapes est nécessaire:
 \begin{itemize}
-	\item d'abord, il y a récupération, par la propriété P31, des entités dépendant directement des \textit{Activités humaines}
-	\item ensuite, la récupération des entités étant des sous-classes (propriété P279) de Q61788060 a lieu;
-	\item ce n'est qu'à partir de ce niveau de hiérarchie que la récupération des entités liées à ces entités sous-classes d'\textit{Activités humaines} peut avoir lieu: pour chacune de ces entités récupérées dans la seconde étape, une requête \ac{sparql} est effectuée pour obtenir les identifiants et les libellés des entités liées.
-	Ainsi, pour obtenir les entités liées à l'entité \textit{Profession} (Q28640)\footnote{Profession (Q28640): \url{https://www.wikidata.org/wiki/Q28640}}, la requête est la suivante:
+	\item d'abord, il faut récupérer, par la propriété P31, des entités dépendant directement des \textit{Activités humaines}
+	\item ensuite a lieu la récupération des entités étant des sous-classes (propriété P279) de Q61788060;
+	\item ce n'est qu'à partir de ce niveau de hiérarchie que la récupération des entités liées à ces entités sous-classes d'\textit{Activités humaines} peut se faire: pour chacune de ces entités obtenues lors de la seconde étape, une requête \ac{sparql} est effectuée pour obtenir les identifiants et les libellés des entités liées.
+	Ainsi, pour accéder aux entités liées à l'entité \textit{Profession} (Q28640)\footnote{Profession (Q28640): \url{https://www.wikidata.org/wiki/Q28640}}, la requête est la suivante:
 	\begin{minted}{sparql}
 select ?f ?fLabel ?altLabel
 where
@@ -27,24 +27,24 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "fr".}
 	\end{minted}
 \end{itemize}
 \medskip
-Le modèle de données de Wikidata étant sous la forme d'un graphe, les relations entre les entités sont multiples et très nombreuses. Pour saisir le maximum de fonctions et de métiers, il est donc nécessaire de trouver l'entité la plus haute dans la hiérarchie, celle qui comporte le moins de liens entrants, qui est ici Q61788060 pour les \textit{Activités humaines}\footnote{Voir \reference{humoriste_wikidata}.}.
+Le modèle de données de Wikidata étant sous la forme d'un \index[ref]{typologie@Typologie!graphe@Graphe de nœuds et de liens}graphe, les relations entre les entités sont multiples et très nombreuses. Pour saisir le maximum de fonctions et de métiers, il est donc nécessaire de trouver l'entité la plus haute dans la hiérarchie, celle qui comporte le moins de liens entrants, qui est ici \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Q61788060 pour les \textit{Activités humaines}\footnote{Voir \reference{humoriste_wikidata}.}.
 
 \input{images/humoriste_wikidata.tex}
 
 %les normaliser ainsi que ina
-Cependant, de même que dans la \reference{II-C-2}, les jeux de données n'ont pas les mêmes règles concernant les graphies des noms. Alors, l'application de règles identiques doit être faite pour chaque jeu de données, celui de l'\ac{ina}, et celui des entités extraites de Wikidata: suppression des majuscules, de la ponctuation et de l'accentuation, transformation des féminins en masculins, et des pluriels en singuliers. Cette normalisation identique pour chaque jeu de données permet un rapprochement des deux graphies, et une amélioration de l'alignement qui est réalisé ensuite entre la fonction de la note qualité et le libellé de l'entité Wikidata.
+Cependant, comme dans la \reference{II-C-2}, les jeux de données n'ont pas les mêmes règles concernant les graphies des noms. Alors, l'application de règles identiques doit être faite pour chaque jeu de données, celui de l'\ac{ina} et celui des entités extraites de Wikidata: suppression des majuscules, de la ponctuation et de l'accentuation, transformation des féminins en masculins, et des pluriels en singuliers. Cette normalisation identique pour chaque jeu de données permet un rapprochement des deux graphies, et une amélioration de l'alignement qui est réalisé ensuite entre la fonction de la note qualité et le libellé de l'entité \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata.
 
 \subsection{\label{II-C-3-b}Utiliser la hiérarchie de Wikidata pour aligner les personnes}
 \titreEntete{Utiliser la hiérarchie de Wikidata}
 
-L'alignement de la fonction avec son entité équivalente de Wikidata a permis de créer le point de comparaison utile à l'alignement des personnes. En effet, chaque entité de type \textit{Humain} de Wikidata peut avoir une propriété \textit{Occupation} (P106)\footnote{Occupation (P106): \url{https://www.wikidata.org/wiki/Property:P106}}. Cette propriété peut accepter plusieurs valeurs qui sont obligatoirement des entités Wikidata et le plus souvent des entités instances ou sous-instances de \textit{Activités humaines}. Ainsi, la comparaison entre la personne de l'\ac{ina} et celle de Wikidata peut s'effectuer grâce à cette propriété.\\
+L'alignement de la fonction avec son entité équivalente de \index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata}Wikidata a permis de créer le point de comparaison utile à l'alignement des personnes. En effet, chaque entité de type \textit{Humain} de Wikidata peut avoir une propriété \textit{Occupation} (P106)\footnote{Occupation (P106): \url{https://www.wikidata.org/wiki/Property:P106}}. Cette propriété peut accepter plusieurs valeurs qui sont obligatoirement des entités Wikidata et le plus souvent des entités instances ou sous-instances de \textit{Activités humaines}. Ainsi, la comparaison entre la personne de l'\ac{ina} et celle de Wikidata peut s'effectuer grâce à cette propriété.\\
 
-Cependant, il est fréquent de trouver des entités avec des valeurs de P106 n'étant pas celle de la fonction de la note qualité. Cela est dû à plusieurs facteurs:
+Cependant, il est fréquent de trouver des entités avec des valeurs de P106 n'étant pas celles de la fonction de la note qualité. Cela est dû à plusieurs facteurs:
 \begin{itemize}
 	\item la valeur entrée dans Wikidata est trop spécifique: par exemple, la valeur peut être \textit{Chanteur pop}, alors qu'il est simplement indiqué \textit{Chanteur} à l'\ac{ina} et que c'est cette entité \textit{Chanteur} qui a été aligné précédemment
 	\item au contraire, la valeur de Wikidata peut être plus générique que celle de l'\ac{ina}
 \end{itemize}
-De manière à pouvoir aligner l'entité et la personne qui correspondent, malgré cette différence de hiérarchie de la fonction dans Wikidata, il est nécessaire d'utiliser la classe dont est issue la valeur de P106, ainsi que les sous-classes de cette même valeur. Cette méthode permet de générer plus de possibilités de comparaison, sans créer de généralisation trop forte au niveau supérieur qui induirait des erreurs d'alignements. Pour le cas d'\textit{Humoriste}, la personne de l'\ac{ina} sera comparée depuis sa fonction avec:
+Malgré cette différence de hiérarchie de la fonction dans Wikidata et de manière à pouvoir aligner l'entité et la personne correspondante, il est nécessaire d'utiliser la classe dont est issue la valeur de P106, ainsi que les sous-classes de cette même valeur. Cette méthode permet de générer plus de possibilités de comparaison, sans créer de généralisation trop forte au niveau supérieur qui induirait alors des erreurs d'alignements. Pour le cas d'\textit{Humoriste}, la personne de l'\ac{ina} sera comparée depuis sa fonction avec:
 \begin{itemize}
 	\item \textit{Humoriste} (Q12406482)
 	\item les entités dont il est l'instance:
@@ -67,4 +67,4 @@ De manière à pouvoir aligner l'entité et la personne qui correspondent, malgr
 \bigskip
 Avec du texte libre, un alignement devient plus compliqué: d'une part, la graphie diffère selon les jeux de données et le langage naturel utilisé; d'autre part, le niveau de précision de la description est variable --- ici le niveau de précision de la fonction d'une personne. Le périmètre de l'alignement devient plus large au risque d'introduire des erreurs d'alignement. \\
 
-Au terme de l'alignement réalisé à partir des données contrôlées, puis de celui effectué à partir des notes qualités, toutes les personnes qui ont une entité Wikidata n'ont pas pu être alignées. Un dernier alignement sur le seul état civil aurait pu être envisagé, mais il aurait certainement causé beaucoup d'erreurs en raison des homonymes.
+Au terme de l'alignement réalisé à partir des données contrôlées, puis de celui effectué à partir des notes qualités, toutes les personnes qui ont une entité\index[ref]{lod@Linked Open Data (LOD)!wikidata@Wikidata} Wikidata n'ont pas pu être alignées. Un dernier alignement sur le seul état civil aurait pu être envisagé, mais il aurait certainement causé beaucoup d'erreurs en raison des homonymes.

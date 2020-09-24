@@ -1564,7 +1564,7 @@
       \verb{file}
       \verb Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:/home/maxime/Zotero/storage/INE5DGZL/Eco - 2010 - De l'arbre au labyrinthe [études historiques su.pdf:application/pdf
       \endverb
-      \keyw{blod,graphe,Interprétation (philosophie),Sémantique (philosophie),Sémiotique}
+      \keyw{Interprétation (philosophie),Sémantique (philosophie),Sémiotique,graphe,blod}
     \endentry
     \entry{estienne_thesaurus_1573}{mvbook}{}
       \name{author}{1}{}{%
@@ -1616,7 +1616,6 @@
       \field{langid}{english}
       \field{shorttitle}{{EHRI}}
       \field{title}{European Holocaust Research Infrastructure}
-      \field{type}{Text}
       \field{urlday}{16}
       \field{urlmonth}{9}
       \field{urlyear}{2020}
@@ -2291,6 +2290,7 @@
       \field{sortinit}{I}
       \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
       \field{labeltitlesource}{shorttitle}
+      \field{langid}{english}
       \field{shorttitle}{{IMDb}}
       \field{title}{International Movie Database}
       \field{urlday}{16}
