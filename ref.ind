@@ -11,7 +11,7 @@
     \subitem RAMEAU, \hyperpage{7--9}, \hyperpage{11}, 
 		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}, 
 		\hyperpage{97}
-    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}
+    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}, \hyperpage{121}
 
   \indexspace
 
@@ -23,12 +23,12 @@
       \subsubitem EAD, \hyperpage{13}
       \subsubitem JSON, \hyperpage{71, 72}, \hyperpage{83}
       \subsubitem MARC, \hyperpage{12, 13}, \hyperpage{51}, 
-		\hyperpage{54}
+		\hyperpage{54}, \hyperpage{107}
       \subsubitem RDA, \hyperpage{54}, \hyperpage{68}
       \subsubitem RDF, \hyperpage{46, 47}, \hyperpage{49}, 
 		\hyperpage{52--54}, \hyperpage{63--65}, 
 		\hyperpage{67, 68}, \hyperpage{70, 71}, \hyperpage{83}, 
-		\hyperpage{96}, \hyperpage{98}
+		\hyperpage{96}, \hyperpage{98}, \hyperpage{121}
       \subsubitem XML, \hyperpage{72}, \hyperpage{83}
     \subitem Protocoles
       \subsubitem HTTP, \hyperpage{46, 47}, \hyperpage{71, 72}
@@ -40,12 +40,14 @@
 
   \indexspace
 
-  \item Linked Enterprise Data (LED)
+  \item Linked Enterprise Data (LED), \hyperpage{106--108}
     \subitem Lac de données (INA), \hyperpage{x, xi}, \hyperpage{36}, 
-		\hyperpage{53}
-  \item Linked Open Data (LOD), \hyperpage{49}
+		\hyperpage{53}, \hyperpage{106}, \hyperpage{109--113}, 
+		\hyperpage{115--121}, \hyperpage{124--126}
+  \item Linked Open Data (LOD), \hyperpage{49}, \hyperpage{119}, 
+		\hyperpage{121}
     \subitem data.bnf.fr, \hyperpage{49}
-    \subitem DBpédia, \hyperpage{49}, \hyperpage{98}
+    \subitem DBpédia, \hyperpage{49}, \hyperpage{98}, \hyperpage{119}
     \subitem IDREF, \hyperpage{97, 98}
     \subitem LCSH, \hyperpage{7--9}, \hyperpage{11}, \hyperpage{49, 50}, 
 		\hyperpage{54}, \hyperpage{64}, \hyperpage{97}
@@ -54,10 +56,10 @@
 		\hyperpage{23, 24}, \hyperpage{49, 50}, \hyperpage{54}, 
 		\hyperpage{97}
     \subitem USDA, \hyperpage{50}
-    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}
+    \subitem VIAF, \hyperpage{50, 51}, \hyperpage{97}, \hyperpage{121}
     \subitem Wikidata, \hyperpage{70--72}, \hyperpage{74--84}, 
 		\hyperpage{93}, \hyperpage{95, 96}, \hyperpage{98, 99}, 
-		\hyperpage{102, 103}
+		\hyperpage{102, 103}, \hyperpage{108}
     \subitem YSO, \hyperpage{50}
 
   \indexspace
@@ -65,12 +67,14 @@
   \item Modélisation
     \subitem bibo, \hyperpage{67}
     \subitem CIDOC-CRM, \hyperpage{52, 53}, \hyperpage{59}, 
-		\hyperpage{67}
+		\hyperpage{67}, \hyperpage{110}
     \subitem FRAD, \hyperpage{53}
-    \subitem FRBR, \hyperpage{53, 54}, \hyperpage{60}, \hyperpage{67}
+    \subitem FRBR, \hyperpage{53, 54}, \hyperpage{60}, \hyperpage{67}, 
+		\hyperpage{110}
     \subitem FRSAD, \hyperpage{53}
     \subitem Lac de données (INA), \hyperpage{x, xi}, \hyperpage{36}, 
-		\hyperpage{53}
+		\hyperpage{53}, \hyperpage{106}, \hyperpage{109--113}, 
+		\hyperpage{115--121}, \hyperpage{124--126}
 
   \indexspace
 
@@ -82,7 +86,7 @@
     \subitem FOAF, \hyperpage{20}, \hyperpage{66, 67}
     \subitem FRBR, \hyperpage{60}, \hyperpage{67}
     \subitem OWL, \hyperpage{65, 66}, \hyperpage{68}
-    \subitem Portails, \hyperpage{12, 13}
+    \subitem Portails, \hyperpage{12, 13}, \hyperpage{106}
     \subitem RDA, \hyperpage{68}
     \subitem RDFS, \hyperpage{59}, \hyperpage{63}, \hyperpage{65, 66}, 
 		\hyperpage{68}, \hyperpage{71}

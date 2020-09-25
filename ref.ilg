@@ -1,6 +1,6 @@
 This is makeindex, version 2.15 [TeX Live 2017] (kpathsea + Thai support).
-Scanning input file ref.idx....done (306 entries accepted, 0 rejected).
-Sorting entries.....done (2752 comparisons).
-Generating output file ref.ind....done (111 lines written, 0 warnings).
+Scanning input file ref.idx....done (377 entries accepted, 0 rejected).
+Sorting entries......done (3350 comparisons).
+Generating output file ref.ind....done (115 lines written, 0 warnings).
 Output written in ref.ind.
 Transcript written in ref.ilg.

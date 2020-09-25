@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  24 SEP 2020 10:58
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  25 SEP 2020 09:59
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -5158,13 +5158,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-\openout5 = `main.mw'.
 
-[107] (./main.mw)
-\openout5 = `main.mw'.
+Underfull \vbox (badness 5787) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
+ [107]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5177,27 +5177,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
  []
 
 ) (./parties/mainmatter/III/B/III-B-2.tex
+\openout5 = `main.mw'.
+
+ [108] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-\openout5 = `main.mw'.
-
-[108] (./main.mw)
-\openout5 = `main.mw'.
-
-
-*************************************************
-* acro warning: "no-alternative"
-* 
-* There is no alternative form for acronym `ina'!
-* 
-* I am using the short form instead.
-*************************************************
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
+
+
+Underfull \vbox (badness 3417) has occurred while \output is active []
 
 
 Overfull \hbox (256.9149pt too wide) has occurred while \output is active
@@ -5224,29 +5224,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-(./images/schema_ldd_1.tex)
+(./images/schema_ldd_1.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 \openout5 = `main.mw'.
 
  [110] (./main.mw)
 \openout5 = `main.mw'.
 
- (./images/schema_concept_1.tex)
-(./images/schema_concept_2.tex
-Overfull \hbox (28.45253pt too wide) in paragraph at lines 54--55
- [][] 
- []
+\openout5 = `main.mw'.
 
-)
+\openout5 = `main.mw'.
+
+ (./images/schema_concept_1.tex)
 \openout5 = `main.mw'.
 
  [111] (./main.mw)
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
+(./images/schema_concept_2.tex
+Overfull \hbox (28.45253pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
 
- (./images/schema_concept_3.tex
+) (./images/schema_concept_3.tex
 Overfull \hbox (34.14299pt too wide) in paragraph at lines 77--78
  [][] 
  []
@@ -5281,7 +5285,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
@@ -5326,9 +5330,6 @@ File: images/diginpix_resultat.jpg Graphic file (type bmp)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
@@ -5395,11 +5396,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
-
 \openout5 = `main.mw'.
 
 [119] (./main.mw)
@@ -5408,6 +5404,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
 
 File: images/inafr_ecole_fans.png Graphic file (type bmp)
 <images/inafr_ecole_fans.png>
@@ -5430,11 +5431,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--66
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 [120] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 )) (./parties/mainmatter/III/C/III-C.tex
@@ -5453,12 +5454,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--66
 
 
 Chapitre 9.
-
-LaTeX Warning: Reference `II-C--3' on page 123 undefined on input line 5.
-
-
-LaTeX Warning: Reference `II-C--3' on page 123 undefined on input line 5.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
@@ -5765,103 +5760,6 @@ File: images/index_rerum_alsatia.jpg Graphic file (type bmp)
 
 
 Annexe B.
-File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
-<images/interop_conversion_copie.jpeg>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 30.
-
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 30.
-
-
-File: images/interop_denom_commun.jpeg Graphic file (type bmp)
-<images/interop_denom_commun.jpeg>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 38.
-
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 38.
-
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/interop_hub_spoke.jpeg Graphic file (type bmp)
-<images/interop_hub_spoke.jpeg>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 46.
-
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 46.
-
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/interop_follow_nose.jpeg Graphic file (type bmp)
-<images/interop_follow_nose.jpeg>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 54.
-
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 143 undefined on input line 54.
-
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-\openout5 = `main.mw'.
-
-[143] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [144] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Annexe C.
 File: images/type_donnees_axel.png Graphic file (type bmp)
 <images/type_donnees_axel.png>
 \openout5 = `main.mw'.
@@ -5874,9 +5772,35 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-[145
+[143] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [144
 
 ] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Annexe C.
+File: images/bases_ddcol.png Graphic file (type bmp)
+<images/bases_ddcol.png>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+[145] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5892,16 +5816,8 @@ File: images/type_donnees_axel.png Graphic file (type bmp)
 
 
 Annexe D.
-File: images/bases_ddcol.png Graphic file (type bmp)
-<images/bases_ddcol.png>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
+File: images/cadreur_hierarchie.png Graphic file (type bmp)
+<images/cadreur_hierarchie.png>
 \openout5 = `main.mw'.
 
 [147] (./main.mw)
@@ -5920,8 +5836,6 @@ File: images/bases_ddcol.png Graphic file (type bmp)
 
 
 Annexe E.
-File: images/cadreur_hierarchie.png Graphic file (type bmp)
-<images/cadreur_hierarchie.png>
 \openout5 = `main.mw'.
 
 [149] (./main.mw)
@@ -5940,6 +5854,13 @@ File: images/cadreur_hierarchie.png Graphic file (type bmp)
 
 
 Annexe F.
+File: images/dl_radio.png Graphic file (type bmp)
+<images/dl_radio.png>
+File: images/dl_tv.png Graphic file (type bmp)
+<images/dl_tv.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 \openout5 = `main.mw'.
 
 [151] (./main.mw)
@@ -5951,23 +5872,23 @@ Annexe F.
 
 \openout5 = `main.mw'.
 
- [152
-
-] (./main.mw)
+ [152] (./main.mw)
 \openout5 = `main.mw'.
 
 
 Annexe G.
-File: images/dl_radio.png Graphic file (type bmp)
-<images/dl_radio.png>
-File: images/dl_tv.png Graphic file (type bmp)
-<images/dl_tv.png>
+File: images/enrichissement_dl.jpg Graphic file (type bmp)
+<images/enrichissement_dl.jpg>
+(./images/sheldon.tex
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
 
+)
 \openout5 = `main.mw'.
 
-[153] (./main.mw)
+ [153
+
+] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5981,62 +5902,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Annexe H.
-File: images/enrichissement_dl.jpg Graphic file (type bmp)
-<images/enrichissement_dl.jpg>
-(./images/sheldon.tex
-
-LaTeX Warning: Float too large for page by 47.7286pt on input line 20.
-
-)
-\openout5 = `main.mw'.
-
- [155
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [156] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Annexe I.
-File: images/lod-cloud-sm.jpg Graphic file (type bmp)
-<images/lod-cloud-sm.jpg>
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-\openout5 = `main.mw'.
-
-[157
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [158] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Annexe J.
 File: images/frbr_slide.png Graphic file (type bmp)
 <images/frbr_slide.png>
 \openout5 = `main.mw'.
@@ -6067,9 +5932,136 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
-[159
+[155
 
 ] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [156] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Annexe I.
+File: images/infrastructure_unique.png Graphic file (type bmp)
+<images/infrastructure_unique.png>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+[157
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [158
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Annexe J.
+File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
+<images/interop_conversion_copie.jpeg>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 137
+.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 137
+.
+
+File: images/interop_denom_commun.jpeg Graphic file (type bmp)
+<images/interop_denom_commun.jpeg>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 145
+.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 145
+.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/interop_hub_spoke.jpeg Graphic file (type bmp)
+<images/interop_hub_spoke.jpeg>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 153
+.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 153
+.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/interop_follow_nose.jpeg Graphic file (type bmp)
+<images/interop_follow_nose.jpeg>
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 161
+.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+
+LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 161
+.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout5 = `main.mw'.
+
+[159] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6083,8 +6075,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Annexe K.
-File: images/infrastructure_unique.png Graphic file (type bmp)
-<images/infrastructure_unique.png>
+File: images/lod-cloud-sm.jpg Graphic file (type bmp)
+<images/lod-cloud-sm.jpg>
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6092,6 +6084,9 @@ File: images/infrastructure_unique.png Graphic file (type bmp)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
@@ -6106,41 +6101,11 @@ File: images/infrastructure_unique.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
- [162
-
-] (./main.mw)
+ [162] (./main.mw)
 \openout5 = `main.mw'.
 
 
 Annexe L.
-File: images/onto_crm.png Graphic file (type bmp)
-<images/onto_crm.png>
-File: images/onto_frbr.png Graphic file (type bmp)
-<images/onto_frbr.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/onto_c4o.png Graphic file (type bmp)
-<images/onto_c4o.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-\openout5 = `main.mw'.
-
-[163] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [164] (./main.mw)
-\openout5 = `main.mw'.
-
-
-Annexe M.
 File: images/laby_knossos.png Graphic file (type bmp)
 <images/laby_knossos.png>
 \openout5 = `main.mw'.
@@ -6171,6 +6136,36 @@ File: images/laby_reseau.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout5 = `main.mw'.
+
+[163
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [164] (./main.mw)
+\openout5 = `main.mw'.
+
+
+Annexe M.
+File: images/onto_crm.png Graphic file (type bmp)
+<images/onto_crm.png>
+File: images/onto_frbr.png Graphic file (type bmp)
+<images/onto_frbr.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: images/onto_c4o.png Graphic file (type bmp)
+<images/onto_c4o.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -8489,10 +8484,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
 
  ) 
 Here is how much of TeX's memory you used:
- 49408 strings out of 493007
- 1010090 string characters out of 6136719
- 1792280 words of memory out of 5000000
- 52061 multiletter control sequences out of 15000+600000
+ 49406 strings out of 493007
+ 1010052 string characters out of 6136719
+ 1792250 words of memory out of 5000000
+ 52060 multiletter control sequences out of 15000+600000
  533616 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,11n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
