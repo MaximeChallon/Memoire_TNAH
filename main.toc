@@ -47,7 +47,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.2.3}Utiliser la précoordination pour les relations complexes}{24}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualité et un thésaurus de noms communs}{24}{section.2.3}
+\contentsline {section}{\numberline {2.3}Passer du texte libre à un vocabulaire contrôlé: aligner des notes qualités et un thésaurus de noms communs}{24}{section.2.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.3.1}Contrôler du texte libre}{25}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax
@@ -171,7 +171,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {7.2.3}Les hubs de liens et d'identifiants réceptacles de données}{98}{subsection.7.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.3}Wikidata comme hub de liens: aligner les fictions et les séries de l'INA avec Wikidata}{99}{section.7.3}
+\contentsline {section}{\numberline {7.3}Wikidata comme hub de liens}{99}{section.7.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {7.3.1}Enrichir ses données avec des identifiants plutôt qu'avec des textes}{99}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax
@@ -189,7 +189,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {8.1.3}Le positionnement du référentiel}{108}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.2}Le \textit {Lac de données~}de l'INA: un repositionnement du référentiel au centre du modèle de données}{109}{section.8.2}
+\contentsline {section}{\numberline {8.2}Le \textit {Lac de données} de l'INA}{109}{section.8.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {8.2.1}Le \textit {Lac de données~}, un modèle basé sur des classes d'entités}{109}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax
@@ -251,18 +251,18 @@
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {J}Les différents types d'interopérabilité}{159}{appendix.J}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {K}La constellation du Linked Open Data}{161}{appendix.K}
+\contentsline {chapter}{\numberline {K}La constellation du Linked Open Data}{163}{appendix.K}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {L}Labyrinthes}{163}{appendix.L}
+\contentsline {chapter}{\numberline {L}Labyrinthes}{165}{appendix.L}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {M}Ontologies de haut et de bas niveaux}{165}{appendix.M}
+\contentsline {chapter}{\numberline {M}Ontologies de haut et de bas niveaux}{167}{appendix.M}
 \defcounter {refsection}{0}\relax
-\contentsline {part}{Bibliographies sélectives}{169}{part*.79}
+\contentsline {part}{Bibliographies sélectives}{171}{part*.79}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Index des noms et des types de référentiels}{175}{section*.84}
+\contentsline {chapter}{Index des noms et des types de référentiels}{177}{section*.84}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des figures}{177}{appendix*.85}
+\contentsline {chapter}{Table des figures}{179}{appendix*.85}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Liste des tableaux}{181}{appendix*.86}
+\contentsline {chapter}{Liste des tableaux}{183}{appendix*.86}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{Table des matières}{183}{appendix*.87}
+\contentsline {chapter}{Table des matières}{185}{appendix*.87}

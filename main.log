@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  25 SEP 2020 09:59
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.11.4)  28 SEP 2020 11:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -3028,6 +3028,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--55
 \openout5 = `main.mw'.
 
 
+Underfull \hbox (badness 1540) in paragraph at lines 55--55
+[]|\TU/lmr/m/n/12 Le modèle du thésaurus polyhiérarchique [Source : d’après []\
+TU/lmr/m/sc/12 Rosenfeld []\TU/lmr/m/n/12 (Louis),
+ []
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
@@ -3125,6 +3131,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
 \openout5 = `main.mw'.
 
 [25] (./main.mw)
@@ -3133,11 +3144,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
@@ -3176,7 +3182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
  []
 
 
-Underfull \vbox (badness 4805) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -4162,24 +4168,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-
-Overfull \hbox (241.59193pt too wide) in paragraph at lines 22--23
-\TU/lmr/m/n/12 <http ://www.w3.org/2002/07/owl#equivalentClass> (owl :equivalen
-tClass), <http ://www.w3.org/2002/07/owl#equivalentProperty>
- []
-
-
-Overfull \hbox (6.14394pt too wide) in paragraph at lines 22--23
-\TU/lmr/m/n/12 (owl :equivalentProperty) et <http ://www.w3.org/2002/07/owl#sam
-eAs> (owl :sameAs). 
- []
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
@@ -4188,7 +4182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 \openout5 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
@@ -4216,6 +4210,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
 File: images/mdd_bnf.PNG Graphic file (type bmp)
 <images/mdd_bnf.PNG>
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
+
 ) (./parties/mainmatter/II/C/II-C.tex
 \openout5 = `main.mw'.
 
@@ -4818,14 +4817,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 \openout5 = `main.mw'.
 
 ) (./parties/mainmatter/III/A/III-A-2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
 \openout5 = `main.mw'.
+
 
 [94] (./main.mw)
 \openout5 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
@@ -4902,11 +4903,11 @@ File: images/idref.png Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
  [97] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 
@@ -4924,17 +4925,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
+\openout5 = `main.mw'.
+
+[98] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 ) (./parties/mainmatter/III/A/III-A-3.tex
-\openout5 = `main.mw'.
-
- [98] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -4947,12 +4947,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
- []
-
-
-Overfull \hbox (169.25108pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/12 7.3.  WIKIDATA COMME HUB DE LIENS : ALIGNER LES FICTIONS ET LES
- SÉRIES DE L’INA AVEC WIKIDATA \TU/lmr/m/n/12 99
  []
 
 \openout5 = `main.mw'.
@@ -5007,6 +5001,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 Underfull \hbox (badness 10000) in paragraph at lines 23--39
 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
@@ -5087,12 +5084,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
+\openout5 = `main.mw'.
+
+[103] (./main.mw)
+\openout5 = `main.mw'.
+
 ) (./parties/mainmatter/III/B/III-B.tex
-\openout5 = `main.mw'.
-
- [103] (./main.mw)
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
  [104] (./main.mw)
@@ -5159,7 +5156,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
  []
 
 
-Underfull \vbox (badness 5787) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout5 = `main.mw'.
 
@@ -5196,16 +5193,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-
-Underfull \vbox (badness 3417) has occurred while \output is active []
-
-
-Overfull \hbox (256.9149pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/12 8.2.  LE \TU/lmr/m/it/12 LAC DE DONNÉES \TU/lmr/m/sl/12 DE L’IN
-A : UN REPOSITIONNEMENT DU RÉFÉRENTIEL AU CENTRE DU MODÈLE DE DONNÉES \TU/lmr/m
-/n/12 109
- []
-
 \openout5 = `main.mw'.
 
 [109] (./main.mw)
@@ -5239,18 +5226,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 \openout5 = `main.mw'.
 
  (./images/schema_concept_1.tex)
-\openout5 = `main.mw'.
-
- [111] (./main.mw)
-\openout5 = `main.mw'.
-
-
 (./images/schema_concept_2.tex
 Overfull \hbox (28.45253pt too wide) in paragraph at lines 54--55
  [][] 
  []
 
-) (./images/schema_concept_3.tex
+)
+\openout5 = `main.mw'.
+
+ [111] (./main.mw)
+\openout5 = `main.mw'.
+
+ (./images/schema_concept_3.tex
 Overfull \hbox (34.14299pt too wide) in paragraph at lines 77--78
  [][] 
  []
@@ -5274,9 +5261,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
 \openout5 = `main.mw'.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 \openout5 = `main.mw'.
 
- [113] (./main.mw)
+ [113]
+(./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -5396,6 +5387,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
 \openout5 = `main.mw'.
 
 [119] (./main.mw)
@@ -5404,11 +5400,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
 
 File: images/inafr_ecole_fans.png Graphic file (type bmp)
 <images/inafr_ecole_fans.png>
@@ -5431,11 +5422,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--66
 
 \openout5 = `main.mw'.
 
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 [120] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
 \openout5 = `main.mw'.
 
 )) (./parties/mainmatter/III/C/III-C.tex
@@ -5984,17 +5975,9 @@ File: images/interop_conversion_copie.jpeg Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 137
-.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 137
-.
 
 File: images/interop_denom_commun.jpeg Graphic file (type bmp)
 <images/interop_denom_commun.jpeg>
@@ -6002,17 +5985,9 @@ File: images/interop_denom_commun.jpeg Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 145
-.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 145
-.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -6023,17 +5998,9 @@ File: images/interop_hub_spoke.jpeg Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 153
-.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 153
-.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -6044,17 +6011,9 @@ File: images/interop_follow_nose.jpeg Graphic file (type bmp)
 
 \openout5 = `main.mw'.
 
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 161
-.
-
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
-
-
-LaTeX Warning: Citation 'bermes_2_2013' on page 159 undefined on input line 161
-.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -6071,6 +6030,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 \openout5 = `main.mw'.
 
  [160] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [161] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [162
+
+] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6090,9 +6061,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
-[161
-
-] (./main.mw)
+[163] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6101,7 +6070,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
- [162] (./main.mw)
+ [164] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6141,7 +6110,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
-[163
+[165
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -6152,7 +6121,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout5 = `main.mw'.
 
- [164] (./main.mw)
+ [166] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6172,32 +6141,32 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 \openout5 = `main.mw'.
 
- [165
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [166] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
  [167
 
-
-
 ] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
  [168] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [169
+
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [170] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6209,7 +6178,7 @@ terogeneous
 
 \openout5 = `main.mw'.
 
-[169] (./main.mw)
+[171] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6218,7 +6187,7 @@ terogeneous
 
 \openout5 = `main.mw'.
 
- [170] (./main.mw)
+ [172] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6244,12 +6213,12 @@ Overfull \hbox (1.64777pt too wide) in paragraph at lines 213--213
 
 \openout5 = `main.mw'.
 
-[171] (./main.mw)
+[173] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [172] (./main.mw)
+ [174] (./main.mw)
 \openout5 = `main.mw'.
 
 
@@ -6267,38 +6236,17 @@ ires et de bibliothèques[]\TU/lmr/m/n/12 ,
 
 \openout5 = `main.mw'.
 
-[173] (./main.mw)
+[175] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
- [174] (./main.mw)
+ [176] (./main.mw)
 \openout5 = `main.mw'.
 
 runsystem(makeindex ref.idx)...executed.
 
  (./ref.ind
-\openout5 = `main.mw'.
-
- [175
-
-
-] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [176
-
-]
-(./main.mw)
-\openout5 = `main.mw'.
-
-) (./main.lof
 \openout5 = `main.mw'.
 
  [177
@@ -6313,7 +6261,28 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
- [178] (./main.mw)
+ [178
+
+]
+(./main.mw)
+\openout5 = `main.mw'.
+
+) (./main.lof
+\openout5 = `main.mw'.
+
+ [179
+
+
+] (./main.mw)
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+\openout5 = `main.mw'.
+
+ [180] (./main.mw)
 \openout5 = `main.mw'.
 
 )
@@ -6322,12 +6291,12 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
- [179] (./main.mw)
+ [181] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-[180
+[182
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -6338,7 +6307,7 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
- [181] (./main.mw)
+ [183] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6347,7 +6316,7 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
- [182
+ [184
 
 ] (./main.mw)
 \openout5 = `main.mw'.
@@ -6356,21 +6325,11 @@ runsystem(makeindex ref.idx)...executed.
 \openout5 = `main.mw'.
 
 
-[183] (./main.mw)
+[185] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
 
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [184] (./main.mw)
-\openout5 = `main.mw'.
-
-\openout5 = `main.mw'.
-
- [185] (./main.mw)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6380,8 +6339,12 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
+ [187] (./main.mw)
+\openout5 = `main.mw'.
 
-[187] (./main.mw)
+\openout5 = `main.mw'.
+
+ [188] (./main.mw)
 \openout5 = `main.mw'.
 
 )
@@ -6390,13 +6353,13 @@ runsystem(makeindex ref.idx)...executed.
 
 \openout5 = `main.mw'.
 
- [188] (./main.mw)
+
+[189] (./main.mw)
 \openout5 = `main.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
- (./main.aux
-(./parties/frontmatter/page_titre.aux)
+ (./main.aux (./parties/frontmatter/page_titre.aux)
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6421,7 +6384,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
 
 \openout5 = `main.mw'.
 
- (./parties/frontmatter/resume.aux
+
+(./parties/frontmatter/resume.aux
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -6430,8 +6394,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
 
 \openout5 = `main.mw'.
 
-)
-(./parties/frontmatter/remerciements.aux
+) (./parties/frontmatter/remerciements.aux
 \openout5 = `main.mw'.
 
 \openout5 = `main.mw'.
@@ -8454,15 +8417,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 232.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 runsystem(rm main.pyg)...executed.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 \openout5 = `main.mw'.
 
@@ -8484,12 +8439,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
 
  ) 
 Here is how much of TeX's memory you used:
- 49406 strings out of 493007
- 1010052 string characters out of 6136719
- 1792250 words of memory out of 5000000
+ 49408 strings out of 493007
+ 1010068 string characters out of 6136719
+ 1790814 words of memory out of 5000000
  52060 multiletter control sequences out of 15000+600000
  533616 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,11n,92p,10387b,5025s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (200 pages).
+Output written on main.pdf (201 pages).

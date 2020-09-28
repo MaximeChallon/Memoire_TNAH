@@ -213,7 +213,7 @@
 \indexentry{modelisation@Modélisation!frbr@FRBR|hyperpage}{67}
 \indexentry{relier@Relier!frbr@FRBR|hyperpage}{67}
 \indexentry{echanges@Échanges!formats@Formats!rdf@RDF|hyperpage}{67}
-\indexentry{relier@Relier!foaf@FOAF|hyperpage}{67}
+\indexentry{relier@Relier!foaf@FOAF|hyperpage}{68}
 \indexentry{echanges@Échanges!formats@Formats!rdf@RDF|hyperpage}{68}
 \indexentry{relier@Relier!rdfs@RDFS|hyperpage}{68}
 \indexentry{relier@Relier!skos@SKOS|hyperpage}{68}
@@ -276,7 +276,7 @@
 \indexentry{typologie@Typologie!index@Index|hyperpage}{92}
 \indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{93}
 \indexentry{typologie@Typologie!graphe@Graphe de nœuds et de liens|hyperpage}{94}
-\indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{95}
+\indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{96}
 \indexentry{relier@Relier!schema@schema.org|hyperpage}{96}
 \indexentry{echanges@Échanges!formats@Formats!rdf@RDF|hyperpage}{96}
 \indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{96}
@@ -296,8 +296,8 @@
 \indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{98}
 \indexentry{lod@Linked Open Data (LOD)!idref@IDREF|hyperpage}{98}
 \indexentry{autorites@Autorités!idref@IDREF|hyperpage}{98}
-\indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{98}
 \indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{99}
+\indexentry{lod@Linked Open Data (LOD)!wikidata@Wikidata|hyperpage}{100}
 \indexentry{echanges@Échanges!protocoles@Protocoles!sparql@SPARQL|hyperpage}{100}
 \indexentry{relier@Relier!wikibase@Wikibase|hyperpage}{100}
 \indexentry{echanges@Échanges!protocoles@Protocoles!sparql@SPARQL|hyperpage}{101}
@@ -322,7 +322,7 @@
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{109}
 \indexentry{led@Linked Enterprise Data (LED)!ldd@Lac de données (INA)|hyperpage}{109}
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{109}
-\indexentry{modelisation@Modélisation!frbr@FRBR|hyperpage}{110}
+\indexentry{modelisation@Modélisation!frbr@FRBR|hyperpage}{109}
 \indexentry{modelisation@Modélisation!cidoc@CIDOC-CRM|hyperpage}{110}
 \indexentry{led@Linked Enterprise Data (LED)!ldd@Lac de données (INA)|hyperpage}{110}
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{110}
@@ -359,9 +359,9 @@
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{120}
 \indexentry{led@Linked Enterprise Data (LED)!ldd@Lac de données (INA)|hyperpage}{120}
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{120}
-\indexentry{lod@Linked Open Data (LOD)|hyperpage}{121}
-\indexentry{lod@Linked Open Data (LOD)!viaf@VIAF|hyperpage}{121}
-\indexentry{autorites@Autorités!viaf@VIAF|hyperpage}{121}
+\indexentry{lod@Linked Open Data (LOD)|hyperpage}{120}
+\indexentry{lod@Linked Open Data (LOD)!viaf@VIAF|hyperpage}{120}
+\indexentry{autorites@Autorités!viaf@VIAF|hyperpage}{120}
 \indexentry{led@Linked Enterprise Data (LED)!ldd@Lac de données (INA)|hyperpage}{121}
 \indexentry{modelisation@Modélisation!ldd@Lac de données (INA)|hyperpage}{121}
 \indexentry{echanges@Échanges!formats@Formats!rdf@RDF|hyperpage}{121}
